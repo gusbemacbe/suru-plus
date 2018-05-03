@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   id="svg12"
+   sodipodi:docname="org.gnome.Cheese.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="51.875"
+     inkscape:cx="8"
+     inkscape:cy="4.9156627"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
+  <title
+     id="title2">
+  Paper Symbolic Icon Theme
+ </title>
+  <g
+     transform="translate(-40,-99.999986)"
+     id="g10">
+    <path
+       d="m 50,115.99999 5,0 c 0,0 0.335043,-1 0,-2 -0.180363,0.15698 -1.565574,1 -2.5,1 -0.934426,0 -2.139275,-0.68603 -2.5,-1 -0.312432,1.22576 0,2 0,2 z"
+       style="fill:#808080;fill-opacity:1"
+       id="path4" />
+    <path
+       d="m 41,102 v 12 c 0,2 2,2 2,2 h 5 v -1.00001 h -6 v -14 h 12 v 5 l 1,1e-5 v -4 c 0,-2.00001 -2,-2 -2,-2 H 43 c -2,0 -2,2 -2,2 z m 4,3.00391 c -0.55424,0 -1,0.44945 -1,1 0,0.55064 0.44576,1 1,1 0.55407,0 1,-0.44936 1,-1 0,-0.55055 -0.44593,-1 -1,-1 z m 6,0 c -0.55273,0 -0.99785,0.44736 -1,0.99609 h 2 c -0.002,-0.54873 -0.44719,-0.99609 -1,-0.99609 z m -5.82617,4.82617 -0.70703,0.70703 c 0.93673,0.93797 2.20759,1.4658 3.5332,1.4668 v -1 c -1.06041,-0.001 -2.07695,-0.42341 -2.82617,-1.17383 z"
+       style="fill:#808080;fill-opacity:1"
+       id="path6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccscscssssssccsccccc" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path830"
+       cx="52.522892"
+       cy="110.49397"
+       r="2.9410176" />
+  </g>
+</svg>

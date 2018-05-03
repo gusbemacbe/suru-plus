@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   id="svg7384"
+   version="1.1"
+   width="16"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="insert-pause.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1778"
+     inkscape:window-height="720"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.7288136"
+     inkscape:cy="8"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer12" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7554">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7554-7">
+      <feBlend
+         id="feBlend7556-6"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <g
+     id="layer9"
+     label="status"
+     style="display:inline"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="layer14"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-393.00034,52)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="translate(-393.00034,52)">
+    <g
+       id="g829">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#5c616c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="rect10309-7"
+         d="m 402.00034,-51.5 3.33333,0 0,10 -3.33333,0 z m -5,0 3.33333,0 0,10 -3.33333,0 z" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 398.16701,-40 3,4 3,-4 z"
+       id="path30256"
+       style="display:inline;fill:#5c616c;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

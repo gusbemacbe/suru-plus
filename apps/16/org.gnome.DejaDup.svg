@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="org.gnome.DejaDup.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1308"
+     inkscape:window-height="715"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.2372881"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer9"
+     transform="translate(-283 -215)"
+     style="fill:#808080;fill-opacity:1">
+    <path
+       id="path3708"
+       style="fill:#808080;fill-opacity:1"
+       d="m286.16 216c-1.1872 0-2.1562 0.892-2.1562 2v10c0 1.108 0.9691 2 2.1562 2h10.844s1 0 1-1v-12c0-1-1-1-1-1zm0.21875 1h10.25c0.21139 0 0.375 0.17565 0.375 0.40625v11.188c0 0.23064-0.16361 0.40625-0.375 0.40625h-10.25c-0.21137 0-0.375-0.17561-0.375-0.40625v-11.188c0-0.2306 0.16363-0.40625 0.375-0.40625zm1 1c-0.20679 0-0.34375 0.17516-0.34375 0.40625v9.1875c0 0.23108 0.13696 0.40625 0.34375 0.40625h8.25c0.20678 0 0.375-0.17517 0.375-0.40625v-9.1875c0-0.23109-0.16822-0.40625-0.375-0.40625zm4.0625 2c0.47901-0.0152 0.93858 0.10167 1.375 0.375l0.0312 0.0312c1.1645 0.74186 1.4919 2.273 0.75 3.4375-0.74186 1.1645-2.273 1.4919-3.4375 0.75-1.1645-0.74186-1.4919-2.273-0.75-3.4375 0.46114-0.72384 1.2329-1.131 2.0312-1.1562zm-0.0625 1.5c-0.2655 0.0385-0.50061 0.1932-0.65625 0.4375-0.2782 0.43668-0.15543 1.003 0.28125 1.2812s1.003 0.15543 1.2812-0.28125 0.15543-1.003-0.28125-1.2812c-0.10911-0.0683-0.22413-0.13677-0.34375-0.15625-0.0897-0.0146-0.19275-0.0128-0.28125 0z" />
+    <rect
+       id="rect15969"
+       style="fill:#808080;fill-opacity:1"
+       rx=".41625"
+       ry=".41625"
+       height="2"
+       width="2.0037"
+       y="219"
+       x="283" />
+    <rect
+       id="rect15971"
+       style="fill:#808080;fill-opacity:1"
+       rx=".41625"
+       ry=".41625"
+       height="2"
+       width="2.0037"
+       y="225"
+       x="283" />
+  </g>
+</svg>

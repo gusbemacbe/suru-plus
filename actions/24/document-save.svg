@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="document-save.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1435"
+     inkscape:window-height="749"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="23.583333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(-268,-108)"
+     id="g6"
+     style="color:#000000">
+    <path
+       d="m 278,112 v 5 h -2.156 c 0,0 2.078,5.312 4.156,8.156 2.078,-2.844 4.156,-8.156 4.156,-8.156 H 282 v -5 z m 1,1 h 2 v 5 h 1.588 c -0.47,0.998 -1.188,3.213 -2.588,5.32 -1.4,-2.107 -2.18,-4.322 -2.65,-5.32 H 279 Z"
+       overflow="visible"
+       style="overflow:visible;fill:#808080;marker:none"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 274,126 v 1 h 12 v -1 z"
+       overflow="visible"
+       style="overflow:visible;fill:#808080;marker:none"
+       id="path4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

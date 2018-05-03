@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="paint-pattern.svg"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:version="0.32"
+   id="svg8728"
+   height="16"
+   width="16"
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-art-libre/22x22/tools/draw-rectangle.png"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-ydpi="90.000000"
+   version="1.1">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient6581">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1;"
+         offset="0"
+         id="stop6583" />
+      <stop
+         style="stop-color:#e0e0de;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop6585" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-y="157"
+     inkscape:window-x="116"
+     inkscape:window-height="836"
+     inkscape:window-width="1444"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:cy="12"
+     inkscape:cx="1.8706896"
+     inkscape:zoom="34.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="false"
+     stroke="#888a85"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4240" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:date>2005-10-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>draw</rdf:li>
+            <rdf:li>rectangle</rdf:li>
+            <rdf:li>square</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(0,-6)">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,6 0,6.4444444 0.4444445,6 0,6 Z M 2.2222222,6 3.5555555,7.3333334 4.8888889,6 2.2222222,6 Z M 3.5555555,7.3333334 1.3333334,9.5555555 3.5555555,11.777778 5.7777776,9.5555555 3.5555555,7.3333334 Z M 5.7777776,9.5555555 8,11.777778 10.222222,9.5555555 8,7.3333334 5.7777776,9.5555555 Z M 8,7.3333334 9.333334,6 6.6666664,6 8,7.3333334 Z m 2.222222,2.2222221 2.222223,2.2222225 2.222221,-2.2222225 -2.222221,-2.2222221 -2.222223,2.2222221 z M 12.444445,7.3333334 13.777778,6 11.111111,6 12.444445,7.3333334 Z M 14.666666,9.5555555 16,10.888889 16,8.2222222 14.666666,9.5555555 Z M 12.444445,11.777778 10.222222,14 12.444445,16.222222 14.666666,14 12.444445,11.777778 Z M 14.666666,14 16,15.333334 16,12.666667 14.666666,14 Z m -2.222221,2.222222 -2.222223,2.222223 2.222223,2.222221 2.222221,-2.222221 -2.222221,-2.222223 z M 14.666666,18.444445 16,19.777778 16,17.111111 14.666666,18.444445 Z M 12.444445,20.666666 11.111111,22 13.777778,22 12.444445,20.666666 Z M 10.222222,18.444445 8,16.222222 5.7777776,18.444445 8,20.666666 10.222222,18.444445 Z M 8,20.666666 6.6666664,22 9.333334,22 8,20.666666 Z M 5.7777776,18.444445 3.5555555,16.222222 1.3333334,18.444445 3.5555555,20.666666 5.7777776,18.444445 Z M 3.5555555,20.666666 2.2222222,22 4.8888889,22 3.5555555,20.666666 Z M 1.3333334,18.444445 0,17.111111 0,19.777778 1.3333334,18.444445 Z M 3.5555555,16.222222 5.7777776,14 3.5555555,11.777778 1.3333334,14 3.5555555,16.222222 Z M 1.3333334,14 0,12.666667 0,15.333334 1.3333334,14 Z M 5.7777776,14 8,16.222222 10.222222,14 8,11.777778 5.7777776,14 Z M 1.3333334,9.5555555 0,8.2222222 0,10.888889 1.3333334,9.5555555 Z M 15.555555,6 16,6.4444444 16,6 15.555555,6 Z M 0,21.555555 0,22 0.4444445,22 0,21.555555 Z m 16,0 L 15.555555,22 16,22 16,21.555555 Z"
+       id="path4171"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4149"
+       transform="matrix(0.8,0,0,0.8,-1.6,12.4)"
+       style="fill:#5c616c;fill-opacity:1">
+      <g
+         style="fill:#5c616c;fill-opacity:1"
+         transform="translate(0.1896551,0.25862085)"
+         id="g4260">
+        <g
+           style="fill:#5c616c;fill-opacity:1"
+           id="g4303" />
+      </g>
+    </g>
+  </g>
+</svg>
