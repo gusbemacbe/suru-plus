@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   id="svg7384"
+   version="1.1"
+   width="15.999999"
+   sodipodi:docname="scilab-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1025"
+     inkscape:window-height="796"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-12.474577"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata20854">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4526"
+       osb:paint="solid">
+      <stop
+         id="stop4528"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer9"
+     label="status"
+     style="display:inline"
+     transform="translate(-513.00017,47.000061)" />
+  <g
+     id="layer2"
+     transform="translate(-271.99997,-319.99994)" />
+  <g
+     id="g1812"
+     style="display:inline"
+     transform="translate(-271.99997,-319.99994)" />
+  <g
+     id="g6217"
+     transform="translate(-271.99997,-319.99994)" />
+  <g
+     id="layer1"
+     transform="translate(-271.99997,-319.99994)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-opacity:1;stroke-width:0.31251737"
+     d="m 0.500314,8.2790621 c 0,-3.7894298 1.959662,-5.8553196 3.106208,-5.8553196 1.146611,0 1.26912,0.5842394 1.26912,1.5143433 0,1.8054803 -2.187624,1.1578583 -2.187624,4.5461291 0,1.1222173 0.618958,2.3775121 1.898804,2.3775121 1.026864,0 1.404544,-1.0918303 1.925167,-3.2824444 0.863735,-3.2932535 1.738102,-5.7793133 4.688689,-5.7793133 2.866839,0 4.299322,2.41217 4.299322,6.2017889 0,3.7895428 -2.219535,6.2954448 -3.366146,6.2954448 -1.14655,0 -1.632899,-0.45736 -1.632899,-1.38754 0,-1.80548 2.601449,-1.515212 2.601449,-4.903445 0,-1.1222173 -0.491819,-2.7750802 -1.771601,-2.7750802 -1.026863,0 -1.3897964,0.071811 -2.019662,2.4733983 C 8.96864,10.270117 8.153653,14.3 5.035569,14.3 2.168919,14.3 0.5,12.068794 0.5,8.2794401 Z"
+     id="path8" />
+</svg>
