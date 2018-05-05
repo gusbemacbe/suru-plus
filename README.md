@@ -16,7 +16,7 @@ Firstly, you must have `git` and `svn` installed.
 sudo apt install curl git subsversion wget
 ```
 
-*For users of Ubuntu 16.04 and below:*
+**For users of Ubuntu 16.04 and below:**
 
 You need to install Sam Hewitt's Suru icons:
 
