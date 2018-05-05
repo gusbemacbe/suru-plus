@@ -16,6 +16,14 @@ Firstly, you must have `git` and `svn` installed.
 sudo apt install curl git subsversion wget
 ```
 
+For users of Ubuntu 16.04 and below:
+
+You need to install Sam Hewitt's Suru icons:
+
+```shell
+svn export https://github.com/snwh/suru-icon-theme/trunk/ ~/.local/sahre/icons/Suru
+```
+
 There aree three options you can choose and prefer:
 
 ### Git
@@ -39,6 +47,13 @@ or quickly like a Millenium Falcom ...
 ```shell
 $ svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/sahre/icons/Suru++
 ```
+
+As we update the icons, and if yu need to update the icons, you need to add `--force` to overwrite something new.
+
+```shell
+$ svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/sahre/icons/Suru++
+```
+
 ### PPA (Ubuntu and Debian-derived)
 
 Soon...
