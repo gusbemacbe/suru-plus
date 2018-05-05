@@ -21,7 +21,7 @@ sudo apt install curl git subsversion wget
 You need to install Sam Hewitt's Suru icons:
 
 ```shell
-svn export https://github.com/snwh/suru-icon-theme/trunk/ ~/.local/sahre/icons/Suru
+svn export https://github.com/snwh/suru-icon-theme/trunk/ ~/.local/share/icons/Suru
 ```
 
 There aree three options you can choose and prefer:
