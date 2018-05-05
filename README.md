@@ -20,7 +20,7 @@ There aree three options you can choose and prefer:
 
 ### Git
 
-Install
+Install...
 
 ```shell
 $ cd '~/.local/share/icons/'
