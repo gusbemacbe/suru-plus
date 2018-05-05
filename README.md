@@ -45,13 +45,13 @@ or quickly like a Millennium Falcon ...
 ### SVN 
 
 ```shell
-$ svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/sahre/icons/Suru++
+$ svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
 ```
 
 As we update the icons, and if you need to update the icons, you need to add `--force` to overwrite something new.
 
 ```shell
-$ svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/sahre/icons/Suru++
+$ svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
 ```
 
 ### PPA (Ubuntu and Debian-derived)
