@@ -31,7 +31,7 @@ There aree three options you can choose and prefer:
 Install...
 
 ```shell
-$ cd '~/.local/share/icons/'
+$ cd ~/.local/share/icons/
 ```
 
 Download with...
