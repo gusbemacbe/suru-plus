@@ -13,7 +13,7 @@
 Firstly, you must have `git` and `svn` installed. 
 
 ```shell
-sudo apt install curl git subsversion wget
+sudo apt install curl git subversion wget
 ```
 
 **For users of Ubuntu 16.04 and below:**
@@ -21,6 +21,7 @@ sudo apt install curl git subsversion wget
 You need to install Sam Hewitt's Suru icons:
 
 ```shell
+mkdir ~/.local/share/icons # If the folder icons doesn't exist
 svn export https://github.com/snwh/suru-icon-theme/trunk/Suru/ ~/.local/share/icons/Suru
 ```
 
@@ -131,4 +132,4 @@ The changelog is available on the release page in theme's repository.
 
 ## License
 
-LGPL (c) Suru++
+LGPL3 © Suru++
