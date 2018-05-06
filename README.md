@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="Title.png" alt="Title">
+<img src="Title.svg" alt="Title">
 </p>
 
 <h3 align="center">A third-party Suru icons for Ubuntu 18.04</h3>
