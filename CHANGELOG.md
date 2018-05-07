@@ -1,3 +1,8 @@
+# v5.1
+
+* Improved icons:
+  * Opera
+
 # v5.0
 
 * Addec icons:
