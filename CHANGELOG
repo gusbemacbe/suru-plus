@@ -1,3 +1,38 @@
+# v5.0
+
+* Addec icons:
+  - Git Cola 
+  - git-dag 
+  - gitg 
+  - Gnome Radio 
+  - GNUPG 
+  - Gramps 
+  - Grisbi 
+  - Hamster Applet 
+  - Hamster Indicator 
+  - Hamster 
+  - hexchat 
+  - Homebank 
+  - Kingsoft Presentation 
+  - library-internet-radio 
+  - luminance-hdr 
+  - Mathematica 
+  - org.gnome.Recipes 
+  - pd 
+  - pure_data 
+  - pure-data 
+  - puredata 
+  - radio 
+  - Steam 
+  - umplayer 
+  - Wolfram Mathematica 
+  - WPS Office 
+  - wxbanker 
+  - zsnes
+
+* Improved icons:
+  - Gravit Designer
+
 # v4.0
 
 * Apps:
@@ -21,6 +56,10 @@
   - gnome-mime-application-x-zim-notebook
 * Status:
   - zim-panel 
+
+# v3.2
+
+* Fixed `index.theme` for users of 16.04
 
 # v3.1
 
