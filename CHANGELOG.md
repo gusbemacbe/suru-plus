@@ -1,3 +1,13 @@
+# 5.2
+
+* Improved symbolic icons
+  * System Monitor
+  * Terminal
+  * Windows Restore
+
+* Missed icon:
+  * VSCode Insiders
+
 # v5.1
 
 * Improved icons:
