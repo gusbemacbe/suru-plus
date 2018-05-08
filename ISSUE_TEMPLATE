@@ -10,6 +10,9 @@ Please fill these informations:
 * Actual behavior:
 * Description:
 * Missed icons
+
+<!-- Please go to /usr/share/applications at Nautilus and open a desktop file with Gedit -->
+
   * Apps names:
   * Please fill missed icon names from the desktop files of `/usr/share/applications` and `your_name/.local/share/applications/`):
   * Screenshots:
