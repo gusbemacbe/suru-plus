@@ -1,6 +1,40 @@
-# 5.2
+# v6.0
 
-* Improved symbolic icons
+* Added missed icons:
+  * Arduino
+  * Bum
+  * Grub Customizer
+  * GVim
+  * IBus
+  * Jockey
+  * Minuet
+  * OpenTTD
+  * PianoTEQ
+  * QBrowser
+  * Rocs
+  * Vim
+  * Virtual MIDI Piano Keyboard
+  * Whatsie
+  * XNetro
+
+
+* Improved missed icon:
+  * GNU Emacs (duplicate of the icon `emacs` and renamed to `emcas25`)
+
+# v5.3
+
+* Added missed icons:
+  * YouTube DLG GUI
+
+
+* Added and improved symbolic icons:
+  * Google Chrome
+  * VSCode
+  * VSCode Insiders
+
+# v5.2
+
+* Improved symbolic icons:
   * System Monitor
   * Terminal
   * Windows Restore
@@ -15,7 +49,7 @@
 
 # v5.0
 
-* Addec icons:
+* Added icons:
   - Git Cola 
   - git-dag 
   - gitg 
@@ -65,9 +99,12 @@
   - Tor Browser
   - VKaudiosaver
   - Zim
+
 * Mimetypes:
   - application-x-zim-notebook
   - gnome-mime-application-x-zim-notebook
+
+
 * Status:
   - zim-panel 
 
@@ -91,7 +128,7 @@
   - CrossFTP
   - Deepin Picker
   - Firestorm
-  - Github
+  - GitHub
   - Gravit Designer
   - GNU Emacs
   - GNU Octave
