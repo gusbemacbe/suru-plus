@@ -35,7 +35,6 @@
   - org.gnome.Recipes 
   - pd 
   - pure_data 
-  - pure-data 
   - puredata 
   - radio 
   - Steam 
