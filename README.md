@@ -84,10 +84,10 @@ It is not the pack's problem. It is the desktop files problem because:
 
 We have already reported these issues:
 * CrossFTP: 
-* GitHub Desktop: 
-* Gravit Designer: https://discuss.gravit.io/t/linux-package-feature-requests/294/20
-* IBus: https://github.com/phuang/ibus-pinyin/issues/13
-* Mozc Setup: 
+* GitHub Desktop: [view the issue](https://github.com/shiftkey/desktop/issues/42#issuecomment-387865477)
+* Gravit Designer: [view the issue](https://discuss.gravit.io/t/linux-package-feature-requests/294/20)
+* IBus: [view the issue](https://github.com/phuang/ibus-pinyin/issues/13)
+* Mozc Setup: [view the issue](https://github.com/google/mozc/issues/440)
 
 We provide desktop files for you. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
 
