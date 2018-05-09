@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1037"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="ibus_ibus-setup-symbolic.svg">
+   sodipodi:docname="chinese-symbolic.svg">
   <defs
      id="defs1031">
     <radialGradient
@@ -90,9 +90,10 @@
      id="layer1"
      transform="translate(0,-292.76665)">
     <path
-       d="m 2.12445,292.89894 a 0.46691246,0.46691246 0 0 0 -0.466912,0.46691 0.46691246,0.46691246 0 0 0 0.466912,0.46691 0.46691246,0.46691246 0 0 0 0.466913,-0.46691 0.46691246,0.46691246 0 0 0 -0.466913,-0.46691 z m -0.933825,1.40074 v 0.4669 h 0.466913 v 1.6342 H 1.190625 v 0.46691 h 1.86765 v -0.46691 H 2.591363 v -2.1011 z"
-       id="path1016"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.23345619" />
+       id="path904"
+       d="m 1.7344903,292.89894 v 0.58796 H 0.26458333 v 1.91088 h 0.5879629 V 295.1038 H 1.7344903 v 1.76389 h 0.7349539 v -1.76389 h 0.8819449 v 0.29398 h 0.587963 v -0.29398 -1.6169 H 2.4694442 v -0.58796 z m -0.88194407,1.17593 H 1.7344903 v 0.44097 H 0.85254623 Z m 1.61689797,0 h 0.8819449 v 0.44097 H 2.4694442 Z"
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.02939815px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
