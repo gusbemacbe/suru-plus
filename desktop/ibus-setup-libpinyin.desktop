@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=IBus LibPinyin Setup
+Name[zh_CN]=IBus 智能拼音配置工具
+Name[zh_TW]=IBus 智能拼音配置工具
+Name[zh_HK]=IBus 智能拼音配置工具
+Comment=Set ibus-libpinyin Preferences
+Comment[zh_CN]=设置 IBus 智能拼音首选项
+Comment[zh_TW]=設定 IBus 智能拼音個人偏好
+Comment[zh_HK]=設定 IBus 智能拼音個人偏好
+Exec=/usr/lib/ibus/ibus-setup-libpinyin libpinyin
+Icon=ibus-pinyin
+# Icon=/usr/share/ibus-libpinyin/icons/ibus-pinyin.svg
+NoDisplay=true
+Type=Application
+StartupNotify=true

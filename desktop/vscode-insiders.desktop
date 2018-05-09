@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Visual Studio Code - Insiders
+Comment=Code Editing. Redefined.
+GenericName=Text Editor
+Exec=/usr/share/code-insiders/code-insiders --unity-launch %F
+Icon=code-insiders
+Type=Application
+StartupNotify=true
+StartupWMClass=Code - Insiders
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;
+Actions=new-empty-window;
+Keywords=vscode;
+
+X-Desktop-File-Install-Version=0.23
+
+[Desktop Action new-empty-window]
+Name=New Empty Window
+Exec=/usr/share/code-insiders/code-insiders --new-window %F
+Icon=code-insiders
