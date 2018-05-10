@@ -12,65 +12,16 @@
 
 ### Installation without CLI
 
-If you are a user of before 16.04 or of among 16.04 and 17.10 and any Debian-derived distros: 
-
-1. Then you must download and install firstly [Suru Icons](https://github.com/snwh/suru-icon-theme/) by Sam Hewitt;
-2. Unzip this zipped file and move the folder "Suru" to `your_name/.icons/` (16.04 and below) or `your_name/.local/share/icons/` (16.04.4 and above);
-3. Now download Suru++ and unzip this zipped file and move the folder "Suru-Plus" to `your_name/.icons/` (16.04 and below) or `your_name/.local/share/icons/` (16.04.4 and above);
-4. Apply "Suru-Plus", using Tweak Tool.
-
-If you are a user of 18.04: 
-
-1. Ubuntu 18.04 comes already with Suru icons installed;
-2. Download Suru++ and unzip this zipped file and move the folder "Suru-Plus" to `your_name/.local/share/icons/`;
-3. Apply "Suru-Plus", using Tweak Tool.
+* [For users of before Ubuntu 18.04 and any old and new Debian-derived distributions.](instructions_without_cli1.md)
+* [For users of Ubuntu 18.04](instructions_without_cli2.md).
 
 ### Installation with CLI
 
-Firstly, you must have `git` and `svn` installed. 
+* [For users of old Ubuntu versions, Ubuntu 16.04 and any Debian-derived distributions.](instructions_with_cli1.md)
+* [For users of Ubuntu 16.04.4 and above, Kali Linux and any new Debian-derived distributions.](instructions_with_cli2.md)
+* [For users of Ubuntu 18.04 and above.](instructions_with_cli3.md)
 
-```shell
-sudo apt install curl git subversion wget
-```
-
-* **Ubuntu 16.04 and below and any Debian-derived distros**
-```shell
-# If the folder icons doesn't exist
-mkdir ~/.icons
-# As you are an user of before Ubuntu 16.04 and below, you must install firstly Sam Hewitt' Suru Icons
-svn export https://github.com/snwh/suru-icon-theme/trunk/Suru/ ~/.icons/Suru
-# Download quickly like a Millennium Falcon
-svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.icons/Suru++
-# When we will update the icons, and if you want to update the icons, just overwrite
-svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.icons/Suru++
-```
-
-* **Ubuntu 16.04.4 and above**
-```shell
-# If the folder icons doesn't exist
-mkdir ~/.local/share/icons
-# As you are an user of before Ubuntu 16.04 and above, you must install firstly Sam Hewitt' Suru Icons
-svn export https://github.com/snwh/suru-icon-theme/trunk/Suru/ ~/.local/share/icons/Suru
-# Download quickly like a Millennium Falcon
-svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-# When we will update the icons, and if you want to update the icons, just overwrite
-svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-```
-
-* **Ubuntu 18.04 and above**
-
-You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
-
-```shell
-# If the folder icons doesn't exist
-mkdir ~/.local/share/icons
-# Download quickly like a Millennium Falcon
-svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-# When we will update the icons, and if you want to update the icons, just overwrite
-svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-```
-
-* **PPA (Ubuntu and Debian-derived)**
+### **AUR (Arch Linux and Arch-derived), PPA (Ubuntu and Debian-derived) and RPM**
 
 Soon...
 
@@ -79,7 +30,7 @@ Soon...
 ### Many apps are not well displayed
 
 It is not the pack's problem. It is the desktop files problem because:
-* Snap apps - Gnome-Characters, Gnome-Logs, Gravit Designer and Vectr use the different path and use the ICO/PNG extension added instead;
+* Snap apps are very buggy and can't be open and as Gnome-Characters, Gnome-Logs, Gravit Designer and Vectr, use the different path and use the ICO/PNG extension added instead;
 * The desktop files of certain native apps as IBus and Mozc for Chinese, Japanese and Korean languages use the different relative path of an icon, use the PNG format added a SVG extension, turn the icons unrecognisable by the icons packs,
 
 We have already reported these issues:
@@ -89,7 +40,7 @@ We have already reported these issues:
 * IBus: [view the issue](https://github.com/phuang/ibus-pinyin/issues/13)
 * Mozc Setup: [view the issue](https://github.com/google/mozc/issues/440)
 
-We provide desktop files for you. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
+We provide desktop files (AppImage, native Debian packages, snap app and source codes) for you for being able of opening the apps and displaying well the icons. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
 
 We recommend you to back your files up when you intend to make a clean install or reinstall your distribution.
 

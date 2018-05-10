@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Network; InstantMessaging;
+Comment=Desktop chat client for Google Hangouts
+Exec=/snap/yakyak/current/yakyak
+GenericName=Instant Messaging
+Icon=yakyak
+Name[en_GB]=YakYak.desktop
+Name=YakYak
+StartupNotify=true
+Terminal=false
+Type=Application

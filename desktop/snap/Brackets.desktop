@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories = Development;
+Exec = /snap/brackets/current/opt/brackets/Brackets
+Icon = brackets
+Keywords = Development; Editor; Text; Write; Web;
+MimeType = text/css; text/html;
+Name = Brackets
+Name[en_GB] = Brackets
+Name[en_US] = Brackets
+Type = Application
+

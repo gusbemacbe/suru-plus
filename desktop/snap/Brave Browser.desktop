@@ -1,0 +1,14 @@
+[Desktop Entry]
+Actions = Window;
+Categories = Network; WebBrowser;
+Comment = A privacy-zealot, safe and ad-blocking browser
+Exec = /snap/brave/current/usr/lib/brave/brave
+GenericName = Web Browser
+Icon = brave
+MimeType = application/xhtml_xml; image/webp; text/html; text/xml; x-scheme-handler/http; x-scheme-handler/https; x-scheme-handler/ftp;
+Name = Brave
+Name[en_GB] = Brave Browser
+Name[en_US] = Brave Browser
+StartupNotify = true
+Terminal = false
+Type = Application

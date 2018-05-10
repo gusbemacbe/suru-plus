@@ -1,3 +1,9 @@
+# v7.1
+
+* We have added explications and issues about the problems of desktop file badly displayed icons;
+* We have provided desktop files located in the folder `desktop` for you who have problems with badly displayed icon;
+* We reorganised README to facilitate expert and novice users. 
+
 # v7.0
 
 * Added icons:
@@ -26,7 +32,7 @@
   * Mahzhong
   * Network Preferences
   * Nicotine Plus
-  * Orage_Globaltime
+  * Orage Global Time
   * QRCode
   * Remote Desktop
   * Snapshot
@@ -43,8 +49,6 @@
 * Added actions icons: 
   * abort
   * edit-past
-
-<!-- spellcheck-language "en_US" -->
 
 * Added Kali Linux icons:
   * Kali Wireshark
@@ -176,32 +180,32 @@
 
 * Added icons:
   - Git Cola 
-  - git-dag 
-  - gitg 
+  - Git Dag 
+  - Gitg 
   - Gnome Radio 
+  - Gnome Recipes
   - GNUPG 
   - Gramps 
   - Grisbi 
   - Hamster Applet 
   - Hamster Indicator 
   - Hamster 
-  - hexchat 
-  - Homebank 
+  - HexChat 
+  - HomeBank 
+  - Internet Radio
   - Kingsoft Presentation 
-  - library-internet-radio 
-  - luminance-hdr 
-  - Mathematica 
-  - org.gnome.Recipes 
+  - Luminance HDR 
+  - Mathematica  
   - pd 
   - pure_data 
   - puredata 
   - radio 
   - Steam 
-  - umplayer 
+  - UMPlayer 
   - Wolfram Mathematica 
   - WPS Office 
-  - wxbanker 
-  - zsnes
+  - wxBanker 
+  - ZSNES
 
 * Improved icons:
   - Gravit Designer
@@ -210,19 +214,19 @@
 
 * Apps:
   - Gnome-Do
-  - Gpa
+  - GNU IceCat
+  - GNU Privacy Assistant
   - Hangout
-  - Icecat
   - Linphone
   - Lutris
   - Minecraft
-  - Monodevelop
-  - NVVP
+  - MonoDevelop
+  - NVIDIA Visual Profiler
   - Hitori
   - Resolve
-  - Tigervnc
+  - TigerVNC
   - Tor Browser
-  - VKaudiosaver
+  - VK Audio Saver
   - Zim
 
 * Mimetypes:
