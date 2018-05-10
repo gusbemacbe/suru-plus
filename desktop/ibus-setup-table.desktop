@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IBus Table Setup
+Comment=Set ibus-table preferences
+Exec=/usr/lib/ibus/ibus-setup-table
+Icon=chinese
+NoDisplay=true
+Type=Application
+StartupNotify=true

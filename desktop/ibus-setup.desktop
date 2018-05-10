@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=IBus Preferences
+Comment=Set IBus Preferences
+Exec=ibus-setup
+Icon=ibus-setup
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Settings;
+Keywords=keyboard;input;
+NotShowIn=GNOME;Unity;
+X-Desktop-File-Install-Version=0.23
+X-Ubuntu-Gettext-Domain=ibus10

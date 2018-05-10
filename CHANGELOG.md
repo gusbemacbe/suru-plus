@@ -1,3 +1,128 @@
+# v7.0
+
+* Added icons:
+  * Address Book
+  * Android Studio
+  * Camera Photo
+  * Character Map
+  * Document Viewer
+  * Emule
+  * File Manager
+  * Firefox Developer Edition
+  * Firefox ESR
+  * Firewall
+  * Fonts
+  * GColor
+  * GConf Editor
+  * Gmail Offline
+  * Gnome Gmail
+  * Gnome Recipes
+  * Gnome Tweak
+  * Gnome Tweaks Desktop
+  * Google Chrome Beta
+  * Google Chrome Stable
+  * gpast
+  * HWiNFO
+  * Mahzhong
+  * Network Preferences
+  * Nicotine Plus
+  * Orage_Globaltime
+  * QRCode
+  * Remote Desktop
+  * Snapshot
+  * Sticky
+  * System Power Management
+  * Teravex
+  * Thunar
+  * uTorrent
+  * VCard
+  * VLC
+  * VSCode Backup
+  * XBoard
+
+* Added actions icons: 
+  * abort
+  * edit-past
+
+<!-- spellcheck-language "en_US" -->
+
+* Added Kali Linux icons:
+  * Kali Wireshark
+
+
+* Added KDE icons:
+  * KDE Address Book
+  * KDE Font Viewer
+  * KDE Lettres
+  * KDE Snapshot
+  * KDE Sudoku
+  * Klipper
+  * Konqueror
+  * Kontact
+  * Telepathy KDE
+  * 
+
+* Added Linux Mint icons:
+  * cs-applets
+  * cs-backgrounds
+  * cs-color
+  * cs-date-time
+  * cs-default-applications
+  * cs-desklets
+  * cs-desktop-effects
+  * cs-desktop
+  * cs-details
+  * cs-display
+  * cs-extensions
+  * cs-fonts
+  * cs-general
+  * cs-keyboard
+  * cs-language
+  * cs-mouse
+  * cs-network
+  * cs-notifications
+  * cs-panel
+  * cs-power
+  * cs-privacy
+  * cs-screensaver
+  * cs-sound
+  * cs-startup-programs
+  * cs-tablet
+  * cs-themes
+  * cs-tiling
+  * cs-universal-access
+  * cs-windows
+  * MATE Network Proprieties
+  * MATE Power Manager
+  * Mint Drivers
+  * Mint Install
+  * Mint Update
+  * Software Properties Mint
+
+* Added LXDE icons:
+  * LXTerminal
+
+* Added Unity icons:
+  * Lens Photos
+  * Twitter
+
+* Added XFCE icons:
+  * Clipman Plugin
+  * Dictionary
+  * Note Plugin
+
+* Added Chinese and Korean apps icons:
+  * IBus Chewing Preferences
+  * IBus Hangul Preferences
+  * IBus LibBopomofo Preferences
+  * IBus LibPinyin Setup
+  * IBus Preferences
+  * IBus Table Setup
+
+* Improved icons:
+  * Archive
+  * Jocky
+
 # v6.0
 
 * Added missed icons:

@@ -76,42 +76,20 @@ Soon...
 
 ## Bugs and reports
 
-### CrossFTP, GitHub Desktop, Gravit Designer and Mozc Setup are not well displayed
+### Many apps are not well displayed
 
-It is not the pack's problem. It is the desktop files problem because they used the relative path of an icon, put the strange icon names and use the PNG format instead. Therefore it is important to copy the desktop files to the local of your home folder for preventing the icons from being changed because in the next updates, Ubuntu and PPAs can modify always the desktop files. Follow the instructions:
+It is not the pack's problem. It is the desktop files problem because:
+* Snap apps - Gnome-Characters, Gnome-Logs, Gravit Designer and Vectr use the different path and use the ICO/PNG extension added instead;
+* The desktop files of certain native apps as IBus and Mozc for Chinese, Japanese and Korean languages use the different relative path of an icon, use the PNG format added a SVG extension, turn the icons unrecognisable by the icons packs,
 
-1. Run the command via terminal:
+We have already reported these issues:
+* CrossFTP: 
+* GitHub Desktop: [view the issue](https://github.com/shiftkey/desktop/issues/42#issuecomment-387865477)
+* Gravit Designer: [view the issue](https://discuss.gravit.io/t/linux-package-feature-requests/294/20)
+* IBus: [view the issue](https://github.com/phuang/ibus-pinyin/issues/13)
+* Mozc Setup: [view the issue](https://github.com/google/mozc/issues/440)
 
-```shell
-sudo nautilus /usr/share/applications/
-```
-
-2. Copy the desktop files of CrossFTP, GitHub Desktop and Mozc Setup and paste on `yourname/.local/share/applications`.
-
-3. Open them with Text Editor and modify the icon paths:
-
-#### CrossFTP
-* `Icon=/usr/share/crossftp/logo_big.png` to `Icon=crossftp`
-
-#### GitHub Desktop
-* `Icon=desktop` to `Icon=github`
-
-#### Mozc Setup
-* `Icon=/usr/share/icons/mozc/ime_product_icon_opensource-32.png` to `Icon=ime_product_icon_opensource-32`
-
-#### Gravit Designer
-
-If you snapped Gravit Designer, 
-
-Run the command via terminal:
-
-```shell
-sudo nautilus /var/lib/snapd/desktop/applications/
-```
-
-Copy the `gravit-designer_gravit-designer.desktop` to `yourname/.local/share/applications/`
-
-Open this desktop file and modify to `Icon=gravit`.
+We provide desktop files for you. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
 
 We recommend you to back your files up when you intend to make a clean install or reinstall your distribution.
 
