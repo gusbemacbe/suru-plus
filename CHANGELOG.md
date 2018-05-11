@@ -1,3 +1,17 @@
+# v8
+
+* Added icons:
+  * Archive Mounter
+  * BirdFont
+  * Disk Image Mounter and Writer
+  * FontForge
+  * IGdm
+  * KColorChooser
+  * SuperTux Kart
+  * Vectr
+  * Yakyak
+  * Zenkit
+
 # v7.1
 
 * We have added explications and issues about the problems of desktop file badly displayed icons;
