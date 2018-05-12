@@ -1,3 +1,54 @@
+# v9.1
+
+* Improved icons:
+  - Notification Daemon
+  - System Notifications Preferences (preferences-system-notifications)
+  - Tali (Gnome Tali)
+
+* Added Kali Linux icons:
+  - Kali WPSCan
+  - Kali Volability (kali-vola)
+  - WPSCan
+
+* Added KDE icons:
+  - KDiskFree
+  - KGeography
+
+* Added Linux Mint icons:
+  - Almanah Diary
+  - Ardour
+  - Artha
+  - Bugzilla
+  - Clonezilla
+  - cs-notifications
+  - FrostWire
+  - Linux Multimedia Studio (lmms)
+
+* Added MATE icons:
+  - Disk Usage Analyzer (mate-disk-usage-analyzer) 
+  - MATE Notification Properties
+
+* Added Steam and Chrome games icons:
+  - Angry Birds
+  - Incredipede
+
+* Added icons in general:
+  - App Launcher
+  - disk-check
+  - eBay
+  - filelight
+  - fjt (Format Junkie)
+  - Flow
+  - HWMonitor
+  - ImageShack
+  - Pithos
+  - Root XTerm
+  - Ubuntu Dash
+  - VPN
+  - Wikipedia
+  - Wordpress
+  - XBMC
+
 # v9
 
 * Added Kali Linux icons: 
