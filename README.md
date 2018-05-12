@@ -10,6 +10,10 @@
 
 ## Installation
 
+### For Lubuntu users
+
+If you want the 24px and 26px icons to be colourful in the panel, the folder Suru++ Lubuntu is included in this repository. You must move this outside of folder Suru++ and apply "Suru++ Lubuntu".
+
 ### Installation without CLI
 
 * [For users of before Ubuntu 18.04 and any old and new Debian-derived distributions.](instructions_without_cli1.md)
@@ -24,10 +28,6 @@
 ### **AUR (Arch Linux and Arch-derived), PPA (Ubuntu and Debian-derived) and RPM**
 
 Soon...
-
-<h3 style="color: red">For Lubuntu users</h3>
-
-If you want the 24px and 26px icons to be colourful in the panel, the folder Suru++ Lubuntu is included in this repository. You must move this outside of folder Suru++ and apply "Suru++ Lubuntu".
 
 ## Bugs and reports
 
