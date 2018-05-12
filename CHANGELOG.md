@@ -1,9 +1,12 @@
 # v9.1
 
 * Improved icons:
+  - Kali Nmap
   - Notification Daemon
   - System Notifications Preferences (preferences-system-notifications)
   - Tali (Gnome Tali)
+  - XFCE Notify
+  - WireShark
 
 * Added Kali Linux icons:
   - Kali WPSCan
