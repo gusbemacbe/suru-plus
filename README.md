@@ -25,6 +25,10 @@
 
 Soon...
 
+<h3 style="color: red">For Lubuntu users</h3>
+
+If you want the 24px and 26px icons to be colourful in the panel, the folder Suru++ Lubuntu is included in this repository. You must move this outside of folder Suru++ and apply "Suru++ Lubuntu".
+
 ## Bugs and reports
 
 ### Many apps are not well displayed

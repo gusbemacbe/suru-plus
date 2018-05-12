@@ -1,3 +1,7 @@
+# v9.2
+
+* I fixed the bug of icon size on Lubuntu. I provided a new `index.theme` of Suru++ Lubuntu for Lubuntu users who want to turn small icons colourful.
+
 # v9.1
 
 * Improved icons:
