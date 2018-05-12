@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ncat
+Encoding=UTF-8
+Exec=sh -c "ncat -h;${SHELL:-bash}"
+Icon=kali-ncat
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-02-identify-live-hosts;
+X-Kali-Package=nmap

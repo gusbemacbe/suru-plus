@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=john
+Encoding=UTF-8
+Exec=sh -c "john;${SHELL:-bash}"
+Icon=kali-john
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-password-attacks;
+X-Kali-Package=john

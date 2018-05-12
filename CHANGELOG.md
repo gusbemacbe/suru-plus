@@ -1,3 +1,54 @@
+# v9
+
+* Added Kali Linux icons: 
+  * Distribution Kali Linux Logo
+  * IPutils Apring (Kali Apring)
+  * Kali John the Ripper
+  * Kali Metasploit Framework
+  * Kali NASM Shell
+  * Kali Ncat
+  * Kali Nmap
+
+* Added Ubuntu and XFCE icons:
+  - About XFCE (help-about)
+  - Access Prompt
+  - Activity Log Manager
+  - Appearance (preferences-desktop-theme)
+  - defcon
+  - Desktop Icons
+  - Display (video-display)
+  - Double Commander
+  - Emblem Mail
+  - Fusion
+  - GTK FInd
+  - Keyboard (preferences-desktop-keyboard)
+  - Kopete
+  - LibreOffice XSLT
+  - Log out
+  - Mouse and Keyboard (preferences-desktop-peripherals)
+  - Notification Daemon
+  - OpenJDK 9 Policy Tool
+  - Preferred Applications
+  - Pulse Volume Control
+  - Ubuntu One
+  - Ubuntu One Installer
+  - Window Manager
+  - Window Manager Tweaks
+  - XFCE Calendar
+  - XFCE Notify
+  - XFCE Panel
+  - XFCE Session
+  - XFCE Workspace
+  - XFCE Window Manager
+  - xoscope
+  
+* Added Adobe icons:
+  * Adobe Acrobat 
+  * Adobe Reader
+  * Adobe Reader 8
+  * Adobe Reader 9
+  * Adobe Reader 10
+
 # v8
 
 * Added icons:
