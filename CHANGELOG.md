@@ -1,6 +1,6 @@
 # v10.0
 
-# Added icons:
+* Added icons:
   - Aqualung
   - aptik-gtk
   - Ask Ubuntu
@@ -24,13 +24,13 @@
   - XChat
   - YaRock
 
-# Added KDE icons:
+* Added KDE icons:
   - Akregator
 
-# Added openSUSE icons:
+* Added openSUSE icons:
   - Yast
 
-# Improved icons:
+* Improved icons:
   - Desktop 
   - Document Print Viewer
   - Input Mouse 
@@ -41,8 +41,12 @@
   - Preferences System Privacy
   - Preferences System Search 
   - Preferences System Sharing
+  - Preferences Ubuntu Panel
+  - Printer
+  - Starred
+  - System Users
 
-# Renamed icons:
+* Renamed icons:
   - categories/16/preferences-desktop-display.svg → apps/16/preferences-desktop-display.svg
   - categories/16/preferences-system-privacy.svg → apps/16/preferences-system-privacy.svg
   - categories/16/preferences-system-search.svg → apps/16/preferences-system-search.svg
