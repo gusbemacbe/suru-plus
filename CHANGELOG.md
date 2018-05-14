@@ -1,3 +1,61 @@
+# v10.0
+
+# Added icons:
+  - Aqualung
+  - aptik-gtk
+  - Ask Ubuntu
+  - AVI-MetaEdit
+  - Gnash
+  - Gnome Subtitles
+  - Gnome XChat
+  - Goa Panel
+  - Goobox
+  - GPRename
+  - Partition Manager
+  - Photo Wall
+  - PPA
+  - SubDownloader
+  - Subtitle Editor
+  - Tag Tool
+  - TextMate
+  - Tixati
+  - Unity Tweak Tool
+  - XChat Mini
+  - XChat
+  - YaRock
+
+# Added KDE icons:
+  - Akregator
+
+# Added openSUSE icons:
+  - Yast
+
+# Improved icons:
+  - Desktop 
+  - Document Print Viewer
+  - Input Mouse 
+  - Input Tablet
+  - Media Removable
+  - Network Group Work
+  - Preference Desktop Display
+  - Preferences System Privacy
+  - Preferences System Search 
+  - Preferences System Sharing
+
+# Renamed icons:
+  - categories/16/preferences-desktop-display.svg → apps/16/preferences-desktop-display.svg
+  - categories/16/preferences-system-privacy.svg → apps/16/preferences-system-privacy.svg
+  - categories/16/preferences-system-search.svg → apps/16/preferences-system-search.svg
+  - categories/16/preferences-system-sharing.svg → apps/16/preferences-system-sharing.svg
+  - categories/16/preferences-ubuntu-panel.svg → apps/16/preferences-ubuntu-panel.svg
+
+# v9.3
+
+* Added icons: 
+
+* Improved icons:
+  - Play Store
+
 # v9.2
 
 * I fixed the bug of icon size on Lubuntu. I provided a new `index.theme` of Suru++ Lubuntu for Lubuntu users who want to turn small icons colourful.
@@ -24,7 +82,7 @@
 * Added Linux Mint icons:
   - Almanah Diary
   - Ardour
-  - Artha
+  - Thwart
   - Bugzilla
   - Clonezilla
   - cs-notifications
@@ -56,7 +114,7 @@
   - Wordpress
   - XBMC
 
-# v9
+# v9.0
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
@@ -78,7 +136,7 @@
   - Double Commander
   - Emblem Mail
   - Fusion
-  - GTK FInd
+  - GTK Find
   - Keyboard (preferences-desktop-keyboard)
   - Kopete
   - LibreOffice XSLT
@@ -98,7 +156,7 @@
   - XFCE Session
   - XFCE Workspace
   - XFCE Window Manager
-  - xoscope
+  - otoscope
   
 * Added Adobe icons:
   * Adobe Acrobat 
@@ -107,7 +165,7 @@
   * Adobe Reader 9
   * Adobe Reader 10
 
-# v8
+# v8.0
 
 * Added icons:
   * Archive Mounter
@@ -151,7 +209,7 @@
   * Google Chrome Beta
   * Google Chrome Stable
   * gpast
-  * HWiNFO
+  * Infoco
   * Mahzhong
   * Network Preferences
   * Nicotine Plus
@@ -174,7 +232,7 @@
   * edit-past
 
 * Added Kali Linux icons:
-  * Kali Wireshark
+  * Kali WireShark
 
 
 * Added KDE icons:
@@ -240,7 +298,7 @@
 
 * Added Chinese and Korean apps icons:
   * IBus Chewing Preferences
-  * IBus Hangul Preferences
+  * IBus Hangar Preferences
   * IBus LibBopomofo Preferences
   * IBus LibPinyin Setup
   * IBus Preferences
