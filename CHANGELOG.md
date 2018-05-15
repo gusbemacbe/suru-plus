@@ -1,3 +1,16 @@
+# v10.3
+
+* The `index.themes` errors have been fixed for not being recognised.
+
+* Improved icons:
+  * cs-printer
+
+* Added icons:
+  * Aptana
+  * Beta Flight
+  * Easy Life
+  * GNOME Nettool
+
 # v10.2
 
 * Big updates:
@@ -23,8 +36,8 @@
   - Applications Utilities
   - Compiz Config Settings Manager
   - Flegita
-  - Gnome Joystick
-  - Gnome System
+  - GNOME Joystick
+  - GNOME System
   - Package System
   - Preferences Others
   - QT Assistant
@@ -48,8 +61,8 @@
   - Ask Ubuntu
   - AVI-MetaEdit
   - Gnash
-  - Gnome Subtitles
-  - Gnome XChat
+  - GNOME Subtitles
+  - GNOME XChat
   - Goa Panel
   - Goobox
   - GPRename
@@ -112,7 +125,7 @@
   - Kali Nmap
   - Notification Daemon
   - System Notifications Preferences (preferences-system-notifications)
-  - Tali (Gnome Tali)
+  - Tali (GNOME Tali)
   - XFCE Notify
   - WireShark
 
@@ -248,10 +261,10 @@
   * GColor
   * GConf Editor
   * Gmail Offline
-  * Gnome Gmail
-  * Gnome Recipes
-  * Gnome Tweak
-  * Gnome Tweaks Desktop
+  * GNOME Gmail
+  * GNOME Recipes
+  * GNOME Tweak
+  * GNOME Tweaks Desktop
   * Google Chrome Beta
   * Google Chrome Stable
   * gpast
@@ -409,8 +422,8 @@
   - Git Cola 
   - Git Dag 
   - Gitg 
-  - Gnome Radio 
-  - Gnome Recipes
+  - GNOME Radio 
+  - GNOME Recipes
   - GNUPG 
   - Gramps 
   - Grisbi 
@@ -440,7 +453,7 @@
 # v4.0
 
 * Apps:
-  - Gnome-Do
+  - GNOME-Do
   - GNU IceCat
   - GNU Privacy Assistant
   - Hangout
@@ -458,7 +471,7 @@
 
 * Mimetypes:
   - application-x-zim-notebook
-  - gnome-mime-application-x-zim-notebook
+  - GNOME-mime-application-x-zim-notebook
 
 
 * Status:
@@ -475,7 +488,7 @@
 
 # v3.0
 - Added Wine icons
-- Improved the icons of Gnome Screenshot, Hyper and Mailspring
+- Improved the icons of GNOME Screenshot, Hyper and Mailspring
 
 # v2.0
 - Added icons:
