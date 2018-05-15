@@ -1,3 +1,12 @@
+# v10.2
+
+* Big updates:
+  * The `index.theme` files became increasingly complete and multilingual;
+  * We added the fonts, themes and wallpapers for linking to `index.theme`.
+
+* Improved icons:
+  * Empty icons in the folders 16 and 24 have been fixed.
+
 # v10.1
 
 * Added icons:
@@ -155,7 +164,7 @@
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
-  * IPutils Apring (Kali Apring)
+  * IPutils Arping (Kali Arping)
   * Kali John the Ripper
   * Kali Metasploit Framework
   * Kali NASM Shell
