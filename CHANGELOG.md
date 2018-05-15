@@ -1,3 +1,36 @@
+# v10.1
+
+* Added icons:
+  - Applications Accessories
+  - Applications Development
+  - Applications Engineering
+  - Applications Games
+  - Applications Graphics
+  - Applications Internet
+  - Applications Multimedia
+  - Applications Office
+  - Applications Science
+  - Applications System
+  - Applications Utilities
+  - Compiz Config Settings Manager
+  - Flegita
+  - Gnome Joystick
+  - Gnome System
+  - Package System
+  - Preferences Others
+  - QT Assistant
+  - QT Creator
+  - QT Designer
+  - QT Linguist
+
+* Added Linux Mint icons:
+  - cs-applets
+  - cs-extensions
+  - cs-overview
+
+* Improved icons:
+  - Instagram
+
 # v10.0
 
 * Added icons:
