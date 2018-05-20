@@ -1,3 +1,199 @@
+# v11
+
+We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
+
+We also added *egg easters*, we just won't tell which icons. We let you discover yourself and guess. ;-)
+
+* Added Ubuntu GNOME icons with improvements: 
+  - Apt URL
+  - Artikulate
+  - Dr. Konqi
+  - Files (Nautilus)
+  - Franz
+  - GNOME Shell
+  - HP LaserJet 1018/1020
+  - MIME Type Editor
+  - Mouse & Touchpad
+  - Mutter
+  - Peek
+  - Run Software
+  - Portal
+  - Search
+  - Tweaks
+  - View file
+  - Wacom Tablet
+  - Where am I?
+
+* Added KDE icons with few improvements:
+  - Apper
+  - Blogilo
+  - Breeze Settings
+  - Calamares
+  - Calligra Sheets
+  - Calligra Stage
+  - Calligra Words
+  - Cuttlefish
+  - FLUID
+  - Git Cola
+  - Homerun
+  - Image Writer
+  - Kaffeine
+  - KAlgebra
+  - KAlgebra Backend
+  - Kamoso
+  - KAnagram
+  - KAtomic
+  - KBlocks
+  - KBlogger
+  - KChart
+  - KDiamond
+  - KDE App
+  - KDE Calc
+  - KDE Clock
+  - KDE Develop
+  - KDE Frameworks
+  - KDE GTK Configuration
+  - KDE Log Viewer
+  - KFind
+  - KGet
+  - Kile
+  - Kipi Panorama
+  - Kiriki
+  - KJumpingCube
+  - Kleopatra
+  - KLines
+  - KMag
+  - KMenu Editor
+  - KMouse Tool
+  - KMouth
+  - KNetAttach
+  - Konversion
+  - KNotes
+  - Kolf
+  - Kolour Paint
+  - KOrganizer
+  - KPat
+  - KPresenter
+  - KRename
+  - Kronometer
+  - KRDC
+  - Krfb (Desktop Sharing)
+  - KRuler
+  - KSpread
+  - KTimer
+  - KTip
+  - KTnef
+  - KTorrent
+  - Kube Mail
+  - Kuser
+  - Kwrite
+  - KWord
+  - Mail Client
+  - Muon
+  - Photo Layouts Editor
+  - Picmi
+  - Planet KDE
+  - Plasma Desktop Workspace
+  - Plasma Media Center
+  - Plasma Mobile Phone
+  - Plasma Windowed
+  - Preferences Desktop Font Installer
+  - QElectroTech
+  - Quassel IRC
+  - rekonq
+  - Ring KDE
+  - Ruby
+  - Sheets
+  - Skanlite
+  - Subtitle Composer
+  - Sweeper
+  - System Setting
+  - Utilities Energy Monitor
+  - Telepathy KDE
+  - Telephony
+  - Ubiquity KDE
+  - Umbrello UML Modeller
+  - USB Creator KDE
+  - Vector Magic
+  - Word
+  - Yakuake
+
+* Added XFCE icons:
+  - Kvantum Manager
+
+* Added icons generally:
+  - Bitorrent
+  - Calibre eBook Editor
+  - Calibre Viewer
+  - Claways Mail
+  - Converseen
+  - FreeMind
+  - Hotspot
+  - KeePass
+  - LastPass
+  - MatLab
+  - Master PDF Editor
+  - Mendeley Desktop
+  - q4wine
+  - QupZilla
+  - Rosegarden
+  - Sage Notebook
+  - SMTube
+  - Stage
+  - Yandex Browser
+
+* Added categoric apps icons:
+  - Astronomy
+  - Biology
+  - Chemistry
+  - Geography
+  - History
+  - Laws
+  - Linguistics
+  - Maths
+  - Multimedia
+  - Physics
+  - Programming
+
+* Added distributions icons:
+  - Arch Linux
+  - Debian
+  - Fedora
+  - Frugalware
+  - Gentoo
+  - Linux Mint
+  - Mandriva
+  - OpenSUSE
+  - Slackware
+
+* Added Maths icons:
+  - CoqIDE Proof Assistant
+  - FreeMat<sup>1</sup>
+  - Geomview<sup>1</sup>
+  - GfsView
+  - Generatore Gmsh Mesh
+  - GNU PSPP
+  - Jmol
+  - Mathomatic
+  - Maxima Algebra System
+  - OCaml
+  - ParaView
+  - Proof General<sup>1</sup>
+  - R Language
+  - R Commander<sup>1</sup>
+  - Regina
+  - RKWard
+  - wxMaxima
+  - Xcas
+
+* Fixed icons in KDE, purging PNG and rewriting in pure SVG:
+  - All calculator icons
+  - All colour pickers icons
+  - All geolocalisation icons
+  - All global icons
+  - All gallery icons
+  - All mail icons
+
 # v10.3
 
 * The `index.themes` errors have been fixed for not being recognised.
