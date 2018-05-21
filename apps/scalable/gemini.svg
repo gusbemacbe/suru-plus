@@ -103,6 +103,19 @@
        y1="-212"
        x2="296"
        y2="236" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8507"
+       x="-0.075999963"
+       width="1.1519999"
+       y="-0.035076931"
+       height="1.0701539">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69605774"
+         id="feGaussianBlur8509" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -111,9 +124,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6054688"
-     inkscape:cx="-65.401446"
-     inkscape:cy="128"
+     inkscape:zoom="3.4586323"
+     inkscape:cx="128"
+     inkscape:cy="127.84507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -182,18 +195,37 @@
        id="path897"
        inkscape:connector-curvature="0" />
     <g
-       id="g873"
-       transform="translate(0.79375165,0.03073)">
-      <path
-         id="path14"
-         style="fill:#ffffff;stroke-width:1.05833328"
-         d="m 33.072917,241.43751 a 21.166668,21.166668 0 0 0 -21.166669,21.16668 21.166668,21.166668 0 0 0 21.166669,21.16664 v -6.35 a 14.816667,14.816667 0 0 1 -14.816669,-14.81664 14.816667,14.816667 0 0 1 14.816669,-14.81668 14.816667,14.816667 0 0 1 14.816668,14.81668 h 6.349996 A 21.166668,21.166668 0 0 0 33.072917,241.43751 Z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path16"
-         style="fill:#00adef;stroke-width:1.05833328"
-         d="m 33.072917,252.02083 a 10.583334,10.583334 0 0 0 -10.583333,10.58336 h 6.350001 a 4.2333333,4.2333333 0 0 1 4.233332,-4.23336 4.2333333,4.2333333 0 0 1 4.233332,4.23336 h 6.35 A 10.583334,10.583334 0 0 0 33.072917,252.02083 Z"
-         inkscape:connector-curvature="0" />
+       transform="translate(-1.3002688,0.20135966)"
+       id="g8489"
+       style="fill:#000000;fill-opacity:1;filter:url(#filter8507);opacity:0.3">
+      <circle
+         style="fill:#000000;stroke-width:0.9158659;fill-opacity:1"
+         cy="249.61143"
+         cx="35.166935"
+         r="10.990391"
+         id="circle8485" />
+      <circle
+         style="fill:#000000;stroke-width:0.9158659;fill-opacity:1"
+         cy="275.25565"
+         cx="35.166935"
+         r="10.990391"
+         id="circle8487" />
+    </g>
+    <g
+       id="g8483"
+       transform="translate(-1.3002688,0.20135966)">
+      <circle
+         id="circle10"
+         r="10.990391"
+         cx="35.166935"
+         cy="249.61143"
+         style="fill:#31afe1;stroke-width:0.9158659" />
+      <circle
+         id="circle14"
+         r="10.990391"
+         cx="35.166935"
+         cy="275.25565"
+         style="fill:#f19f00;stroke-width:0.9158659" />
     </g>
   </g>
 </svg>
