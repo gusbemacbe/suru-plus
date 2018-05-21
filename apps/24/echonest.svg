@@ -8,12 +8,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16.000004"
+   height="16"
    id="svg7384"
    version="1.1"
-   width="16"
+   width="15.999999"
    sodipodi:docname="echonest-symbolic.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,13 +23,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1634"
-     inkscape:window-height="924"
-     id="namedview15"
+     inkscape:window-width="1495"
+     inkscape:window-height="697"
+     id="namedview16"
      showgrid="false"
-     inkscape:zoom="8.5906234"
-     inkscape:cx="-33.73493"
-     inkscape:cy="-23.949385"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.9999995"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
@@ -69,30 +69,30 @@
      id="layer9"
      label="status"
      style="display:inline"
-     transform="translate(-693.0002,227)" />
+     transform="translate(-593.00017,207.00006)" />
   <g
      id="layer2"
-     transform="translate(-452,-140)" />
+     transform="translate(-351.99997,-159.99994)" />
   <g
      id="layer3"
      style="display:inline"
-     transform="translate(-452,-140)" />
+     transform="translate(-351.99997,-159.99994)" />
   <g
      id="layer1"
-     transform="translate(-452,-140)" />
+     transform="translate(-351.99997,-159.99994)" />
   <g
-     id="g877"
-     transform="matrix(0.35433074,0,0,0.35433074,-3.9286148,-84.989537)"
+     id="g873"
+     transform="matrix(0.35433071,0,0,0.35433071,-3.7187498,-85.048722)"
      style="fill:#808080;fill-opacity:1">
     <path
        id="path14"
-       style="fill:#808080;fill-opacity:1;stroke-width:1.05833364"
-       d="m 33.665209,241.27046 a 21.166674,21.166674 0 0 0 -21.166675,21.16668 21.166674,21.166674 0 0 0 21.166675,21.16665 v -6.35 a 14.816672,14.816672 0 0 1 -14.816673,-14.81665 14.816672,14.816672 0 0 1 14.816673,-14.81668 14.816672,14.816672 0 0 1 14.816672,14.81668 h 6.349998 a 21.166674,21.166674 0 0 0 -21.16667,-21.16668 z"
+       style="fill:#808080;fill-opacity:1;stroke-width:1.05833328"
+       d="m 33.072917,241.43751 a 21.166668,21.166668 0 0 0 -21.166669,21.16668 21.166668,21.166668 0 0 0 21.166669,21.16664 v -6.35 a 14.816667,14.816667 0 0 1 -14.816669,-14.81664 14.816667,14.816667 0 0 1 14.816669,-14.81668 14.816667,14.816667 0 0 1 14.816668,14.81668 h 6.349996 A 21.166668,21.166668 0 0 0 33.072917,241.43751 Z"
        inkscape:connector-curvature="0" />
     <path
        id="path16"
-       style="fill:#808080;fill-opacity:1;stroke-width:1.05833364"
-       d="m 33.665209,251.85378 a 10.583337,10.583337 0 0 0 -10.583336,10.58336 h 6.350002 a 4.2333345,4.2333345 0 0 1 4.233334,-4.23336 4.2333345,4.2333345 0 0 1 4.233333,4.23336 h 6.350002 A 10.583337,10.583337 0 0 0 33.665209,251.85378 Z"
+       style="fill:#808080;fill-opacity:1;stroke-width:1.05833328"
+       d="m 33.072917,252.02083 a 10.583334,10.583334 0 0 0 -10.583333,10.58336 h 6.350001 a 4.2333333,4.2333333 0 0 1 4.233332,-4.23336 4.2333333,4.2333333 0 0 1 4.233332,4.23336 h 6.35 A 10.583334,10.583334 0 0 0 33.072917,252.02083 Z"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
