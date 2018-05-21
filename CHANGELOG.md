@@ -1,3 +1,7 @@
+# v11.1
+
+* I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
+
 # v11
 
 * We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
