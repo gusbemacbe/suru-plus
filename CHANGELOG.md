@@ -1,8 +1,10 @@
 # v11
 
-We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
+* We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
 
-We also added *egg easters*, we just won't tell which icons. We let you discover yourself and guess. ;-)
+* We have created an alias of folders for Suru++ Lubuntu folder.
+
+* We also have added *egg easters*, we just won't tell which icons. We let you discover yourself and guess. ;-)
 
 * Added Ubuntu GNOME icons with improvements: 
   - Apt URL
