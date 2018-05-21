@@ -186,6 +186,8 @@ We also added *egg easters*, we just won't tell which icons. We let you discover
   - wxMaxima
   - Xcas
 
+<sup>1</sup> These maths apps use the relative paths and the image format of their icons instead. We recommend you to rename `Icon=...` with just a name without format. 
+
 * Fixed icons in KDE, purging PNG and rewriting in pure SVG:
   - All calculator icons
   - All colour pickers icons

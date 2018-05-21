@@ -26,7 +26,9 @@ git pull origin master
 # Download then the icon pack...
 git clone https://github.com/Magog64/SURU-PLUS.git
 # To update the next latest changes
-git pull origin master 
+git pull origin master
+# You need to rename this foldr
+mv SURU-PLUS Suru++
 ```
 
 ### SVN

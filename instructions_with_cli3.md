@@ -23,6 +23,8 @@ cd ~/.local/share/icons
 git clone https://github.com/Magog64/SURU-PLUS.git
 # To update the next latest changes
 git pull origin master 
+# You need to rename this foldr
+mv SURU-PLUS Suru++
 ```
 
 You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
