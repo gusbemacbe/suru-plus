@@ -1,3 +1,165 @@
+# v12
+
+<sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
+
+* Added categoric applications (`places`) and folders (`categories`):
+  * Accessories
+  * Aerospace Engineering
+  * Architecture
+  * Astronomy
+  * Biology
+  * Board Games
+  * Card Games
+  * Chemistry
+  * Development
+  * Education
+  * Education - Language
+  * Education - Mathematics
+  * Education - Science
+  * Electronics Engineering
+  * Engineering
+  * Fonts
+  * Games
+  * Geography
+  * Graphics
+  * History
+  * Interface Design
+  * Internet
+  * Java
+  * Languages
+  * Linguistics
+  * Laws
+  * Mail
+  * Management
+  * Mathematics
+  * Maths
+  * MonoDevelopment
+  * Multimedia
+  * Office
+  * Painting
+  * Photography
+  * Physics
+  * Programming
+  * Robotic Engineering
+  * Science
+  * System
+  * Utilities
+  * Viewers
+  * Web Browsers
+  * event-birthday
+  * GNOME Control Centre
+  * GNOME Development
+  * GNOME Globe
+  * GNOME Graphics
+  * GNOME Joystick
+  * GNOME Multimedia
+  * GNOME Panel
+  * GNOME Settings
+  * GNOME System
+  * GNOME Translate
+  * GNOME Utilities
+  * GTK Preferences
+  * KDE Control
+  * preferences-desktop-accessibility
+  * preferences-desktop-display
+  * preferences-desktop-font
+  * preferences-desktop-icons
+  * preferences-desktop-keyboard
+  * preferences-desktop-locale
+  * preferences-desktop-peripherals
+  * preferences-desktop-personal
+  * preferences-desktop-theme
+  * preferences-desktop-wallpaper
+  * preferences-system-network
+  * preferences-system-parental-control
+  * preferences-system-power
+  * preferences-system-time
+  * RedHat Accessories
+  * RedHat Games
+  * RedHat Graphics
+  * RedHat Internet
+  * RedHat Office
+  * RedHat Preferences
+  * RedHat Programming
+  * RedHat Sound and Video
+  * RedHat System Tools
+  * XFCE Development
+  * XFCE Games
+  * XFCE Graphics
+  * XFCE Internet
+  * XFCE Multimedia
+  * XFCE Office
+  * XFCE System
+  * XFCE Utilities
+  * 
+
+* Added some emojis. 
+
+* Added KDE icons:
+  * Calligra Flow
+  * Calligra Kexi
+  * Cantor (scientific statistics and analysis)
+  * Echo Nest
+  * KAlarm
+  * KDE Connect
+  * KEuroCalc
+  * KFloppy
+  * Kipi DNG Converter
+  * KIpi EXPO Blending
+  * KMix
+  * KRunner
+  * KSysGuard
+  * KWallet Manager
+  * KwikDisk
+  * Lokalize
+  * Nootka
+  * Plasma Search
+  * Ramme
+
+* Added icons:
+  * Backups
+  * BitTorrent Sync (btsync)
+  * Caprine<sup>1</sup>
+  * Citrix Receiver
+  * CPU Frequency
+  * Diffuse
+  * Foxit Reader
+  * Gemini
+  * Genymotion
+  * Goa Panel
+  * Groovy
+  * Messenger for Desktop
+  * NPM Applet
+  * QMPlay2
+
+* Added MATE icons:
+  * Invest Applet
+
+* Improved missed icons already created:
+  * Déjà Dup
+  * Disk Usage Analyser
+  * Document Viewer
+  * Eye of GNOME (eog)
+  * Evince
+  * Facebook Messenger
+  * File Archiver
+  * Google Chrome
+  * GNOME Logs
+  * GNOME Usage
+  * Image Viewer
+  * Inkscape
+  * Insync (folders)
+  * Kexi
+  * Log Viewer
+  * Network Manager
+  * Octave Backend
+  * Power Stats
+  * Preferences Desktop Icons
+  * Session Properties
+  * Statistics
+  * Virtual Box
+  * XTerm
+
 # v11.1
 
 * I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
