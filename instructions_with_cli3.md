@@ -1,6 +1,6 @@
 # Installation with CLI
 
-## For users of Ubuntu 16.04.4 and above, Kali Linux and any new Debian-derived distributions.
+## For users of Ubuntu 18.04
 
 You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
 
