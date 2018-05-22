@@ -1,6 +1,6 @@
 ---
-name: Missed icon
-about: This issue template is designed for ONE missed icon report.
+name: Several sissed icons
+about: This issue template is designed for MANY missed icons report.
 
 ---
 
@@ -24,16 +24,10 @@ about: This issue template is designed for ONE missed icon report.
 
 <!-- Please go to /usr/share/applications at Nautilus and open a desktop file with Gedit -->
 
-* **Missed icons:**
-  * App name:
-  * App type:
-    - [ ] Flatpak
-    - [ ] Native Debian package
-    - [ ] Snap
-    - [ ] Source code
-  * Icon name (copy "`Icon=...`"): 
-  * Description (copy "`Comment=...`"): :
-  * Reference <!-- (site (if it doesn't have, leave "without reference")) -->: 
+| App name | App type                           | Icon name | Description    | Reference            |
+| -------- | ---------------------------------- | --------- | -------------- | -------------------- |
+| Nautilus | Debian, Flatpak, KDE, XFCE or snap | nautilus  | A file manager | View the icon's link |
+| ...      | ...                                | ...       | ...            | ...                  |
 
 * **Screenshots**
 
