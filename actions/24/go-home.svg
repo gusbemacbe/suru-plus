@@ -1,13 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 12 4 L 11.292969 4.7070312 L 4 12 L 4.7070312 12.707031 L 5 12.414062 L 5 20 L 6 20 L 11 20 L 14 20 L 19 20 L 19 19 L 19 12.414062 L 19.292969 12.707031 L 20 12 L 17 9 L 17 6 L 14 6 L 12.707031 4.7070312 L 12 4 z M 12 5.4140625 L 18 11.414062 L 18 19 L 14 19 L 14 14 L 11 14 L 10 14 L 10 19 L 6 19 L 6 11.414062 L 12 5.4140625 z "
-     class="ColorScheme-Text"
-     />
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-292 -52)'>
+        
+        <path color='#000' d='M306 57v-2h-2.002z' fill='gray' overflow='visible' style='marker:none'/>
+        <path d='M294 59v8h9v-1h-8v-7.667zm11.002-1L305 67h1v-8z' fill='gray' font-family='Ubuntu' font-size='15' font-weight='400' letter-spacing='0' style='line-height:125%;-inkscape-font-specification:Ubuntu;text-align:center' text-anchor='middle' word-spacing='0'/>
+        <path d='M300 60.986a8.47 8.47 0 0 1 .607-.122c.252-.043.543-.064.872-.064.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V66.2h-3z' fill='gray' font-family='Ubuntu' font-weight='400' letter-spacing='0' style='line-height:125%;-inkscape-font-specification:Ubuntu;text-align:end' text-anchor='end' word-spacing='0'/>
+        <path color='#000' d='M300 52.293l-7.854 7.853.708.708L300 53.707l7.146 7.147.708-.708z' fill='gray' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+    </g>
 </svg>

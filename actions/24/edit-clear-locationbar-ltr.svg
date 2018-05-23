@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="edit-clear-locationbar-ltr.svg">
   <metadata
      id="metadata10">
@@ -32,15 +32,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="783"
      inkscape:window-height="480"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
@@ -54,8 +54,8 @@
       </style>
   </defs>
   <path
-     style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
-     d="M 15,4 22.056641,11.056641 23,12 22.056641,12.943359 15,20 2.666016,20 1,20 1,4 2.666016,4 15,4 Z M 11.679688,8 9,10.679688 6.320312,8 5,9.3203125 7.679688,12 5,14.679688 6.320312,16 9,13.320312 11.679688,16 13,14.679688 10.320312,12 13,9.3203125 11.679688,8 Z"
+     style="color:#4d4d4d;fill:#808080;fill-opacity:1;stroke:none"
+     d="M 10,2 15.292969,7.2929688 16,8 15.292969,8.7070312 10,14 1,14 0,14 0,2 1,2 10,2 Z M 7.9980469,5 5.988281,7.0097656 3.978516,5 2.988281,5.9902344 4.998047,8 2.988281,10.009766 3.978516,11 5.988281,8.9902344 7.9980469,11 8.9882812,10.009766 6.9785156,8 8.9882812,5.9902344 7.9980469,5 Z"
      class="ColorScheme-Text"
      id="path6"
      inkscape:connector-curvature="0" />

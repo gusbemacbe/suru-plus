@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
       </style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 3 L 4 19 L 5 19 L 12 19 L 12 18 L 5 18 L 5 4 L 17 4 L 17 13 L 18 13 L 18 3 L 17 3 L 5 3 L 4 3 z "
+ <path style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 3 2 L 3 3 L 3 13 L 3 14 L 4 14 L 8 14 L 8 13 L 4 13 L 4 3 L 12 3 L 12 8 L 13 8 L 13 3 L 13 2 L 12 2 L 4 2 L 3 2 z "
      class="ColorScheme-Text"
-     transform="translate(1,1)"
-     />
-    <path
-     style="fill:#da4453;fill-opacity:1;stroke:none"
-     d="M 13 16 L 13 17 L 18 17 L 18 16 L 13 16 z "
-        transform="translate(1,1)"
+     /> 
+ <path
+      style="fill:currentColor;fill-opacity:1;stroke:none" 
+     class="ColorScheme-NegativeText"
+      transform="translate(-421.71429,-531.79074)"
+       d="m 430.71429,542.79071 5,0 0,1 -5,0 z"
      />
 </svg>

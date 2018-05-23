@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 12 4 C 10.558286 4 9.2107109 4.3829219 8.0449219 5.0449219 L 8.7832031 5.7832031 C 9.7461101 5.2858031 10.837491 5 12 5 C 15.87797 5 19 8.122 19 12 C 19 13.1625 18.714171 14.253897 18.216797 15.216797 L 18.955078 15.955078 C 19.617129 14.789278 20 13.4417 20 12 C 20 7.568 16.431966 4 12 4 z M 5.0449219 8.0449219 C 4.3828709 9.2107219 4 10.5583 4 12 C 4 16.432 7.568034 20 12 20 C 13.441714 20 14.789289 19.617078 15.955078 18.955078 L 15.216797 18.216797 C 14.25389 18.714197 13.16251 19 12 19 C 8.12203 19 5 15.878 5 12 C 5 10.8375 5.2858281 9.7461031 5.7832031 8.7832031 L 5.0449219 8.0449219 z M 8.5 10.998047 L 8.5 12.998047 L 15.5 12.998047 L 15.5 10.998047 L 8.5 10.998047 z "
-     class="ColorScheme-NegativeText"
-     />
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g color='#000' transform='translate(-152 -260)'>
+        <path d='M156.688 260L152 264.686v6.626l4.686 4.688h6.626l4.688-4.686v-6.627L163.314 260h-.207zm.414 1h5.798l4.1 4.102v5.798l-4.102 4.1H157.1l-4.1-4.102V265.1zm.414 1L154 265.516v4.968l3.516 3.516h4.968l3.516-3.516v-4.968L162.484 262z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+        
+    </g>
 </svg>
