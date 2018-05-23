@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
@@ -7,7 +7,7 @@
       </style>
   </defs>
  <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z M 2 2 L 14 2 L 14 14 L 2 14 L 2 2 z M 3 4 L 3 12 L 7 12 L 7 4 L 3 4 z M 9 4 L 9 12 L 13 12 L 13 4 L 9 4 z M 4 5 L 6 5 L 6 11 L 4 11 L 4 5 z M 10 5 L 12 5 L 12 11 L 10 11 L 10 5 z "
+     d="M 4 4 L 4 5 L 4 20 L 5 20 L 19 20 L 20 20 L 20 19 L 20 5 L 20 4 L 4 4 z M 5 5 L 19 5 L 19 19 L 5 19 L 5 5 z M 6 8 L 6 16 L 11 16 L 11 8 L 6 8 z M 13 8 L 13 16 L 18 16 L 18 8 L 13 8 z M 7 9 L 10 9 L 10 15 L 7 15 L 7 9 z M 14 9 L 17 9 L 17 15 L 14 15 L 14 9 z "
      class="ColorScheme-Text"
      />
 </svg>

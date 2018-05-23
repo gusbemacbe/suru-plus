@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <circle cy="10" cx="10" r="5" style="fill:#fdbc4b"/>
- <circle cy="10" cx="6" r="5" style="fill:#5294e2"/>
- <circle cy="6" cx="8" r="5" style="fill:#4fef42;fill-opacity:1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <g transform="translate(-544.57141-742.93359)">
+  <circle r="4.999998" cy="756.93359" cx="558.57141" style="fill:#fdbc4b"/>
+  <circle r="4.999998" cy="756.93359" cx="552.57141" style="fill:#da4453"/>
+  <circle r="4.999998" cy="750.93359" cx="555.57141" style="fill:#1d99f3"/>
+ </g>
 </svg>

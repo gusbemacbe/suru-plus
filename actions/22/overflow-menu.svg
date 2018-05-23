@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -20,7 +20,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,15 +32,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1246"
-     inkscape:window-height="896"
+     inkscape:window-width="999"
+     inkscape:window-height="779"
      id="namedview8"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="17.251043"
-     inkscape:cy="2.7779489"
+     inkscape:zoom="7.5853273"
+     inkscape:cx="33.198554"
+     inkscape:cy="9.4729622"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -62,7 +61,7 @@
   </defs>
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="M 7,3 7,5 9,5 9,3 Z M 7,7 7,9 9,9 9,7 Z m 0,4 0,2 2,0 0,-2 z"
+     d="m 10,5 0,2 2,0 0,-2 -2,0 m 0,5 0,2 2,0 0,-2 -2,0 m 0,5 0,2 2,0 0,-2 -2,0"
      class="ColorScheme-Text"
      id="path6"
      inkscape:connector-curvature="0"

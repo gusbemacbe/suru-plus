@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
- </defs>
- <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" d="M 12 1 L 12 2 L 12 2.1816406 A 12 12 0 0 0 2.1699219 12 L 2 12 L 1 12 L 1 15 L 4 15 L 4 12 L 3.1914062 12 A 11 11 0 0 1 12 3.1894531 L 12 4 L 15 4 L 15 1 L 12 1 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+    style="fill:currentColor;fill-opacity:1;stroke:none" 
+	d="m16 3v1 1 1h3v-3h-3m1 1h1v1h-1v-1m-14 12v3h3v-3h-1-1-1m1 1h1v1h-1v-1"
+	class="ColorScheme-Text"
+    />
+  <path
+    style="fill:currentColor;fill-opacity:1;stroke:none" 
+    d="M16 4A12 12 0 0 0 4 16H5A11 11 0 0 1 16 5V4"
+	class="ColorScheme-Highlight"
+	/>
 </svg>
