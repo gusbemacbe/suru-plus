@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   width="24"
-   version="1.1"
-   id="svg16"
-   sodipodi:docname="network-server.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <metadata
-     id="metadata22">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs20" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1442"
-     inkscape:window-height="775"
-     id="namedview18"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="7.5429356"
-     inkscape:window-x="1"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg16" />
-  <g
-     transform="matrix(1.125,0,0,1.125,-437.725,-42)"
-     id="g14">
-    <path
-       d="m 402,43 h 3 v 1 h -3 z"
-       id="path2"
-       inkscape:connector-curvature="0"
-       style="fill:#808080" />
-    <path
-       d="m 393,40 v 4 h 1 v -3 h 12 v 3 h 1 v -4 z"
-       font-weight="400"
-       overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
-       id="path4"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 402,48 h 3 v 1 h -3 z"
-       id="path6"
-       inkscape:connector-curvature="0"
-       style="fill:#808080" />
-    <path
-       d="m 393,45 v 4 h 1 v -3 h 12 v 3 h 1 v -4 z"
-       font-weight="400"
-       overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
-       id="path8"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 402,53 h 3 v 1 h -3 z"
-       id="path10"
-       inkscape:connector-curvature="0"
-       style="fill:#808080" />
-    <path
-       d="m 393,50 v 6 h 14 v -6 z m 1,1 h 12 v 4 h -12 z"
-       font-weight="400"
-       overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
-       id="path12"
-       inkscape:connector-curvature="0" />
-  </g>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-392 -40)'>
+        
+        <path d='M402 43h3v1h-3z' fill='gray'/>
+        <path color='#000' d='M393 40v4h1v-3h12v3h1v-4z' fill='gray' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+        <path d='M402 48h3v1h-3z' fill='gray'/>
+        <path color='#000' d='M393 45v4h1v-3h12v3h1v-4z' fill='gray' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+        <path d='M402 53h3v1h-3z' fill='gray'/>
+        <path color='#000' d='M393 50v6h14v-6zm1 1h12v4h-12z' fill='gray' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+    </g>
 </svg>
