@@ -1,0 +1,12 @@
+Comment = Login to online accounts
+[Desktop Entry]
+Encoding = UTF-8
+Exec = /usr/bin/signon-ui
+Icon = signon-ui
+Name = Account authentication
+NoDisplay = true
+Terminal = false
+Type = Application
+Version = 1.0
+X-Ubuntu-Gettext-Domain = signon-ui
+

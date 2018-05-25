@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GfsView 3D
+Comment=View Gerris 3D simulations
+Exec=gfsview3D -s %F
+Terminal=false
+Type=Application
+Categories=Application;Education;Science;DataVisualization;
+MimeType=application/gerris-3D;application/gfsview-3D;
+StartupNotify=true
+Icon=application-gerris.png

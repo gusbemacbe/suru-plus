@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories = HardwareSEttings;  System;
+Comment = Click the button in this program when your printer ran out of paper and you have refilled the paper
+# zExec=usb_printerid /dev/usb/lp0
+Exec = /usr/share/foo2zjs/hplj10xx_gui.tcl
+Icon = hplj1020_icon
+# Icon = /usr/share/pixmaps/hplj1020_icon.png
+Name[en_GB] = HP LaserJet 1018/1020
+Name = Reactivate HP LaserJet 1018/1020 after reloading paper
+NoDisplay = true
+StartupNotify = true
+Terminal = false
+Type = Application
+X-Desktop-File-Install-Version = 0.10

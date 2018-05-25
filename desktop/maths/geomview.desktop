@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name = Geomview
+Categories = Education; Engineering; Mathematics;  Math; Maths; Science; SCiences;
+Comment = Interactive geometry viewing program
+Exec = geomview
+Icon = geomview 
+# Icon = /usr/share/pixmaps/geomview.xpm
+Terminal = false
+Type = Application
+Version = 1.0

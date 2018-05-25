@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories = DataVisualization; Education; Mathematics; Math; Maths; Science;
+Comment = View Gerris simulations
+Encoding = UTF-8
+Exec = gfsview -s %F
+Icon = gfsview
+MimeType = application/gerris-compressed; application/gfsview-2D; application/gfsview-3D;
+Name = GfsView
+NoDisplay = true
+StartupNotify = true
+Terminal = false
+Type = Application
