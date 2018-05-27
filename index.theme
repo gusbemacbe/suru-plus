@@ -48,18 +48,18 @@ Name[zh_CN]=Suru++
 Name[zh_TW]=Suru++
 
 Comment=An elegant, modern and sweet icons theme,based on Sam Hewitt's Suru Icons
-Comment[af]='N elegante, moderne en soete ikone tema,gebaseer op Sam Hewitt se Suru Icons
-Comment[ca]=Un tema elegant, modern i dolç d'icones,basat en Suru Icons de Sam Hewitt
-Comment[de] =Ein elegantes, modernes und süßes Ikonenthema,basierend auf Sam Hewitts Suru Icons
-Comment[de_AT]=Ein elegantes, modernes und süßes Ikonenthema,basierend auf Sam Hewitts Suru Icons
-Comment[de_CH]=Ein elegantes, modernes und süßes Ikonenthema,basierend auf Sam Hewitts Suru Icons
-Comment[el]=Ένα κομψό, μοντέρνο και γλυκό θέμα εικονιδίων,βασισμένο στα Suru Icons του Sam Hewitt
-Comment[es]=Un tema elegante, moderno y dulce de iconos ,basado en el Suru Icons de Sam Hewitt
-Comment[fr]=Un thème élégant, moderne et doux d'icônes,basé sur les icônes Suru de Sam Hewitt
-Comment[it]=Un tema elegante, moderno e dolce d'icone,basato sul Suru Icons di Sam Hewitt
-Comment[ka]=ტკბილი,ელეგანტური და თანამედროვე ხატები თემა,რომელიც ეფუძნება სემ ჰიუტის Suru Icons
-Comment[pt_BR]=Um tema doce, elegante e moderno,baseado no Suru Icons de Sam Hewitt
-Comment[pt_PT]=Um tema doce, elegante e moderno de ícones,baseado no Suru Icons de Sam Hewitt
+Comment[af]='N elegante, moderne en soete ikone tema, gebaseer op Sam Hewitt se Suru Icons
+Comment[ca]=Un tema elegant, modern i dolç d'icones, basat en Suru Icons de Sam Hewitt
+Comment[de] =Ein elegantes, modernes und süßes Ikonenthema, basierend auf Sam Hewitts Suru Icons
+Comment[de_AT]=Ein elegantes, modernes und süßes Ikonenthema, basierend auf Sam Hewitts Suru Icons
+Comment[de_CH]=Ein elegantes, modernes und süßes Ikonenthema, basierend auf Sam Hewitts Suru Icons
+Comment[el]=Ένα κομψό, μοντέρνο και γλυκό θέμα εικονιδίων ,βασισμένο στα Suru Icons του Sam Hewitt
+Comment[es]=Un tema elegante, moderno y dulce de iconos , basado en el Suru Icons de Sam Hewitt
+Comment[fr]=Un thème élégant, moderne et doux d'icônes, basé sur les icônes Suru de Sam Hewitt
+Comment[it]=Un tema elegante, moderno e dolce d'icone, basato sul Suru Icons di Sam Hewitt
+Comment[ka]=ტკბილი,ელეგანტური და თანამედროვე ხატები თემა, რომელიც ეფუძნება სემ ჰიუტის Suru Icons
+Comment[pt_BR]=Um tema doce, elegante e moderno, baseado no Suru Icons de Sam Hewitt
+Comment[pt_PT]=Um tema doce, elegante e moderno de ícones, baseado no Suru Icons de Sam Hewitt
 Comment[ro]=O temă elegantă, modernă și dulce icoanelor, bazată pe Suru Icons ale Sam Hewitt
 
 DisplayDepth=32
@@ -81,7 +81,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/scalable,status/symbolic,fonts,wallpapers
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/scalable,status/symbolic
 
 [actions/16]
 Context=Actions
@@ -315,16 +315,4 @@ Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
-
-[X-GNOME-Metatheme]
-GtkTheme=
-MetacityTheme=
-IconTheme=Suru++
-
-ApplicationFont=fonts/overpass/
-BackgroundImage=suru1.png
-DesktopFont=fonts/overpass/
-GtkColorScheme=
-MonospaceFont=fonts/overpass-mono/
-SoundTheme=
 
