@@ -1,35 +1,63 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='15.999999' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='15.999999' xmlns='http://www.w3.org/2000/svg'>
-  <metadata id='metadata20854'>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   width="16"
+   height="16"
+   version="1.1"
+   sodipodi:docname="org.gnome.Todo-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1343"
+     inkscape:window-height="810"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
     <rdf:RDF>
-      <cc:Work rdf:about=''>
-        <dc:title/>
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs id='defs7386'>
-    <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
-    </linearGradient>
-    <linearGradient id='linearGradient4526' osb:paint='solid'>
-      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
-    </linearGradient>
-    <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
-      <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
-      <stop id='stop3604-6' offset='1' style='stop-color:#dbdbdb;stop-opacity:1'/>
-    </linearGradient>
-  </defs>
-  <g id='layer9' label='status' style='display:inline' transform='translate(-513.0002,167)'/>
-  <g id='layer2' transform='translate(-272,-200)'/>
-  <g id='layer4' transform='translate(-272,-200)'/>
-  <g id='g1812' style='display:inline' transform='translate(-272,-200)'>
-    
-    <path d='m 285.96875,202.96875 -7.46875,7.46875 -4.46875,-4.46875 -1.0625,1.0625 5.53125,5.5293 8.53125,-8.5293 z' id='path4135' style='color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate'/>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer9"
+     transform="translate(-423 105)"
+     style="fill:#808080;fill-opacity:1">
+    <path
+       id="path12360"
+       d="m425-104c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h11c0.554 0 1-0.446 1-1v-7.4419l-6.441 6.0048-4.125-4.0767 2.0625-1.9933 2.0312 1.9763 6.4723-5.9111v-0.55806c0-0.554-0.446-1-1-1z"
+       style="fill:#808080;fill-opacity:1" />
   </g>
-  <g id='g6217' transform='translate(-272,-200)'/>
-  <g id='layer3' style='display:inline' transform='translate(-272,-200)'/>
-  <g id='g1833' style='display:inline' transform='translate(-272,-200)'/>
-  <g id='layer1' transform='translate(-272,-200)'/>
 </svg>
