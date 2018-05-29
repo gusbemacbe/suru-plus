@@ -1,12 +1,13 @@
 # v13.1
 
 * Due to @paullinuxthemer's suggestions, I and @magog64 decided to separate the GTK, icons themes and wallpapers for the new repositories for facilitating the users who wish to download only the icons themes. Besides, the desktop and cursor theme will be maintained in the Suru++.
-* WE have announced that @gusbemacbe officialised and released the PPA od Suru++ which comes with a full pack:
+* We have announced that @gusbemacbe officialised and released the PPA od Suru++ which comes with a full pack:
+
   ```shell
   sudo add-apt-repository ppa:gusbemacbe/ppa
   sudo apt-get update
   sudo apt install suru-plus-pack
- ```
+   ```
 
  The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
 
