@@ -1,3 +1,197 @@
+# v13
+
+We have made a biggest update, biggest than v11. :-D We have good news...
+
+* Added and fixed missed icons in the folders `actions`:
+  * Blueman
+  * DBLatex
+  * KStarts Planet
+
+* Fixed dead symlink icons in `actions`, `categories`, `devices`, `emblems`, `mimetypes`, `places` and  `status`
+* Added cursor theme for Suru++ icons theme.
+* Added provided desktop files.
+* Added SGT Puzzles icons.
+
+* Added categoric folders:
+  * folder-macos
+  * folder-windows
+  * gnome-fs-home
+
+* Added categoric applications (`places`) and folders (`categories`):
+  * 3D
+  * Activity Journal
+  * Applications
+  * Archive ZIP
+  * Arcade
+  * Chat
+  * Community
+  * Drawing
+  * File Sharing
+  * Geology
+  * IDE
+  * Libraries
+  * LISP
+  * OCaml
+  * Perl
+  * PHP
+  * Preferences - Autocompletion
+  * Preferences - Calendar and Task
+  * Preferences - Certificates
+  * Preferences - Composer
+  * Preferences - Desktop Peripherals
+  * Preferences - Desktop Peronsal
+  * Preferences - Mail Accounts
+  * Preferences - Power
+  * Preferences - System Bluetooth
+  * Preferences - System Directory
+  * Preferences - System Network Proxy
+  * Preferences - System Network
+  * Preferences - System Privacy
+  * Preferences - System Windows
+  * Profiling
+  * Publishing
+  * Puzzles
+  * Python
+  * Role Playing
+  * Ruby
+  * Sports
+  * System Orange
+  * Version Control
+
+* Added devices:
+  * Drive Hard Disk
+  * Drive Removable Media
+
+* Added applications icons:
+  * 7zip
+  * AirCrack
+  * App Grid
+  * Armory
+  * Atril
+  * Audicius
+  * Avant Window Navigator
+  * Avoadro
+  * AWN Plugins
+  * AWN Settings
+  * Beryl
+  * Blue Radio
+  * Blueman
+  * Cantor
+  * Compiz
+  * Color Grab
+  * Deepin Screenshot
+  * Desktop Environment GNOME
+  * Desktop Environment KDE
+  * Desktop Environment LXDE
+  * Desktop Environment MATE
+  * Desktop Environment XFCE
+  * Devianart
+  * Display Preferences
+  * DVD Player
+  * Emeral
+  * Engrampa
+  * Fedora Settings
+  * Firefox Aurora
+  * Gallery
+  * GNOME Power Statistics
+  * GNU Emacs Client
+  * Google Chrome Unstable
+  * Grave
+  * GTK Network
+  * GTK3 Icon Browser
+  * GTranslator
+  * Gufw Firwall
+  * GV
+  * Haguichi
+  * HP Toolbox
+  * Input Keyboard
+  * Input Mouse
+  * Input Tablet
+  * KDE Accunt Wizard
+  * KDeconncent
+  * KeePassxc
+  * KOrganizer
+  * KPhoto
+  * KSysGuard
+  * Labplot
+  * LeafPad
+  * Lightwork
+  * MATE Power Satistics
+  * Menu Libre
+  * MugSHot
+  * Octave Backend
+  * Pick (Kryogenix)
+  * Pinegrow Web [Pro]
+  * POlari
+  * Preferences - Desktop Keyboard Shortcuts
+  * Preferences - Desktop Screensaver
+  * Preferences - Ubuntu Panel
+  * QV4
+  * Screensaver (KDE)
+  * Signon UI
+  * Slide Wall
+  * Snappea
+  * Stremio
+  * Syntevo Smart Git
+  * TeX Doctk
+  * Time Admin
+  * Todo
+  * Tracker
+  * Unity Display Panel
+  * Unity Online Accounts
+  * Unity Sound Panel
+  * VBox
+  * vdochat
+  * Video Chat
+  * Vuze
+  * Winetricks
+  * XMind
+  * XFCE Sensors
+  * XN Sketch
+  * XSCreensaver (XFCE)
+  * XVKBD
+  * Yad
+
+* Fixed missed icons already created:
+  * Games
+  * Geary
+  * Gedit
+  * Inkscape
+  * KIPI Expo Blending
+  * LightGDM Greeter Settings
+  * Software Update Available
+  * Super Tux Kart
+  * VLC
+
+* Added distributions icons:
+  * Antergos
+  * CentOS
+  * Deepin OS
+  * Elementary
+  * Endless
+  * FreeBSD
+  * KDE neon
+  * Kubuntu
+  * Lubuntu
+  * Linux Mint
+  * LXLE
+  * macOS
+  * Mageia
+  * Manjaro
+  * Nitrux
+  * openBSD
+  * Parrot Security OS
+  * Porteus
+  * Solus
+  * Steam OS
+  * True OS
+  * Ubuntu Budgie
+  * Ubuntu Mate
+  * Ubuntu Studio
+  * Windows
+  * Xubuntu
+  * Zorin
+
 # v12
 
 <sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
@@ -91,7 +285,6 @@
   * XFCE Office
   * XFCE System
   * XFCE Utilities
-  * 
 
 * Added some emojis. 
 
