@@ -1,3 +1,22 @@
+# 13.2
+
+* Improved some icons in `apps/16`, `apps/24`, `apps/scalable`, `devices` and `places`.
+ 
+* Added icons:
+  * Fcitx
+  * GNOME Shell Extensions
+  * OpenShot
+  * Software Boutique
+  * To-do App
+
+* Added MATE icns:
+  * MATE Eiciel
+  * MATE Panel
+  * MATE Session Properties
+  * MATE System Log
+  * MATE
+  * Ubuntu MATE
+
 # v13.1
 
 * Due to @paullinuxthemer's suggestions, I and @magog64 decided to separate the GTK, icons themes and wallpapers for the new repositories for facilitating the users who wish to download only the icons themes. Besides, the desktop and cursor theme will be maintained in the Suru++.
