@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=GNUstep Calculator
+Name[bg]=Калкулатор за GNUstep
+Comment=Example calculator for GNUstep
+Comment[bg]=Примерен калкулатор за GNUstep
+Keywords=calculator;calculation;arithmetic;
+Keywords[bg]=калкулатор;смятане;аритметика;
+Type=Application
+Categories=Utility;Calculator;
+# Icon=/usr/lib/GNUstep/Applications/Calculator.app/Resources/Calculator.app.tiff
+Icon=Calculator.app
+Exec=Calculator

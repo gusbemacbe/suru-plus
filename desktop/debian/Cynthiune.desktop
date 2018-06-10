@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Categories=AudioVideo;Audio;Player;
+Name=Cynthiune
+Comment=A free and romantic music player
+Comment[bg]=Свободна романтична програма за слушане на музика
+Keywords=audio;song;mp3;playlist;player;music;
+Keywords[bg]=аудио;песен;mp3;плейър;музика;
+# Icon=/usr/lib/GNUstep/Applications/Cynthiune.app/Resources/Cynthiune.tiff
+Icon=Cynthiune
+Exec=Cynthiune %F
+MimeType=audio/mpegurl;audio/x-mpegurl;audio/scpls;audio/x-scpls;application/ogg;application/x-ogg;audio/flac;audio/x-flac;audio/mpeg;audio/x-mpeg;audio/mpeg3;audio/x-mpeg3;audio/mpg;audio/x-mpg;audio/mp3;audio/x-mp3;audio/musepack;audio/x-musepack;audio/x-ms-wma;audio/669;audio/amf;audio/ams;audio/dbm;audio/dmf;audio/dsm;audio/far;audio/it;audio/j2b;audio/mdl;audio/med;audio/mod;audio/mt2;audio/mtm;audio/okt;audio/psm;audio/ptm;audio/s3m;audio/stm;audio/ult;audio/umx;audio/xm;audio/x-669;audio/x-amf;audio/x-ams;audio/x-dbm;audio/x-dmf;audio/x-dsm;audio/x-far;audio/x-it;audio/x-j2b;audio/x-mdl;audio/x-med;audio/x-mod;audio/x-mt2;audio/x-mtm;audio/x-okt;audio/x-psm;audio/x-ptm;audio/x-s3m;audio/x-stm;audio/x-ult;audio/x-umx;audio/x-xm;audio/aiff;audio/x-aiff;audio/basic;audio/x-basic;audio/au;audio/x-au;audio/x-ulaw;audio/avr;audio/x-avr;application/iff;application/x-iff;audio/nist;audio/x-nist;audio/snd;audio/x-snd;audio/wav;audio/x-wav;

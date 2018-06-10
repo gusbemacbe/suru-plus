@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=Graphics;Photography;
+Name=Camera
+Comment=Download files from your digital camera
+Keywords=camera;photos;
+# Icon=/usr/lib/GNUstep/Applications/Camera.app/Resources/Camera.png
+Icon=Camera
+Exec=/usr/bin/Camera

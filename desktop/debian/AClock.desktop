@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Categories=Utility;Clock;
+Name=AClock
+Comment=Analog Clock Dockapp
+Comment[bg]=Аналогов часовник за Дока
+Keywords=clock;
+Keywords[bg]=часовник;
+# Icon=/usr/lib/GNUstep/Applications/AClock.app/Resources/clock.png
+Icon=clock
+Exec=AClock

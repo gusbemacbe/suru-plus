@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dictionary Reader
+Name[bg]=Речник (Dictionary Reader)
+Comment=A Dict client for GNUstep
+Comment[bg]=Речник за GNUstep 
+Type=Application
+Version=1.0
+Categories=Office;TextTools;Dictionary;
+Icon=dict
+# Icon=/usr/lib/GNUstep/Applications/DictionaryReader.app/Resources/dict.png
+Exec=DictionaryReader

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Categories=Utility;
+Name=Charmap
+Name[bg]=Таблица със знаци (Charmap)
+Comment=Character map for GNUstep
+Comment[bg]=Таблица със знаци за GNUstep
+Keywords=font;unicode;
+Keywords[bg]=шрифт;юникод;
+Icon=Charmap
+# Icon=/usr/share/GNUstep/Applications/Charmap.app/Resources/Charmap.png
+Exec=Charmap
+X-Desktop-File-Install-Version=0.23
