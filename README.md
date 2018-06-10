@@ -94,6 +94,12 @@ The contributors is on the file AUTHORS
 
 The changelog is available on the release page in theme's repository.
 
+## Donation
+
+I, Andrea Bonanni am not interested in receiving the donations, I encourage you to donate to Gustavo Costa for making hard works of 5 Suru++ repositories and of PPA. You are not required to donate. You can donate via PayPal:
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gusbemacbe%40gmail%2ecom&lc=BR&item_name=Suru%2b%2b%20Project&item_number=SURU2018GBRC&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">Donate here</a>
+
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni and Gustavo Costa
+GPL3 © Suru++ by Andrea Bonanni and Gustavo Costa.
