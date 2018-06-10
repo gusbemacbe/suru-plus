@@ -1,3 +1,10 @@
+# 13.4
+
+Icons designed by @gusbemacbe:
+
+* Added icon:
+  * LyX
+
 # 13.3
 
 Icons designed by @gusbemacbe:
