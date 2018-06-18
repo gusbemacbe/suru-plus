@@ -1,11 +1,52 @@
-# 13.4
+# v14
+
+Designed @Magog64:
+
+* Improved icons in the `apps`, `mimetypes` and `places`
+* Added icons:
+  * Winepak
+
+* Fixed GSConnect icons.
+
+
+Designed by @gusemacbe:
+
+* Added missed icons:
+  * GitKraken
+  * HardInfo
+  * VSCode Exploration
+
+* Added Manjaro missed icons:
+  * Bookmarks Organizer
+  * HP Logo
+  * IPython
+  * KDEsvn
+  * Manjaro Guide
+  * Manjaro Hello
+  * Networks Wired
+  * QT4 Assistant
+  * QT4 Bus Viewer
+  * QT4 Designer
+  * QT4 Logo
+  * Yaourt GUI
+
+* Added online Microsoft icons on Manjaro:
+  * Microsoft Excel
+  * Microsoft Office
+  * Microsoft OneNote
+  * Microsoft Outlook 
+  * Microsoft PowerPoint
+  * Microsoft Skype
+  * Microsoft Word
+
+# v13.4
 
 Icons designed by @gusbemacbe:
 
 * Added icon:
   * LyX
 
-# 13.3
+# v13.3
 
 Icons designed by @gusbemacbe:
 
@@ -40,7 +81,7 @@ Icons designed by @Magog64:
   * Google Music Player
   * MAME
 
-# 13.2
+# v13.2
 
 * Improved some icons in `apps/16`, `apps/24`, `apps/scalable`, `devices` and `places`.
  
