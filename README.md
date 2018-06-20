@@ -10,20 +10,6 @@
 
 ## Installation
 
-The good news is that, you are no longer required to depend on Sam Hewitt's and other Suru++ packs.
-
-### PPA (Ubuntu and Debian-derived)
-
-The another good news is that, you can say goodbye to non-CLI and CLI instruction, install like a Millennium Falcon. Gustavo Costa's (@gusbemacbe) official PPA is:
-
-```shell
-sudo add-apt-repository ppa:gusbemacbe/ppa
-sudo apt-get update
-sudo apt install suru-plus-pack
-```
-
-The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
-
 ### For Lubuntu users
 
 As you want 24px and 26px icons to be colourful in the panel, and want the dark theme, please visit:
@@ -94,12 +80,6 @@ The contributors is on the file AUTHORS
 
 The changelog is available on the release page in theme's repository.
 
-## Donation
-
-I, Andrea Bonanni am not interested in receiving the donations, I encourage you to donate to Gustavo Costa for making hard works of 5 Suru++ repositories and of PPA. You are not required to donate. You can donate via PayPal:
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gusbemacbe%40gmail%2ecom&lc=BR&item_name=Suru%2b%2b%20Project&item_number=SURU2018GBRC&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">Donate here</a>
-
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni and Gustavo Costa.
+GPL3 © Suru++ by Andrea Bonanni.
