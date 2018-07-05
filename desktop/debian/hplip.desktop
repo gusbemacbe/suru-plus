@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=HP Device Manager
+GenericName=Printer Management Application
+Comment=View device status, ink levels and perform maintenance.
+Exec=hp-toolbox
+Icon=hp_logo.png
+Terminal=false
+Categories=Application;Utility;
+X-KDE-StartupNotify=false
+StartupNotify=false
