@@ -86,13 +86,6 @@
   * ASC
   * ASCII Design
   * ASE
-  * B1 News
-  * Colour Profile
-  * MiamPlayer
-  * Synthesia
-  * TRON (by @Magog64)
-  * Vidiot
-  * Yarock
   * Astah
   * Atunes
   * Auale
@@ -107,52 +100,59 @@
   * Avast
   * Avidemux
   * Avocode
-  * AWN Applet Digital Clock
   * AWN Applet
+  * AWN Applet Digital Clock
   * AWN Manager
   * Azureus
+  * B1 News
   * Beyond Compare
   * Bugzilla 3
   * Cerebro
   * ChmSee
+  * Colour Profile
+  * Compton (@Magog64)
   * Eclipse JEE
-  * Folder Remote
+  * EOm (@Magog64)
   * Files (Nemo)
+  * Folder Remote
   * Foxit Reader
-  * Panel Drawer
+  * GNOME MPV
   * Google Translator
   * GTK DiskFRee
+  * GTK Hash (@Magog64)
+  * GTK Select Colour (@Magog64)
   * GTK3 Demo
   * GTK3 Widget Factory
   * GTK4 Demo
-  * GNOME MPV
   * KDiskFree
   * Kig
   * Kiten
+  * KMix
   * KmPlot
   * KStars
   * lFTP
+  * LightDM SEttings
+  * MiamPlayer
   * MidnightCommander
+  * Mozo (@Magog64)
   * Oracle Java 8
-  * KMix
   * Osmo
+  * Panel Drawer
   * PHPSTorm
-  * Python 3.5
   * PyCharm
+  * Python 3.5
   * RClock
+  * Remmina (@Magog64)
   * Revelation
   * Rygel
   * Seahorse Preferences
-  * Typora
-  * Compton (@Magog64)
-  * EOm (@Magog64)
-  * GTK Select Colour (@Magog64)
-  * GTK Hash (@Magog64)
-  * LightDM SEttings
-  * Mozo (@Magog64)
-  * Remmina (@Magog64)
-  * Software Center
   * Softare Properties GTK (@Magog64)
+  * Software Center
+  * Synthesia
+  * TRON (by @Magog64)
+  * Typora
+  * Vidiot
+  * Yarock
 
 * Added categoric applications icons in the folder `apps`:
   * Applications - Accessories 
@@ -183,7 +183,7 @@
   * Adobe Lightroom
   * Adobe Photoshop
   * Adobe Prelude
-  * Adobe Premiere Pr
+  * Adobe Premiere Pro
   * Adobe Speedgrade
   * Adobe Update
   * Adobe Widget Browser
@@ -243,7 +243,7 @@
   * Panel Clock
   * Panel Notification
   * Power Management
-  * Preferences Colour
+  * Preferences Colour Profile
 
 * Added missed Manjaro icons.
 * Added missed XFCE and FXCE4 applications icons.
@@ -257,12 +257,12 @@
   * Amnesia Dark Descent (by @Magog64)
   * And Yet It MOves
   * Aspette
+  * Assault Cube
   * Astromenace (by @Magog64)
   * ATomic
   * Awesomonauts (by @Magog64)
   * Halo
   * Origin
-  * Assault Cube
 
 # v14
 
