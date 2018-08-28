@@ -1,3 +1,7 @@
+# v20.1.1 or XX 1.1
+
+Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the Belarusian, Russian and Ukrainian translations in the `index.theme`!
+
 # v20 or XX
 
 * Tested on many distributions and passed well
