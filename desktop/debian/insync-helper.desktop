@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec = insync open_gdurl %F
-Icon = insync
-MimeType = application/vnd.insync.link.drive.doc;application/vnd.insync.link.drive.draw;application/vnd.insync.link.drive.form;application/vnd.insync.link.drive.link;application/vnd.insync.link.drive.map;application/vnd.insync.link.drive.note;application/vnd.insync.link.drive.script;application/vnd.insync.link.drive.sheet;application/vnd.insync.link.drive.slides;application/vnd.insync.link.drive.table
-Name = Insync helper
-NoDisplay = true
-Type = Application

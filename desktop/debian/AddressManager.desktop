@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Categories=X-GNUstep;Office;ContactManagement;
-Name=AddressManager
-Comment=An Address Book.
-Keywords=friends;contacts manager;
-# Icon=/usr/lib/GNUstep/Applications/AddressManager.app/Resources/AddressManager.tiff
-Icon=AddressManager
-Exec=/usr/bin/AddressManager
