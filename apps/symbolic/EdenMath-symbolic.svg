@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="EdenMath.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_NiQcfOfIn6Cou4i56xAXLGESIebKcNfV">
+      <rect
+         width="16"
+         height="16"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_NiQcfOfIn6Cou4i56xAXLGESIebKcNfV)"
+     id="g10">
+    <g
+       id="layer1">
+      <path
+         d=" M 1 14.957 L 1 13.764 L 2.598 13.499 L 2.598 2.64 L 1 2.375 L 1 1.173 L 15 1.173 L 15 2.375 L 13.402 2.64 L 13.402 13.499 L 15 13.764 L 15 14.957 L 9.873 14.957 L 9.873 13.764 L 11.471 13.499 L 11.471 2.64 L 4.529 2.64 L 4.529 13.499 L 6.127 13.764 L 6.127 14.957 L 1 14.957 Z "
+         fill="#808080"
+         id="path7"
+         style="fill:#808080;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
