@@ -1,3 +1,21 @@
+# v20.2.0 or XX 2.0
+
+Added icons:
+* Android File Transfer
+* Boxes
+* Deepin Image Viewer
+* Geary
+* iBus Anthy
+* iBus KKC
+* OpenJDK 10
+* Meld
+* Notepad++ 
+* Postman
+* QT Linguist
+* QT4 Linguist
+* Visual Code Insiders
+* xTerm
+
 # v20.1.1 or XX 1.1
 
 Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the Belarusian, Russian and Ukrainian translations in the `index.theme`!
