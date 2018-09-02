@@ -1,0 +1,11 @@
+# Ignore macOS DS_Store files
+.DS_Store
+._.DS_Store
+*.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Ignore Dolphin .directory files
+*.directory
+**/.directory
+\.icon-theme\.cache
