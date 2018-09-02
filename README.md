@@ -6,20 +6,20 @@
 <h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Minimal</a></h3>
 <h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
-# Index
-- [Index](#index)
-    - [What’s new in the new version 20?](#whats-new-in-the-new-version-20)
-    - [Installing with CLI](#installing-with-cli)
-        - [Git](#git)
-        - [Subversion](#subversion)
-    - [Known bugs](#known-bugs)
-        - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
-        - [Some icons are not applied correctly and look bad in KDE](#some-icons-are-not-applied-correctly-and-look-bad-in-kde)
-    - [Report](#report)
-    - [Contribution](#contribution)
-    - [Contributors](#contributors)
-    - [Changelog](#changelog)
-    - [Credits and Licence](#credits-and-licence)
+<h1>Index</h1>
+- [What’s new in the new version 20?](#whats-new-in-the-new-version-20)
+- [Installing with CLI](#installing-with-cli)
+    - [Git](#git)
+    - [Subversion](#subversion)
+- [Changing the folder colour](#changing-the-folder-colour)
+- [Known bugs](#known-bugs)
+    - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
+    - [Some icons are not applied correctly and look bad in KDE](#some-icons-are-not-applied-correctly-and-look-bad-in-kde)
+- [Report](#report)
+- [Contribution](#contribution)
+- [Contributors](#contributors)
+- [Changelog](#changelog)
+- [Credits and Licence](#credits-and-licence)
 
 ## What’s new in the new version 20?
 
@@ -63,6 +63,10 @@ Run SVN like a Millennium Falcon with coaxium than Git, less than 10 parsecs:
 ```shell
 sudo svn export --force https://github.com/gusbemacbe/suru-plus/trunk/ /usr/share/icons/Suru++
 ```
+
+## Changing the folder colour
+
+Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemacbe/suru-plus-folders). The tutorial is translated in 7 languages.
 
 ## Known bugs
 
