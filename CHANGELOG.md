@@ -1,4 +1,24 @@
-# v20.2.0 or XX 2.0
+# v20.1.3 or XX 1.3
+
+* Fixing the broken symlinks
+* The folders `places` fixed by @SmartFinn:
+    - Remove `-blue` suffix from symbolic icons
+    - Replace duplicate `places/symbolic` icons to symlinks
+    - Remove `-blue` suffix from 16px icons
+    - Replace duplicate `places/16` icons to symlinks
+    - Delete color folder icons from `places/scalable` (for `build_color_folders.sh`)
+    - Fix several symlinks in `places/scalable`
+    - Add missing symlinks to color folders
+* Adding new folders colours
+* Add new three colours of folders — blue grey, custom and teal
+* Adding the new folders 96 and 128 and retina folders
+* Improving the `index.theme`
+* Correcting the misspelling of an icon to get well displayed. 
+* Fixing the missed directories `extensions`, `log` and `plugin` in the file `index.theme`
+* Adding 5 missed icons
+* Improving the monochromatic icons of Octopi
+
+# v20.1.2 or XX 1.2
 
 Added icons:
 * Android File Transfer
