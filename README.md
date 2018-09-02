@@ -7,6 +7,7 @@
 <h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <h1>Index</h1>
+
 - [What’s new in the new version 20?](#whats-new-in-the-new-version-20)
 - [Installing with CLI](#installing-with-cli)
     - [Git](#git)
