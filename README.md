@@ -36,6 +36,20 @@
 
 ![Screenshot](images/preview3.png)
 
+* You can choose one of three alternatives of Firefox:
+
+| <img src="apps/scalable/firefox-traditional.svg" alt="Firefox Traditional" height="100px"> | <img src="apps/scalable/firefox.svg" alt="Firefox Suru++ 20" height="100px"> | <img src="apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="100px"> |
+| :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| Traditional                                                                                | Suru++ 20                                                                    | Mozilla Unofficial                                                                 |
+| `firefox-traditional.svg`                                                                  | `firefox.svg`                                                                | `firefox-mozilla.svg`                                                              |
+
+**How to change the alternative of these?**
+
+1. Go to `/usr/share/applications/`;
+2. Go to the desktop file `Firefox`;
+3. Open the file with your favourite text editor;
+4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-mozilla` or `Icon=firefox-traditional`. Save it.
+
 ## Installing with CLI
 
 It is too easy and quick to install. I recommend strongly the SVN. Firstly you must install both packages `git` and `subversion`.
