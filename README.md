@@ -38,7 +38,7 @@
 
 * You can choose one of three alternatives of Firefox:
 
-| <img src="apps/scalable/firefox-traditional.svg" alt="Firefox Traditional" height="100px"> | <img src="apps/scalable/firefox.svg" alt="Firefox Suru++ 20" height="100px"> | <img src="apps/scalable/firefox-mozilla.svg" alt="Firefox Mozilla" height="100px"> |
+| ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
 | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | Traditional                                                                                | Suru++ 20                                                                    | Mozilla Unofficial                                                                 |
 | `firefox-traditional.svg`                                                                  | `firefox.svg`                                                                | `firefox-mozilla.svg`                                                              |
