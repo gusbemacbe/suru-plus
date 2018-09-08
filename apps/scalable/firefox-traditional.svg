@@ -2,7 +2,6 @@
 <!-- Generator: Gravit.io -->
 
 <svg
-   xmlns:gravitDesigner="http://ns.gravit.io/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,8 +16,8 @@
    height="256"
    version="1.1"
    id="svg134"
-   sodipodi:docname="firefox.svg"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+   sodipodi:docname="firefox-traditional.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata138">
     <rdf:RDF>
@@ -27,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="973"
      id="namedview136"
      showgrid="false"
      inkscape:zoom="0.921875"
-     inkscape:cx="128"
+     inkscape:cx="-52.067797"
      inkscape:cy="128"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg134" />
   <defs
