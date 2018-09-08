@@ -20,7 +20,7 @@
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 - [Changelog](#changelog)
-- [Credits and Licence](#credits-and-licence)
+- [Credits and Licences](#credits-and-licences)
 
 ## What’s new in the new version 20?
 
@@ -39,9 +39,9 @@
 * You can choose one of three alternatives of Firefox:
 
 | ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
-| :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| Traditional                                                                                | Suru++ 20                                                                    | Mozilla Unofficial                                                                 |
-| `firefox-traditional.svg`                                                                  | `firefox.svg`                                                                | `firefox-mozilla.svg`                                                              |
+| :---------------------------------: | :---------------------: | :-----------------------------: |
+| Traditional                         | Suru++ 20               | Mozilla Unofficial              |
+| `firefox-traditional.svg`           | `firefox.svg`           | `firefox-mozilla.svg`           |
 
 **How to change the alternative of these?**
 
@@ -114,12 +114,12 @@ The contributors is on the file [AUTHORS](AUTHORS).
 
 The changelog is available on the release page in theme's repository.
 
-## Credits and Licence
+## Credits and Licences
 
-* CC-BYSA/GPL3 © 2018 Suru by Sam Hewitt.
-* GPL3 © 2018 Suru++ [Minimal] by Andrea Bonanni and Gustavo Costa. 
+* CC BY-SA/GPL3 © 2018 Suru Icons by Sam Hewitt.
+* GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
 * MIT © Twemoji by Twitter Team.
-* CC-BYSA © Some Icons by Flaticon. 
+* CC BY-SA © Some Icons by Flaticon. 
