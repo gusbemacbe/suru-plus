@@ -23,7 +23,7 @@ The branch name should describe the bug or version ("alpha or "beta" or "new-ico
 ## Developing
 
 * You must use the app [Gravit Designer](https://gravit.io) to build the new icons.
-* Please use our icon template [Suru++ 20 Icon Template](templates/Suru++ 20 Template.gvdesign), opening it with Gravit Designer. Export to SVG. 
+* Please use our icon template [Suru++ 20 Icon Template](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%2B%2B%2020%20Template.gvdesign), opening it with Gravit Designer. Export to SVG. 
 * Also make two monochromatic and small icons: 
   * one for the folder `16`
   * another for the `symbolic` with the suffix `-symbolic`. 
@@ -36,8 +36,8 @@ The branch name should describe the bug or version ("alpha or "beta" or "new-ico
 * You must follow the rules of colours and grids of Sam Hewitt's [Suru Design Guideline](https://snwh.org/suru/guidelines). 
   * **Colours:** As for Suru++20, prefer the vivid colours of Suru plaette
   * **Grids:** A symbol must be resized to 145px and if it is a symbol in form of circle grid, use 165px. 
-* We also provide a Suru colours palette. Here is the [Suru Palette](templates/Suru Palette.gvswatch).
-* As for the gradients, we prepare a list of gradients for you: [Suru++ Gradients Palette](templates/Suru++ Gradients Palette.gvswatch).
+* We also provide a Suru colours palette. Here is the [Suru Palette](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%20Palette.gvswatch).
+* As for the gradients, we prepare a list of gradients for you: [Suru++ Gradients Palette](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%2B%2B%20Gradients%20Palette.gvswatch).
 
 ### Commit messages
 
