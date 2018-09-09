@@ -20,7 +20,7 @@
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 - [Changelog](#changelog)
-- [Credits and Licence](#credits-and-licence)
+- [Credits and Licences](#credits-and-licences)
 
 ## What’s new in the new version 20?
 
@@ -35,6 +35,20 @@
 * Almost all mimetype icons have been redesigned with new colours and are based on NUmix mimetype icons:
 
 ![Screenshot](images/preview3.png)
+
+* You can choose one of three alternatives of Firefox:
+
+| ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
+| :---------------------------------: | :---------------------: | :-----------------------------: |
+| Traditional                         | Suru++ 20               | Mozilla Unofficial              |
+| `firefox-traditional.svg`           | `firefox.svg`           | `firefox-mozilla.svg`           |
+
+**How to change the alternative of these?**
+
+1. Go to `/usr/share/applications/`;
+2. Go to the desktop file `Firefox`;
+3. Open the file with your favourite text editor;
+4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-mozilla` or `Icon=firefox-traditional`. Save it.
 
 ## Installing with CLI
 
@@ -100,12 +114,12 @@ The contributors is on the file [AUTHORS](AUTHORS).
 
 The changelog is available on the release page in theme's repository.
 
-## Credits and Licence
+## Credits and Licences
 
-* CC-BYSA/GPL3 © 2018 Suru by Sam Hewitt.
-* GPL3 © 2018 Suru++ [Minimal] by Andrea Bonanni and Gustavo Costa. 
+* CC BY-SA/GPL3 © 2018 Suru Icons by Sam Hewitt.
+* GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
 * MIT © Twemoji by Twitter Team.
-* CC-BYSA © Some Icons by Flaticon. 
+* CC BY-SA © Some Icons by Flaticon. 
