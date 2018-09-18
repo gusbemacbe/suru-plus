@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-    
-  <g transform="translate(1 1)">
- <path d="m330 537.3622v10l3-2 3 2v-10h-6m7 0v1h6v10h-4v1 3h-8v-4h-1v5h1 8 1v-.001l.008.001 3.99219-3.99219v-.008-1.40625-10.59375h-1-6zm-4 3h2c-2 3-4 4-4 4 0 0 1-4 2-4" transform="translate(-326-534.3622)" style="fill:#d24d57"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g transform="translate(1,1)">
+  <path style="fill:#d24d57" d="M 330,537.36 V 547.36 L 333,545.36 336,547.36 V 537.36 H 330 M 337,537.36 V 538.36 H 343 V 548.36 H 339 V 549.36 552.36 H 331 V 548.36 H 330 V 553.36 H 331 339 340 V 553.36 H 340.01 L 344,549.37 V 549.36 547.96 537.36 H 343 Z M 333,540.36 H 335 C 333,543.36 331,544.36 331,544.36 331,544.36 332,540.36 333,540.36" transform="translate(-326,-534.36)"/>
+ </g>
 </svg>
