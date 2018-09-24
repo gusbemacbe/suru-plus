@@ -6530,6 +6530,10 @@ Type=Fixed
 Size=32
 Type=Fixed
 
+[mimetypes/48]
+Size=48
+Type=Fixed
+
 [mimetypes/scalable]
 Context=Mimetypes
 Size=512
