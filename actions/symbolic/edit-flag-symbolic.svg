@@ -1,7 +1,6 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-713 3)'>
-        <rect color='#000' fill='#808080' height='15' overflow='visible' rx='1' ry='1' style='marker:none' width='2' x='714' y='-2'/>
-        <path color='#000' d='M724.657-2.156C721.832-2.436 721.063 2.25 717-1v8c5 4 5-4 10 0v-8c-.937-.75-1.691-1.092-2.343-1.156z' fill='#808080' overflow='visible' style='marker:none'/>
-        
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+ <g transform="translate(-713 3)">
+  <rect fill="#808080" width="2" height="15" x="714" y="-2" color="#000" overflow="visible" rx="1" ry="1"/>
+  <path fill="#808080" d="M724.657-2.156C721.832-2.436 721.063 2.25 717-1v8c5 4 5-4 10 0v-8c-.937-.75-1.691-1.092-2.343-1.156z" color="#000" overflow="visible"/>
+ </g>
 </svg>
