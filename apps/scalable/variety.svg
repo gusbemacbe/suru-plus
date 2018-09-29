@@ -1,1 +1,33 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 256 256" width="256" height="256"><defs><filter id="SWmfMcxneLoqmQgx72ur60i7PSAvlguR" x="-7.324" y="2.947" width="270.648" height="254.338" filterUnits="userSpaceOnUse"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.293609062839028"/><feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000" flood-opacity="0.4"/><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/></filter></defs><g filter="url(#SWmfMcxneLoqmQgx72ur60i7PSAvlguR)"><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="shape" fill="rgb(77,77,77)"/></g><g id="variety"><path d=" M 69.667 146.667 C 113.333 155.333 131.667 208.333 159.333 208.667 C 183 207 182.75 179.125 207 172.333 C 231.25 165.542 249.089 188.962 248.859 191.022 C 244.123 233.316 225.853 240.285 165.685 240.285 L 90.315 240.285 C 25.531 240.285 9.321 232.206 6.277 180.65 C 3.37 177.177 37.287 138.281 69.667 146.667 Z " id="mountain" fill="rgb(166,176,21)"/><g opacity="0.1"><path d=" M 176.993 12.045 C 240.839 13.252 250.324 26.447 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 76.592 240.285 65.049 239.923 55.349 238.861 C 62.333 226 164.333 34 176.993 12.045 Z " id="sunlight 1" fill="rgb(255,255,255)"/></g><g opacity="0.2"><path d=" M 109.667 11.947 L 165.685 11.947 C 169.756 11.947 173.636 11.979 177.332 12.051 C 136.333 87.667 63 225.667 55.937 238.925 C 26.583 235.821 13.91 226.475 8.805 201.776 C 12.713 193.652 46.344 130.385 109.667 11.947 Z " id="sunlight 2" fill="rgb(255,255,255)"/></g><path d=" M 198.438 68.76 C 184.359 68.76 172.947 80.078 172.947 94.038 C 172.947 107.999 184.36 119.317 198.438 119.317 C 212.515 119.317 223.928 107.999 223.928 94.038 C 223.928 80.078 212.515 68.76 198.438 68.76 L 198.438 68.76 Z " id="sun" fill="rgb(192,202,51)"/></g><g opacity="0.4"><linearGradient id="_lgradient_250" x1="0.5166666666666668" y1="0" x2="0.5166666666666666" y2="1.0000000000000002"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(255,255,255)"/><stop offset="12.5%" stop-opacity="0.09803922" style="stop-color:rgb(255,255,255)"/><stop offset="92.500001%" stop-opacity="0.09803922" style="stop-color:rgb(0,0,0)"/><stop offset="100%" stop-opacity="0.49803922" style="stop-color:rgb(0,0,0)"/></linearGradient><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="highlight" fill="none" vector-effect="non-scaling-stroke" stroke-width="4.077" stroke="url(#_lgradient_250)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
+ <defs>
+  <filter id="SWmfMcxneLoqmQgx72ur60i7PSAvlguR" width="270.648" height="254.338" x="-7.32" y="2.95" filterUnits="userSpaceOnUse">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  </filter>
+ </defs>
+ <g filter="url(#SWmfMcxneLoqmQgx72ur60i7PSAvlguR)">
+  <path fill="#4D4D4D" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z"/>
+ </g>
+ <g>
+  <path fill="#A6B015" d="M 69.667 146.667 C 113.333 155.333 131.667 208.333 159.333 208.667 C 183 207 182.75 179.125 207 172.333 C 231.25 165.542 249.089 188.962 248.859 191.022 C 244.123 233.316 225.853 240.285 165.685 240.285 L 90.315 240.285 C 25.531 240.285 9.321 232.206 6.277 180.65 C 3.37 177.177 37.287 138.281 69.667 146.667 Z"/>
+  <g opacity=".1">
+   <path fill="#FFFFFF" d="M 176.993 12.045 C 240.839 13.252 250.324 26.447 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 76.592 240.285 65.049 239.923 55.349 238.861 C 62.333 226 164.333 34 176.993 12.045 Z"/>
+  </g>
+  <g opacity=".2">
+   <path fill="#FFFFFF" d="M 109.667 11.947 L 165.685 11.947 C 169.756 11.947 173.636 11.979 177.332 12.051 C 136.333 87.667 63 225.667 55.937 238.925 C 26.583 235.821 13.91 226.475 8.805 201.776 C 12.713 193.652 46.344 130.385 109.667 11.947 Z"/>
+  </g>
+  <path fill="#C0CA33" d="M 198.438 68.76 C 184.359 68.76 172.947 80.078 172.947 94.038 C 172.947 107.999 184.36 119.317 198.438 119.317 C 212.515 119.317 223.928 107.999 223.928 94.038 C 223.928 80.078 212.515 68.76 198.438 68.76 L 198.438 68.76 Z"/>
+ </g>
+ <g opacity=".4">
+  <linearGradient id="_lgradient_250" x1=".517" x2=".517" y1="0" y2="1">
+   <stop offset="0%" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="12.5%" stop-opacity=".098" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="92.5%" stop-opacity=".098" style="stop-color:rgb(0,0,0)"/>
+   <stop offset="100%" stop-opacity=".498" style="stop-color:rgb(0,0,0)"/>
+  </linearGradient>
+  <path fill="none" stroke="url(#_lgradient_250)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z" vector-effect="non-scaling-stroke"/>
+ </g>
+</svg>

@@ -1,1 +1,46 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 256 256" width="256" height="256"><defs><filter id="BptOTUdNYzRdqgpcAQ6ylHwsZ41FXNeS" x="-7.324" y="2.947" width="270.648" height="254.338" filterUnits="userSpaceOnUse"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.293609062839028"/><feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000" flood-opacity="0.4"/><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/></filter></defs><g filter="url(#BptOTUdNYzRdqgpcAQ6ylHwsZ41FXNeS)"><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="shape" fill="rgb(77,77,77)"/></g><g opacity="0.05"><path d=" M 8.476 55.74 C 6.729 66.667 6.158 80.255 6.158 97.205 L 6.158 156.456 C 6.158 230.442 16.742 241 90.798 241 L 166.167 241 C 221.302 241 241.245 235.126 247.842 201.603 L 8.476 55.74 Z " id="left angle highlight" fill="rgb(255,255,255)"/></g><g opacity="0.4"><linearGradient id="_lgradient_258" x1="0.5166666666666668" y1="0" x2="0.5166666666666666" y2="1.0000000000000002"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(255,255,255)"/><stop offset="12.5%" stop-opacity="0.09803922" style="stop-color:rgb(255,255,255)"/><stop offset="92.500001%" stop-opacity="0.09803922" style="stop-color:rgb(0,0,0)"/><stop offset="100%" stop-opacity="0.49803922" style="stop-color:rgb(0,0,0)"/></linearGradient><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="highlight" fill="none" vector-effect="non-scaling-stroke" stroke-width="4.077" stroke="url(#_lgradient_258)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"/></g><g id="USB flying" filter="url(#5fD2dNpzOdkvSw81EZWUY2iRNqOhTWrT)"><path d=" M 98.143 97.314 L 64.987 159.688 C 64.348 160.864 65.195 162.3 66.528 162.301 L 189.469 162.301 C 190.825 162.302 191.671 160.824 190.99 159.646 L 154.348 97.314 L 98.143 97.314 Z " id="path1545" fill="rgb(126,126,126)"/><path d=" M 108.681 178.108 L 108.681 202.698 L 112.194 206.211 L 140.297 206.211 L 143.809 202.698 L 143.809 178.108 L 108.681 178.108 Z " id="rect1566" fill="rgb(213,213,213)"/><g opacity="0.3"><rect x="112.897" y="185.134" width="7.026" height="10.538" transform="matrix(1,0,0,1,0,0)" id="rect1568" fill="rgb(0,0,0)"/></g><g opacity="0.3"><rect x="132.568" y="185.134" width="7.026" height="10.538" transform="matrix(1,0,0,1,0,0)" id="rect1570" fill="rgb(0,0,0)"/></g><path d=" M 126.245 51.648 C 110.677 51.648 98.143 67.315 98.143 86.776 L 98.143 171.083 C 98.143 173.49 98.337 175.839 98.703 178.108 L 153.788 178.108 C 154.154 175.839 154.348 173.49 154.348 171.083 L 154.348 86.776 C 154.348 67.315 141.814 51.648 126.245 51.648 L 126.245 51.648 Z " id="rect1561" fill="rgb(190,190,190)"/></g><defs><filter id="5fD2dNpzOdkvSw81EZWUY2iRNqOhTWrT" x="34.77" y="25.648" width="186.461" height="214.563" filterUnits="userSpaceOnUse"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.293609062839028"/><feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000" flood-opacity="0.4"/><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/></filter></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
+ <defs>
+  <filter id="BptOTUdNYzRdqgpcAQ6ylHwsZ41FXNeS" width="270.648" height="254.338" x="-7.32" y="2.95" filterUnits="userSpaceOnUse">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  </filter>
+ </defs>
+ <g filter="url(#BptOTUdNYzRdqgpcAQ6ylHwsZ41FXNeS)">
+  <path fill="#4D4D4D" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z"/>
+ </g>
+ <g opacity=".05">
+  <path fill="#FFFFFF" d="M 8.476 55.74 C 6.729 66.667 6.158 80.255 6.158 97.205 L 6.158 156.456 C 6.158 230.442 16.742 241 90.798 241 L 166.167 241 C 221.302 241 241.245 235.126 247.842 201.603 L 8.476 55.74 Z"/>
+ </g>
+ <g opacity=".4">
+  <linearGradient id="_lgradient_258" x1=".517" x2=".517" y1="0" y2="1">
+   <stop offset="0%" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="12.5%" stop-opacity=".098" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="92.5%" stop-opacity=".098" style="stop-color:rgb(0,0,0)"/>
+   <stop offset="100%" stop-opacity=".498" style="stop-color:rgb(0,0,0)"/>
+  </linearGradient>
+  <path fill="none" stroke="url(#_lgradient_258)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z" vector-effect="non-scaling-stroke"/>
+ </g>
+ <g filter="url(#5fD2dNpzOdkvSw81EZWUY2iRNqOhTWrT)">
+  <path fill="#7E7E7E" d="M 98.143 97.314 L 64.987 159.688 C 64.348 160.864 65.195 162.3 66.528 162.301 L 189.469 162.301 C 190.825 162.302 191.671 160.824 190.99 159.646 L 154.348 97.314 L 98.143 97.314 Z"/>
+  <path fill="#D5D5D5" d="M 108.681 178.108 L 108.681 202.698 L 112.194 206.211 L 140.297 206.211 L 143.809 202.698 L 143.809 178.108 L 108.681 178.108 Z"/>
+  <g opacity=".3">
+   <rect width="7.026" height="10.538" x="112.9" y="185.13" transform="matrix(1,0,0,1,0,0)"/>
+  </g>
+  <g opacity=".3">
+   <rect width="7.026" height="10.538" x="132.57" y="185.13" transform="matrix(1,0,0,1,0,0)"/>
+  </g>
+  <path fill="#BEBEBE" d="M 126.245 51.648 C 110.677 51.648 98.143 67.315 98.143 86.776 L 98.143 171.083 C 98.143 173.49 98.337 175.839 98.703 178.108 L 153.788 178.108 C 154.154 175.839 154.348 173.49 154.348 171.083 L 154.348 86.776 C 154.348 67.315 141.814 51.648 126.245 51.648 L 126.245 51.648 Z"/>
+ </g>
+ <defs>
+  <filter id="5fD2dNpzOdkvSw81EZWUY2iRNqOhTWrT" width="186.461" height="214.563" x="34.77" y="25.65" filterUnits="userSpaceOnUse">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  </filter>
+ </defs>
+</svg>

@@ -1,1 +1,44 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 256 256" width="256" height="256"><defs><filter id="QwcRl24JODXZ06s2l2bOWqYPeqPO2zv1" x="-7.324" y="2.947" width="270.648" height="254.338" filterUnits="userSpaceOnUse"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.293609062839028"/><feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000" flood-opacity="0.4"/><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/></filter></defs><g filter="url(#QwcRl24JODXZ06s2l2bOWqYPeqPO2zv1)"><linearGradient id="_lgradient_108" x1="0.7333333039805784" y1="1.0714286580680752" x2="0.26666665461658845" y2="0.0047620309503841884" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(243,126,64)"/><stop offset="100%" stop-opacity="1" style="stop-color:rgb(243,79,23)"/></linearGradient><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="shape" fill="url(#_lgradient_108)"/></g><g opacity="0.4"><linearGradient id="_lgradient_109" x1="0.5166666666666668" y1="0" x2="0.5166666666666666" y2="1.0000000000000002"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(255,255,255)"/><stop offset="12.5%" stop-opacity="0.09803922" style="stop-color:rgb(255,255,255)"/><stop offset="92.500001%" stop-opacity="0.09803922" style="stop-color:rgb(0,0,0)"/><stop offset="100%" stop-opacity="0.49803922" style="stop-color:rgb(0,0,0)"/></linearGradient><path d=" M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z " id="highlight" fill="none" vector-effect="non-scaling-stroke" stroke-width="4.077" stroke="url(#_lgradient_109)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"/></g><g id="download" filter="url(#wg2BJNyatdc0v7cFSQcshXjnAidDuEfJ)"><path d=" M 128.5 42.611 L 104.453 59.787 L 74.978 62.084 L 67.599 90.705 L 46.5 111.419 L 59.245 138.088 L 56.4 167.501 L 83.313 179.738 L 100.022 204.111 L 128.5 196.203 L 156.978 204.111 L 173.687 179.738 L 200.6 167.501 L 197.755 138.088 L 210.5 111.419 L 189.401 90.705 L 182.022 62.084 L 152.547 59.787 L 128.5 42.611 Z " id="path2542" fill="rgb(255,255,255)"/><linearGradient id="_lgradient_110" x1="0.7333333039805784" y1="1.0714286580680752" x2="0.26666665461658845" y2="0.0047620309503841884" gradientTransform="matrix(54.518,0,0,86.594,100.916,80.907)" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(243,126,64)"/><stop offset="100%" stop-opacity="1" style="stop-color:rgb(243,79,23)"/></linearGradient><path d=" M 127.85 167.501 C 113.278 145.581 105.808 122.516 100.916 112.13 L 117.442 112.13 L 117.442 80.907 L 138.257 80.907 L 138.257 112.13 L 155.434 112.13 C 150.543 122.515 142.421 145.581 127.85 167.501 Z " id="path913" fill="url(#_lgradient_110)"/></g><defs><filter id="wg2BJNyatdc0v7cFSQcshXjnAidDuEfJ" x="16.5" y="16.611" width="224" height="221.5" filterUnits="userSpaceOnUse"><feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.293609062839028"/><feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/><feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000" flood-opacity="0.4"/><feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/><feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/></filter></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
+ <defs>
+  <filter id="QwcRl24JODXZ06s2l2bOWqYPeqPO2zv1" width="270.648" height="254.338" x="-7.32" y="2.95" filterUnits="userSpaceOnUse">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  </filter>
+ </defs>
+ <g filter="url(#QwcRl24JODXZ06s2l2bOWqYPeqPO2zv1)">
+  <linearGradient id="_lgradient_108" x1=".733" x2=".267" y1="1.071" y2=".005" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
+   <stop offset="0%" style="stop-color:rgb(243,126,64)"/>
+   <stop offset="100%" style="stop-color:rgb(243,79,23)"/>
+  </linearGradient>
+  <path fill="url(#_lgradient_108)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z"/>
+ </g>
+ <g opacity=".4">
+  <linearGradient id="_lgradient_109" x1=".517" x2=".517" y1="0" y2="1">
+   <stop offset="0%" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="12.5%" stop-opacity=".098" style="stop-color:rgb(255,255,255)"/>
+   <stop offset="92.5%" stop-opacity=".098" style="stop-color:rgb(0,0,0)"/>
+   <stop offset="100%" stop-opacity=".498" style="stop-color:rgb(0,0,0)"/>
+  </linearGradient>
+  <path fill="none" stroke="url(#_lgradient_109)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z" vector-effect="non-scaling-stroke"/>
+ </g>
+ <g filter="url(#wg2BJNyatdc0v7cFSQcshXjnAidDuEfJ)">
+  <path fill="#FFFFFF" d="M 128.5 42.611 L 104.453 59.787 L 74.978 62.084 L 67.599 90.705 L 46.5 111.419 L 59.245 138.088 L 56.4 167.501 L 83.313 179.738 L 100.022 204.111 L 128.5 196.203 L 156.978 204.111 L 173.687 179.738 L 200.6 167.501 L 197.755 138.088 L 210.5 111.419 L 189.401 90.705 L 182.022 62.084 L 152.547 59.787 L 128.5 42.611 Z"/>
+  <linearGradient id="_lgradient_110" x1=".733" x2=".267" y1="1.071" y2=".005" gradientTransform="matrix(54.518,0,0,86.594,100.916,80.907)" gradientUnits="userSpaceOnUse">
+   <stop offset="0%" style="stop-color:rgb(243,126,64)"/>
+   <stop offset="100%" style="stop-color:rgb(243,79,23)"/>
+  </linearGradient>
+  <path fill="url(#_lgradient_110)" d="M 127.85 167.501 C 113.278 145.581 105.808 122.516 100.916 112.13 L 117.442 112.13 L 117.442 80.907 L 138.257 80.907 L 138.257 112.13 L 155.434 112.13 C 150.543 122.515 142.421 145.581 127.85 167.501 Z"/>
+ </g>
+ <defs>
+  <filter id="wg2BJNyatdc0v7cFSQcshXjnAidDuEfJ" width="224" height="221.5" x="16.5" y="16.61" filterUnits="userSpaceOnUse">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  </filter>
+ </defs>
+</svg>
