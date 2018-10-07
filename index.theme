@@ -6530,8 +6530,12 @@ Type=Fixed
 Size=32
 Type=Fixed
 
+[mimetypes/48]
+Size=48
+Type=Fixed
+
 [mimetypes/scalable]
-Context=Mimetypes
+Context=MimeTypes
 Size=512
 MinSize=1
 MaxSize=512

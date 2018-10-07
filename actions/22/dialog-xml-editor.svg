@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#808080;
-      }
-      </style>
-  </defs>
- <g transform="translate(-551.28572-607.64791)" style="fill:currentColor;fill-opacity:1;stroke:none" 
-    class="ColorScheme-Text"
-    >
-  <path d="m563.78571 610.64791l-4 15.75384 1 .24616 4-15.75385-1-.24615"/>
-  <path d="m566.03107 613.64791l-.74534.70967 3.66459 4.29032-3.66459 4.29033.74534.70968 3.97515-4.64516.27951-.35485-.27951-.35483-3.97515-4.64516"/>
-  <path d="m558.54037 613.64791l.74534.70967-3.66459 4.29032 3.66459 4.29033-.74534.70968-3.97515-4.64516-.27951-.35485.27951-.35483 3.97515-4.64516"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#808080; }
+  </style>
+ </defs>
+ <g class="ColorScheme-Text" transform="translate(-551.29,-607.65)" style="color:#808080;fill:currentColor">
+  <path d="M 563.79,610.65 559.79,626.4 560.79,626.65 564.79,610.89 563.79,610.65"/>
+  <path d="M 566.03,613.65 565.29,614.36 568.95,618.65 565.29,622.94 566.03,623.65 570.01,619 570.29,618.65 570.01,618.29 566.03,613.65"/>
+  <path d="M 558.54,613.65 559.29,614.36 555.62,618.65 559.29,622.94 558.54,623.65 554.57,619 554.29,618.65 554.57,618.29 558.54,613.65"/>
  </g>
 </svg>
