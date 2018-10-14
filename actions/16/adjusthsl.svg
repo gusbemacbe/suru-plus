@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <linearGradient id="_lgradient_1" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(14,0,0,14,1,1)" gradientUnits="userSpaceOnUse">
-  <stop offset="1.739%" style="stop-color:rgb(128,128,128)"/>
-  <stop offset="98.696%" style="stop-color:rgb(251,124,56)"/>
- </linearGradient>
- <path fill="url(#_lgradient_1)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 Z"/>
- <rect fill="#FB7C38" width="7" height="6" x="-9" y="-3" transform="matrix(1,0,0,1,0,0)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linearGradient4177" x1="393" x2="393" y1="-63.996" y2="-77.996" gradientTransform="translate(-385,78.996)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#5c616c" offset="0"/>
+   <stop style="stop-color:#5c616c;stop-opacity:0" offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+ <path style="fill:url(#linearGradient4177)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z"/>
 </svg>

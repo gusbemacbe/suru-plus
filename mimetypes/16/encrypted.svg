@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
  <switch>
   <g>
-   <path fill="#878787" class="ColorScheme-Text" d="M 8 0 C 5.784 0 4 1.784 4 4 L 4 8 L 2 8 C 2 10.666667 2 13.333332 2 16 C 6 16 10 16 14 16 L 14 8 C 13.333332 8 12.666667 8 12 8 L 12 4 C 12 1.784 10.216 0 8 0 Z M 8 1 C 9.662 1 11 2.561 11 4.5 L 11 8 L 5 8 L 5 4.5 C 5 2.561 6.338 1 8 1 Z"/>
+   <path fill="#5c616c" class="ColorScheme-Text" d="M 8 0 C 5.784 0 4 1.784 4 4 L 4 8 L 2 8 C 2 10.666667 2 13.333332 2 16 C 6 16 10 16 14 16 L 14 8 C 13.333332 8 12.666667 8 12 8 L 12 4 C 12 1.784 10.216 0 8 0 Z M 8 1 C 9.662 1 11 2.561 11 4.5 L 11 8 L 5 8 L 5 4.5 C 5 2.561 6.338 1 8 1 Z"/>
   </g>
   <foreignObject requiredExtensions="http://ns.gravit.io/">
    <gravitDesigner:gravitElementRef xmlns:gravitDesigner="http://ns.gravit.io/" xlink:href="#l2rVazL2jRwLk3yvQHcywwYezjXY5kzz"/>

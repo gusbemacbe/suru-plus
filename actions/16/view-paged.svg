@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.02" version="1.1">
- <g transform="translate(-172,-319.98047)">
-  <path d="M 172.98047,319.98047 173,320 172.9805,333 H 174 v -12 h 11 l 0.0117,-1.01953 L 173,320 Z M 175.00391,322 v 13 H 187 v -13 h -11.49609 z m 1.00195,1 H 186 v 11 h -9.99414 z M 178,325 v 1 h 6.01953 v -1 z m 0,2 v 1 h 6.01953 v -1 z m -0.008,2 v 1 H 181 v -1 z" style="fill:#808080"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 1 0.03125 L 1 13.03125 L 3 13.03125 C 2.99959 9.35515 3.00009 5.6798062 3 2.0039062 C 5.7159 2.0089062 12 2.0039062 12 2.0039062 C 12 2.0039062 12 0.48205 12 0.03125 C 8.3335 0.03152 4.6659 0.03032 1 0.03125 z M 4 3.03125 L 4 16.03125 L 15 16.03125 L 15 3.03125 L 4 3.03125 z M 6 5.0039062 L 13 5.0039062 L 13 14.003906 L 6 14.003906 L 6 5.0039062 z"/>
 </svg>

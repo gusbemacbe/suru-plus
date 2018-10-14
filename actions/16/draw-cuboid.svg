@@ -1,17 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <switch>
-  <g>
-   <g>
-    <path fill="#F7F7F7" fill-opacity=".9" class="ColorScheme-Text" d="M 7 8 L 7 2 L 14 5 L 14 12 L 7 8 Z"/>
-    <path fill="#F7F7F7" fill-opacity=".7" class="ColorScheme-Text" d="M 2 4 L 7 2 L 7 8 L 2 10 L 2 4 Z"/>
-    <path fill="#F7F7F7" fill-opacity=".5" class="ColorScheme-Text" d="M 2 10 L 7 8 L 14 12 L 9 14 L 2 10 Z"/>
-   </g>
-  </g>
-  <foreignObject requiredExtensions="http://ns.gravit.io/">
-   <gravitDesigner:gravitElementRef xmlns:gravitDesigner="http://ns.gravit.io/" xlink:href="#7olGnZ6ee6VoT6fQ1gASO9DZuhzzARcx"/>
-  </foreignObject>
- </switch>
- <gravitDesigner:gravitGraphicSource xmlns:gravitDesigner="http://ns.gravit.io/" id="7olGnZ6ee6VoT6fQ1gASO9DZuhzzARcx" version="1">
-  <![CDATA[eMKcw43ClmvCj8KiSBTChsO/w4rChsOZw6wnwqfCh8O7w4VkwpPDgSvCggLCiiLDmDHCk8OiKnLClcK7dsO6wr9vwqHCrcOTw73CocKzw7thNsKZQMKlw6BUwr11TsK9PMKIL8OId8Kkwo9kw4B3wpEew7Inw5J/fsK5BnLDly5Bw6JHXcK0w7LCkH7CmVduD8KxSzjCtMKCwqEiQsO6aA/DjsOyw4oWw4bCkirCisKudyDCsQ9pXsOAZcO2PcKkw4zCocOwwpl5w6JYwpJgwqgeCg/CtsO3wrjChRc0w4tQcF4dQMKBB8KiAmbDuFE4UMOEw6DDsCoCZ8K3W8Oqw6XCrcOCICnDp8K3w5DDu0LCvSDCisOUw4cYHMO6wpF1RQ7CvzzDo0TDr3rDrsKRV8KYw6TCr25Tw77CicOJw4xGwpfDksKhwrwjw47DjsKwwprCiSfCgcOnw4rCgFJsDB0gwq9Qw656w57DjMKBwpNPw6J0w4DCjS5EwpvDrMK2w4bCmFXDsMKaNsKFKcK6wpkvL8KFHMOmDMKcfMKrw4DDj8OTKsO7UFMGw4oDDHwvah/ClMOlbQ92BMKKwqIrLMKNw5JcwrMPbsOsfl3Cu8OQPMKYw5PCjsOSw4J1w64mZ2XDp8OfM0LDqsO5dkl+Ow/DgsOlw59wwrUvwrDDscKlw4rCisKmwrUuwo/CssKpw4sBwqXCscOawrDDlcKEwrEyGGTCtCHCpsOIwr53w5dxw6fDgcOmwqETwpTCscK+QcOVC3nDiD3DnAp8AMKMGsKowqZIwrbDuXEzw6HDqcKbw47DiXdLwpJ9wp8PwqMsLcOFN8OWOSxnwp5RT8O9WsKawoMlP8OewpHCrR07w4nDoMKdDsOWwok+dMKNEMOYw6HCphbCpy4xABbDr8Onw4Mlwq3CoRNNYC3DhyfCu3zDu8O/Bg92wqUGw6t9JXHDrMKJwoE9RcOAwp7Dm8O/CjxIwqbDt8OWw7ZdPMONIMOST8Ocwp3ClRbDo8KFRcKxw7HDk8ORwqTCoXBfccKUFSrCpT7Cq8K6woB1w6jCmcO+woHClcKmWVDCkmFEwqHDjDbCh1ZxF0vDkcOLwrXDmcKqw7VjwobClsKpw7PCg8KVX0TChsKTwq/Cr8KOw798w4LCssOkwoTDksKmw7Bmw6vCqsOOwqzDhnMbw6LDpBouHcKOwqwcZMOzw7AzMkwNV8OXwphdccOmasKUwrnDq8K6dWTClVrChcOoMRPCiBLCk8K5d8K6DyTDmkFBwqohwrvCksKoA1Ytw6zDicOlYifCo8KVJsKvw6o0GcOnwrZzJ2N9w43Dt8KTwowxWcOKGsOKw43CgmHDhcOtwrYCVwjDnBTClStlO8OAQsOSPDXCvy8Zw4zCncKMOMKRAWcvw4zCumEIZXYpDRRsw4QhGcOGwrYywpsRwobDucKBDMKyw5LDucKLwrbDgwbCkj/Cr8ODwobDgErDlmTDo8OYJMOcfDNTw5zDsn8hw6PCg8OjDsKmwp9WOHfDnMO5w6bDkMKFwqDDjsObI31yGk3Dhi/Cji7DoMOkZ0/CuMOia0dpRMOXw5w1cT7CsjgGw6XCg8KSP0fCjRFswqltQH/DtsOuw5fDhMOJwpbDlMKhXB3CphnCtTjCsVPDssKoAcK/DcOpRsKtJW85wr7DpzPCujrCh8OjwoduMcOTwpjDqTHClsOHa2k8GcOKwoIVwovChMKKw5dBwoJjGTvCisOBw69LBsO1IMOjwqIHwpY+RVsxPXvDvBTCiMOAw6PCkyXCiRUTIwrCqEXDu8KBwozCtVrCrHnDjVPDqCBPw5w6woh8NiTCrDA0w7QUw53CoQMuwrt+wrXDvm1HCcKIXcK4wpbCk8KDw6bCq11ZacOgIMOvUmjCgRZ5WxQfL8KJZMKhwq7DtFg6ZsOiIMKKbFrCnlhGw7fCvcObd8Oew7fCkWrCsSlwwrcYw4XDqEhuw6lowpLCrxfCniDCgsKzDsOEAi3DpFPDt8KTwo7DtDHCusKHHG5dw6p5N8OLLTt8wrPChsKiem/CrcKzw4bCulrDsyhQwoXDvy/DvsOAwpDDl38AIcKKwoVy]]>
- </gravitDesigner:gravitGraphicSource>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 7.6035156,0 C 7.4954087,0 7.3884192,0.02464035 7.2890625,0.07421875 L 0.39257813,3.515625 C 0.1528418,3.6352265 0,3.8658019 0,4.15625 l 0,7.654297 c 0,0.266714 0.15062446,0.510636 0.38867187,0.630859 L 7.2851562,15.923828 C 7.3855575,15.974584 7.4945809,16 7.6035156,16 c 0.1716466,0 0.3477007,-0.09029 0.3476562,-0.08984 l 6.8691402,-3.46875 c 0.238092,-0.120223 0.388672,-0.364145 0.388672,-0.630859 l 0,-7.6621095 c 0,-0.2679589 -0.152708,-0.513211 -0.392578,-0.6328125 L 7.9199218,0.07421875 C 7.8205873,0.02464035 7.7116225,0 7.6035156,0 Z m 0,1.4960938 5.3144524,2.6523437 -5.3144524,2.6523437 -5.3125,-2.6523437 5.3125,-2.6523437 z m -6.1894531,3.7949218 5.4824218,2.7363282 0,6.1171872 -5.4824218,-2.769531 0,-6.0839844 z m 12.3808595,0 0,6.0839844 -5.4843751,2.769531 0,-6.1171872 5.4843751,-2.7363282 z"/>
 </svg>

@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.02" version="1.1">
- <g transform="translate(-172,-319.98047)">
-  <path d="M 172.98047,319.98047 173,320 172.9805,333 H 174 v -12 h 11 l 0.0117,-1.01953 L 173,320 Z M 175.00391,322 v 13 H 187 v -13 h -11.49609 z m 1.00195,1 H 186 v 11 h -9.99414 z M 178,325 v 1 h 6.01953 v -1 z m 0,2 v 1 h 6.01953 v -1 z m -0.008,2 v 1 H 181 v -1 z" style="fill:#808080"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#5c616c" d="M 1,0 V 13 H 3 V 2 H 12 V 0 Z"/>
+ <path style="fill:#5c616c" d="M 4,3 V 16 H 15 V 3 Z M 6,5 H 13 V 14 H 6 Z"/>
 </svg>
