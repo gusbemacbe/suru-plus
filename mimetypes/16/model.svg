@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <g transform="translate(-192,-180)">
-  <g transform="matrix(0.11991745,0,0,0.11991745,181.98792,169.53271)" style="fill:none;stroke:#808080;enable-background:new">
-   <path d="m 100,124 52,-28 52,28 v 60 l -52,28 -52,-28 z" style="fill:none;stroke:#808080;stroke-width:8"/>
-   <path style="fill:none;stroke:#808080;stroke-width:8" d="m 204,124 -52,28 -52,-28"/>
-   <path d="m 152,148 v 64" style="fill:none;stroke:#808080;stroke-width:8"/>
+  <g transform="matrix(0.11991745,0,0,0.11991745,181.98792,169.53271)" style="fill:none;stroke:#5c616c;enable-background:new">
+   <path d="m 100,124 52,-28 52,28 v 60 l -52,28 -52,-28 z" style="fill:none;stroke:#5c616c;stroke-width:8"/>
+   <path style="fill:none;stroke:#5c616c;stroke-width:8" d="m 204,124 -52,28 -52,-28"/>
+   <path d="m 152,148 v 64" style="fill:none;stroke:#5c616c;stroke-width:8"/>
   </g>
  </g>
 </svg>
