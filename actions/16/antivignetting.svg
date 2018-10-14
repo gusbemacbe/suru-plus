@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <radialGradient id="_rgradient_0" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="matrix(14,0,0,14,1,1)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:rgb(251,124,56)"/>
-  <stop offset="100%" style="stop-color:rgb(128,128,128)"/>
- </radialGradient>
- <path fill="url(#_rgradient_0)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 Z"/>
-</svg>

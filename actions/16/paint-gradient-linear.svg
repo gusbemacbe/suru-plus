@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <linearGradient id="_lgradient_2" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(14,0,0,14,1,1)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:rgb(251,124,56)"/>
-  <stop offset="100%" style="stop-color:rgb(128,128,128)"/>
- </linearGradient>
- <path fill="url(#_lgradient_2)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 Z"/>
-</svg>
