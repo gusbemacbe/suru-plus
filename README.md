@@ -57,9 +57,20 @@
 ### Version 20.3.0
 
 * All icons of actions, emblems and status of Suru++ 20 have been replaced with colourful and monochromatically desaturated-gravish-blue (`#5C616C`) Papirus icons because Suru++ 20 is designed to be cyberpunkish, elegant, futuristic, macOS-like and modern, while @Magog64's Suru++ Ubuntu is deisgned to be conservative and traditional;
-* More than 50 Flatpak icons are added and supported
+* More than 50 Flatpak icons are added and supported;
 * More than 2,1 thousands icons!
-* It has been reduced from 175MB to 110MB, thanks to @SmartFinn's ffsvg and svgo. 
+* It has been reduced from 175MB to 110MB, thanks to @SmartFinn's `ffsvg` and `svgo`;
+* The highlighting border of all icons have been vectorised and improved in KDE, , you can compare:
+
+    **Before:**
+
+    ![before](/images/highlight-before.png)
+
+    **After:**
+
+    ![after](/images/highlight-after.png)
+
+
 * New countries flags (in development)!
 
 ## Installing with CLI
