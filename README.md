@@ -4,11 +4,13 @@
 
 <h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
 <h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Minimal</a></h3>
-<h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
+<h3 align="center">An cyperpunkish, elegant, futuristic, macOS-like and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <h1>Index</h1>
 
-- [What’s new in the new version 20?](#whats-new-in-the-new-version-20)
+- [What’s new in the new version 20 and in the version 20.3.0?](#whats-new-in-the-new-version-20-and-in-the-version-2030)
+    - [Version 20](#version-20)
+    - [Version 20.3.0](#version-2030)
 - [Installing with CLI](#installing-with-cli)
     - [Git](#git)
     - [Subversion](#subversion)
@@ -22,7 +24,9 @@
 - [Changelog](#changelog)
 - [Credits and Licences](#credits-and-licences)
 
-## What’s new in the new version 20?
+## What’s new in the new version 20 and in the version 20.3.0?
+
+### Version 20
 
 * Following Sam Hewitt’s rules of colours and grids, more than 15k icons have been redesigned and improved with new sexy colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
@@ -49,6 +53,25 @@
 2. Go to the desktop file `Firefox`;
 3. Open the file with your favourite text editor;
 4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-mozilla` or `Icon=firefox-traditional`. Save it.
+
+### Version 20.3.0
+
+* All icons of actions, emblems and status of Suru++ 20 have been replaced with colourful and monochromatically desaturated-gravish-blue (`#5C616C`) Papirus icons because Suru++ 20 is designed to be cyberpunkish, elegant, futuristic, macOS-like and modern, while @Magog64's Suru++ Ubuntu is deisgned to be conservative and traditional;
+* More than 50 Flatpak icons are added and supported;
+* More than 2,1 thousands icons!
+* It has been reduced from 175MB to 110MB, thanks to @SmartFinn's `ffsvg` and `svgo`;
+* The highlighting border of all icons have been vectorised and improved in KDE, , you can compare:
+
+    **Before:**
+
+    ![before](/images/highlight-before.png)
+
+    **After:**
+
+    ![after](/images/highlight-after.png)
+
+
+* New countries flags (in development)!
 
 ## Installing with CLI
 
@@ -87,11 +110,11 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### This icon theme do not apply correctly the apps icons
 
-Some apps, as AppImage-built, Snap-built and dpkg-installed apps do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, GitHub Desktop uses the `Icon=desktop`.  
+Some apps, as AppImage-built, Snap-built and dpkg-installed apps are harded-coded and do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, GitHub Desktop uses the `Icon=desktop`.  
 
 ### Some icons are not applied correctly and look bad in KDE
 
-Since this new version is officially supported for KDE, please report the misdisplayed icon to m that I will analyse and fix. 
+Since this new version is officially supported for KDE, please report the misdisplayed icon to me that I will analyse and fix. 
 
 ## Report
 

@@ -4,9 +4,7 @@ We are open for new issues and pull requests. By participating in this project, 
 
 If you'd like to contribute and don't understand something here, reach out on our issue, and we will be happy to offer solutions. Additionally, we welcome any attempts to engage with the project - through acquiring the source code, following documentation steps to get started, and then offering feedback in our communications channels on how this process could be improved.
 
-Design and setup steps are covered in the [README][dev setup].
-
-[licence]: https://github.com/gusbemacbe/suru-plus/blob/master/LICENSE
+[licence]: /gusbemacbe/suru-plus/blob/master/LICENSE
 
 ## Steps
 
@@ -18,9 +16,11 @@ Fork our repository and create a clone to your personal system.
 
 After forking our repository, create one branch per bugs or per files or per icons on your personal repository.
 
-The branch name should describe the bug or version ("alpha or "beta" or "new-icons"). It should start with the bug or version number, and include a very short description of the bug, or a short version of the bug's title.
+The branch name should describe the bug or version ("alpha or "beta" or "new-icons" or "unstable" or "beta-emergency" or "unstable-emergency"). It should start with the bug or version number, and include a very short description of the bug, or a short version of the bug's title.
 
 ## Developing
+
+### Gravit Designer
 
 * You must use the app [Gravit Designer](https://gravit.io) to build the new icons.
 * Please use our icon template [Suru++ 20 Icon Template](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%2B%2B%2020%20Template.gvdesign), opening it with Gravit Designer. Export to SVG. 
@@ -38,6 +38,13 @@ The branch name should describe the bug or version ("alpha or "beta" or "new-ico
   * **Grids:** A symbol must be resized to 145px and if it is a symbol in form of circle grid, use 165px. 
 * We also provide a Suru colours palette. Here is the [Suru Palette](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%20Palette.gvswatch).
 * As for the gradients, we prepare a list of gradients for you: [Suru++ Gradients Palette](https://github.com/gusbemacbe/suru-plus/blob/beta/templates/Suru%2B%2B%20Gradients%20Palette.gvswatch).
+
+### Inkscape
+
+Since you are not a Gravit Designer and Gravit Designer will be no longer free in the next version, I will prepare some instructions. You also must take careful for not breaking the groups.
+
+* Follow the same above steps
+* Do not ungroup the two groups - highlighting and shape, because if you ungroup, they will lose the drop shadow. 
 
 ### Commit messages
 

@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#808080; } .ColorScheme-PositiveText { color:#27ae60; }
-  </style>
- </defs>
- <path class="ColorScheme-Text" d="M 1,2 V 14 H 8 V 13 H 2.656 L 6.642,8.35 7.999,9.707 C 7.986,9.683 13.999,3.707 13.999,3.707 V 8 H 14.999 V 2 Z M 2.707,3 H 13.293 L 8,8.293 Z M 2,3.707 5.934,7.641 2,12.231 Z" style="color:#808080;fill:currentColor"/>
- <path class="ColorScheme-PositiveText" d="M 14.689,8.764 11.332,12.543 9.707,10.918 9,11.625 11.375,14 15.395,9.473 Z" style="color:#27ae60;fill:currentColor"/>
-</svg>
+mail-mark-read.svg

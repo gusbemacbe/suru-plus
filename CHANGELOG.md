@@ -1,3 +1,119 @@
+# v20 3.0 or XX 3.0
+
+It is one of biggest changes made during one month in this icons theme:
+
+* Fixed by @SmartFinn:
+    * Deleted the executable bit from files for security issues.
+    * Fixed icons with rendering issues on old systems.
+    * Removed some broken symlinks.
+
+* By me:
+    * Removed all Gravit Designer base64 and metadata which caused rendering bugs.
+    * Reduced from 175MB to 110MB!
+    * Vectorised and improved the highlighting border in KDE, you can compare:
+
+        **Before:**
+    
+        ![before](/images/highlight-before.png)
+
+        **After:**
+
+        ![after](/images/highlight-after.png)
+
+    * Improved the ugly colours of some icons as Activity Monitor and Terminal.
+    * Suru++ conservative and traditional monochromatic icons have been replaced for Papirus colourful and monochromatic icons because they fit very well with Suru++ 20. 
+    * The grey colour of monochromatic icons have been replaced with the new cyberpunkish, elegant and modern colour based on Papirus: `#5c616c`. 
+    * New countries flags (in development)!
+
+* Designed by @jcuenod:
+    * Zotero
+* Designed by @Pronink:
+    * Azure Data Studio
+
+* Added icons:
+    * Bookworm
+    * Clion
+    * DataGrip
+    * Etcher
+    * FontBase
+    * Goland
+    * Howl
+    * JetBrains Toolbox
+    * Joplin
+    * MPS
+    * Natron
+    * Neovim
+    * NextCloud
+    * Rider
+    * RubyMine
+    * SIgnal
+    * TeXmacs
+    * TeXstudio
+    * Unity 3D
+    * VMWare Viewer
+    * WebStorm
+
+* Added 58 Flatpak icons:
+    * Android Studio
+    * Audacity
+    * Avidemux
+    * Blender
+    * Bookworn
+    * Corebird
+    * Darktable
+    * Discord
+    * Dolphin EMU
+    * Elisa
+    * Emacs
+    * Filezilla
+    * Firefox
+    * Firefox Developer
+    * Firefox Nightly
+    * GCompris
+    * Geogebra
+    * GIMP
+    * GNU Cash
+    * GPodder
+    * HexChat
+    * Inkscape
+    * JDownloader
+    * Joplin
+    * KDEConnect
+    * Kdenlive
+    * Keepass
+    * Krita
+    * LibreOffice
+    * Mendeley
+    * Minitube
+    * MonoDevelop
+    * Musecore
+    * MyPaint
+    * Neovim
+    * NextCloud
+    * Octave
+    * Okular
+    * OpenShop
+    * PhotoQT
+    * Picard
+    * Pitivi
+    * Postman
+    * Pycharm
+    * Remmina
+    * Signal
+    * Spotify
+    * Steam
+    * Sublime Text
+    * SuperTux
+    * Telegram
+    * TeXstudio
+    * Thunderbird
+    * Transmission
+    * Tuxpaint
+    * Viber
+    * VLC
+    * VSCode
+    * Zim
+
 # v20.1.3 or XX 1.3
 
 * Fixing the broken symlinks

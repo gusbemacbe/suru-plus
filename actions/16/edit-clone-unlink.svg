@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#808080;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 2 2 L 2 13 L 5 13 L 5 14 L 7 14 L 7 13 L 6 13 L 6 5 L 12 5 L 12 6 L 13 6 L 13 4 L 12 4 L 12 2 L 2.7851562 2 L 2 2 z M 3 3 L 11 3 L 11 4 L 5 4 L 5 12 L 3 12 L 3 3 z M 11 7 A 2 2 0 0 0 9 9 L 9 10 L 10 10 L 10 9 A 1 1 0 0 1 11 8 A 1 1 0 0 1 12 9 L 12 11 L 8 11 L 8 14 L 14 14 L 14 11 L 13 11 L 13 9 A 2 2 0 0 0 11 7 z M 9 12 L 13 12 L 13 13 L 9 13 L 9 12 z "
-     class="ColorScheme-Text"
-     />
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 2 L 2 10 L 6 10 L 6 14 L 14 14 L 14 6 L 10 6 L 10 2 L 2 2 z M 10 7 C 10.739 7 11.333984 7.6834375 11.333984 8.5234375 L 11.333984 10 L 11.666016 10 C 11.851016 10 12 10.167 12 10.375 L 12 12.625 C 12 12.833 11.851016 13 11.666016 13 L 8.3339844 13 C 8.1492844 13 8 12.833 8 12.625 L 8 10.375 C 8 10.167 8.1492844 10 8.3339844 10 L 10.666016 10 L 10.666016 8.5 C 10.666016 8.0845 10.369 7.75 10 7.75 C 9.6307 7.75 9.3339844 8.0845 9.3339844 8.5 L 9.3339844 8.875 L 8.6660156 8.875 L 8.6660156 8.5 C 8.6772156 7.6706 9.2683 7 10 7 z"/>
 </svg>

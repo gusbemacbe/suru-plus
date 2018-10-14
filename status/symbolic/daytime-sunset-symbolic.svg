@@ -1,8 +1,5 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-533 191)'>
-        <path color='#000' d='M533-176v1h15v-1z' fill='#F7F7F7' fill-rule='evenodd' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
-        <path d='M540.5-185c-.277 0-.5.223-.5.5v2.5h-3l3.5 4.5 3.563-4.5H541v-2.5a.499.499 0 0 0-.5-.5z' fill='#F7F7F7'/>
-        
-        <path class='warning' d='M533.5-190a.499.499 0 1 0 0 1h1a.499.499 0 1 0 0-1zm2.551 0c.252 2.247 2.135 4 4.45 4 2.313 0 4.196-1.753 4.448-4zm10.45 0a.499.499 0 1 0 0 1h1a.499.499 0 1 0 0-1zm-1.759 3.242a.499.499 0 0 0-.354.854l.708.707a.498.498 0 0 0 .707 0 .499.499 0 0 0 0-.707l-.707-.707a.501.501 0 0 0-.354-.147zm-8.58.01a.497.497 0 0 0-.258.137l-.707.707a.499.499 0 0 0 0 .707.5.5 0 0 0 .354.148.5.5 0 0 0 .353-.148l.708-.707a.499.499 0 0 0-.45-.844z' fill='#F7F7F7'/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#5c616c" d="M 8,0 7.5,1.0293 C 7.67,1.0193 7.83,1 8,1 8.17,1 8.33,1.0193 8.5,1.0293 Z M 8,2 C 4.69,2 2,4.68 2,8 H 14 C 14,4.68 11.31,2 8,2 Z M 2.3398,2.3398 2.7207,3.4297 C 2.9407,3.1797 3.1895,2.9309 3.4395,2.7109 Z M 13.66,2.3398 12.561,2.7109 C 12.811,2.9309 13.059,3.1797 13.279,3.4297 Z M 1.0293,7.5 0,8 H 1 C 1,7.83 1.0193,7.66 1.0293,7.5 Z M 14.971,7.5 C 14.981,7.66 15,7.83 15,8 H 16 Z"/>
+ <path style="fill:#5c616c" d="M 1,9 H 15 C 15.554,9 16,9.446 16,10 16,10.554 15.554,11 15,11 H 1 C 0.446,11 0,10.554 0,10 0,9.446 0.446,9 1,9 Z"/>
+ <path style="fill:#5c616c" d="M 8,16 11,12 H 5 Z"/>
 </svg>
