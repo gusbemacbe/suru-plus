@@ -7,7 +7,7 @@ MISC = categories scalable-max-32
 
 install: $(SUBDIRS) $(EXTRAWORK) $(MISC)
 
-clean:
+uninstall:
 	rm -fr $(DESTDIR)
 
 destdir:
