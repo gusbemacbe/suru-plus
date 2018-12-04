@@ -43,10 +43,10 @@
      inkscape:window-height="480"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="3.140625"
-     inkscape:cx="128"
-     inkscape:cy="102.52736"
-     inkscape:current-layer="svg35" />
+     inkscape:zoom="2.2207572"
+     inkscape:cx="158.58577"
+     inkscape:cy="156.56298"
+     inkscape:current-layer="g1020" />
   <defs
      id="defs13">
     <linearGradient
@@ -610,18 +610,16 @@
        d="m 117.48252,75.58729 h 52.81179 v -7.47911 h -52.81179 z m 0,-14.27552 h 52.81179 v -7.479113 h -52.81179 z m 0,-14.27552 h 52.81179 V 39.557139 H 117.48252 Z M 85.714001,82.38369 H 170.29431 V 89.8628 H 85.714001 Z m 0.257173,14.27551 h 84.323136 v 7.47912 H 85.971174 Z m 0,14.26745 h 84.323136 v 7.47912 H 85.971174 Z m -0.257173,14.27552 H 144.5652 v 7.47911 H 85.714001 Z"
        style="isolation:isolate;fill:#357bc4;fill-opacity:1;stroke-width:0.78127849"
        inkscape:connector-curvature="0" />
-    <flowRoot
+    <g
+       aria-label="A"
        transform="matrix(1.0391362,0,0,1.2136929,130.07213,8.433585)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3a8adf;fill-opacity:1;stroke:none"
-       id="flowRoot996"
-       xml:space="preserve"><flowRegion
-         style="fill:#3a8adf;fill-opacity:1"
-         id="flowRegion998"><rect
-           style="fill:#3a8adf;fill-opacity:1"
-           y="20"
-           x="-43"
-           height="58"
-           width="44"
-           id="rect1000" /></flowRegion><flowPara
-         id="flowPara1002">A</flowPara></flowRoot>  </g>
+       id="flowRoot996">
+      <path
+         d="m -29.328125,33.412913 -3.426886,11.215993 h 6.873304 z m -2.226562,-7.182444 h 4.472656 l 11.113281,29.160156 h -6.026238 l -2.65625,-7.480469 h -9.29518 l -2.65625,7.480469 H -42.6875 Z"
+         id="path910"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+  </g>
 </svg>
