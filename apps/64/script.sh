@@ -1,17 +1,15 @@
-echo -e "Type the old icon name "
-read old_icon
+# find .  -type l -lname 'accessibility.svg' -printf 'ln -nsf yyy "%p"\n' > script2.sh
 
-echo -e "Type the new icon name "
-read new_icon
+echo "Old symlink"
+read old
 
-cp -f $old_icon'.svg' new_icon'.svg'
+old2=$old
 
-for i in * ; do
-    if [ -h $i ]; then
-        NEWTARGET=`readlink $i | sed 's,'$old_icon'.svg,'$new_icon'.svg,'`
-        rm -f $i
-        ln -sfnr $NEWTARGET $i
-    fi
+echo "New link"
+read new
+
+for old in $(find -type l -lname $old); do
+   ln -sfnr $new $old 
 done
 
-ln -sfnr $new_icon'.svg' $old_icon'.svg'
+ln -sfnr $new $old2
