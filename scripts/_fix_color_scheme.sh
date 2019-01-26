@@ -27,7 +27,7 @@ set -e
 add_class() {
 	# add the class if a value matches:
 	sed -i -r \
-		-e '/([^-]color|fill|stop-color|stroke):(#808080|#babdb6|#f7f7f7|#ffffff)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
+		-e '/([^-]color|fill|stop-color|stroke):(#808080|#babdb6|#f7f7f7|#ffffff|#5c616c)/I s/(style="[^"]+")/\1 class="ColorScheme-Text"/' \
 		-e '/([^-]color|fill|stop-color|stroke):(#5294e2|#3daee9|#1d99f3)/I s/(style="[^"]+")/\1 class="ColorScheme-Highlight"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#27ae60/I s/(style="[^"]+")/\1 class="ColorScheme-PositiveText"/' \
 		-e '/([^-]color|fill|stop-color|stroke):#da4453/I s/(style="[^"]+")/\1 class="ColorScheme-NegativeText"/' \
