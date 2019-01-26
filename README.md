@@ -4,20 +4,20 @@
 
 <h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
 <h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Minimal</a></h3>
-<h3 align="center">An cyperpunkish, elegant, futuristic, macOS-like and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
+<h3 align="center">An cyperpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <h1>Index</h1>
 
 - [What’s new in the new version 20 and in the version 20.3.0?](#whats-new-in-the-new-version-20-and-in-the-version-2030)
-    - [Version 20](#version-20)
-    - [Version 20.3.0](#version-2030)
+  - [Version 20](#version-20)
+  - [Version 20.3.0](#version-2030)
 - [Installing with CLI](#installing-with-cli)
-    - [Git](#git)
-    - [Subversion](#subversion)
+  - [Git](#git)
+  - [Subversion](#subversion)
 - [Changing the folder colour](#changing-the-folder-colour)
 - [Known bugs](#known-bugs)
-    - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
-    - [Some icons are not applied correctly and look bad in KDE](#some-icons-are-not-applied-correctly-and-look-bad-in-kde)
+  - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
+  - [Some icons are not applied correctly and look bad in KDE](#some-icons-are-not-applied-correctly-and-look-bad-in-kde)
 - [Report](#report)
 - [Contribution](#contribution)
 - [Contributors](#contributors)

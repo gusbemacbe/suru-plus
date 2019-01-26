@@ -39,9 +39,9 @@ else
 fi
 
 DEFAULT_COLOR="blue"
-SIZES_REGEX="(16|scalable)"
+SIZES_REGEX="(16|64)"
 MONOCHROME_SIZES_REGEX="(16)"
-COLOR_SIZES_REGEX="(scalable)"
+COLOR_SIZES_REGEX="(64)"
 FILES_REGEX="(folder|user)-"
 
 declare -A COLORS
@@ -62,6 +62,7 @@ COLORS=(
 	[green]="   #76C22B #28851E #FFFFFF #333333"
 	[grey]="    #999999 #666666 #FFFFFF #333333"
 	[magenta]=" #F74761 #C61B34 #FFFFFF #333333"
+	[mint]=" 		#7AAF65 #579140 #FFFFFF #333333"
 	[orange]="  #fb7c38 #f34f17 #FFFFFF #333333"
 	[red]="     #F22C42 #BC1938 #FFFFFF #333333"
 	[teal]="    #26A69A #00796B #FFFFFF #333333"
