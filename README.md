@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="images/logo.png" alt="Logotype" height="250px">
+    <img src="images/logo-new.png" alt="Logotype" height="250px">
 </p>
 
 <h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
@@ -27,7 +27,7 @@
 
 1. Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
-![Screenshot](images/preview1.png)
+![Screenshot](images/preview1-new.png)
 
 2. The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
 
