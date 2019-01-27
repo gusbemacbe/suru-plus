@@ -1,3 +1,27 @@
+# v25 or XXV
+
+* I have increased from 2,2k to 4,7k icons!
+* All 4,7k icons of the folder `apps` have been redesigned;
+* I have fixed the trash icons in KDE;
+* I have fixed the wrong session icons;
+* Suru++ has won the new folders with colour of Linux Mint:
+
+![Screenshot](images/preview4.png)
+
+* The file managers are no longer same, now are different and modern, and redesigned by Pavel Dimens (@pdimens)
+
+<p align="center"> 
+    <img src="images/preview5.png" alt="Screenshot" height="100px">
+</p>
+
+* Hundreds Steam games icons are supported officially:
+
+<p align="center"> 
+    <img src="images/preview6.png" alt="Screenshot" height="450px">
+</p>
+
+* Some icons have been redesigned by Pedro Gauna <@lapega>
+
 # v20 3.0 or XX 3.0
 
 It is one of biggest changes made during one month in this icons theme:
@@ -196,7 +220,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
 ## Icons designed by Gustavo Costa (@gusbemacbe):
 
 * Added missed applications icons:
-  * 1Pasword
+  * 1Password
   * 2GIS
   * 3Depict
   * 4chan
@@ -209,7 +233,8 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Abricotine
   * aBrowser
   * Accerciser
-  * Accessories - Arhciver
+  * Accessories - Archiver
+  * Accessories - Document Viewer
   * Accessories - Image Viewer
   * Accessories - Media Converter
   * Accessories - Painting
@@ -218,7 +243,6 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Accessories - System Cleaning
   * Accessories - Thesaurus
   * ACE Stream Player
-  * Acessories - Document Viewer
   * Acetino
   * AChemTool
   * AcidDrip
@@ -423,7 +447,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Deepin Manual
   * Deepin Movie
   * Deepin Multitasking View
-  * Deepin System MOnitor
+  * Deepin System Monitor
   * Deepin Terminal
   * Deepin Toggle Desktop
 
@@ -436,7 +460,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Preferences Colour Profile
 
 * Added missed Manjaro icons.
-* Added missed XFCE and FXCE4 applications icons.
+* Added missed XFCE and XFCE4 applications icons.
 
 * Added Steam icons:
   * 0 A.D.
@@ -445,7 +469,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Adventure Editor
   * Alien Arena
   * Amnesia Dark Descent (by @Magog64)
-  * And Yet It MOves
+  * And Yet It Moves
   * Aspette
   * Assault Cube
   * Astromenace (by @Magog64)

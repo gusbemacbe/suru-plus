@@ -3,14 +3,13 @@
 </p>
 
 <h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
-<h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Minimal</a></h3>
-<h3 align="center">An cyperpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
+<h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a></h3>
+<h3 align="center">A cyberpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <h1>Index</h1>
 
-- [What’s new in the new version 20 and in the version 20.3.0?](#whats-new-in-the-new-version-20-and-in-the-version-2030)
-  - [Version 20](#version-20)
-  - [Version 20.3.0](#version-2030)
+- [What’s new?](#whats-new)
+  - [Version 25.0.0](#version-2500)
 - [Installing with CLI](#installing-with-cli)
   - [Git](#git)
   - [Subversion](#subversion)
@@ -24,23 +23,21 @@
 - [Changelog](#changelog)
 - [Credits and Licences](#credits-and-licences)
 
-## What’s new in the new version 20 and in the version 20.3.0?
+## What’s new?
 
-### Version 20
-
-* Following Sam Hewitt’s rules of colours and grids, more than 15k icons have been redesigned and improved with new sexy colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+1. Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
 ![Screenshot](images/preview1.png)
 
-* The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
+2. The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
 
 ![Screenshot](images/preview2.png)
 
-* Almost all mimetype icons have been redesigned with new colours and are based on NUmix mimetype icons:
+3. Almost all mimetype icons have been redesigned with new colours and are based on Numix mimetype icons:
 
 ![Screenshot](images/preview3.png)
 
-* You can choose one of three alternatives of Firefox:
+4. You can choose one of three alternatives of Firefox:
 
 | ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
 | :---------------------------------: | :---------------------: | :-----------------------------: |
@@ -54,24 +51,25 @@
 3. Open the file with your favourite text editor;
 4. Find `Icon=...` and modify it with one of three alternatives: `Icon=firefox` or `Icon=firefox-mozilla` or `Icon=firefox-traditional`. Save it.
 
-### Version 20.3.0
+5. New countries flags (in development)!
 
-* All icons of actions, emblems and status of Suru++ 20 have been replaced with colourful and monochromatically desaturated-gravish-blue (`#5C616C`) Papirus icons because Suru++ 20 is designed to be cyberpunkish, elegant, futuristic, macOS-like and modern, while @Magog64's Suru++ Ubuntu is deisgned to be conservative and traditional;
-* More than 50 Flatpak icons are added and supported;
-* More than 2,1 thousands icons!
-* It has been reduced from 175MB to 110MB, thanks to @SmartFinn's `ffsvg` and `svgo`;
-* The highlighting border of all icons have been vectorised and improved in KDE, , you can compare:
+### Version 25.0.0
 
-    **Before:**
+* Suru++ won the new folders with colour of Linux Mint:
 
-    ![before](/images/highlight-before.png)
+![Screenshot](images/preview4.png)
 
-    **After:**
+* The file managers are no longer same, now are different and modern:
 
-    ![after](/images/highlight-after.png)
+<p align="center"> 
+    <img src="images/preview5.png" alt="Screenshot" height="100px">
+</p>
 
+* Hundreds Steam games icons are supported officially:
 
-* New countries flags (in development)!
+<p align="center"> 
+    <img src="images/preview6.png" alt="Screenshot" height="450px">
+</p>
 
 ## Installing with CLI
 
@@ -110,7 +108,7 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### This icon theme do not apply correctly the apps icons
 
-Some apps, as AppImage-built, Snap-built and dpkg-installed apps are harded-coded and do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, GitHub Desktop uses the `Icon=desktop`.  
+Some apps, as AppImage-built and Snap-built apps are hardcoded and do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, old version of GitHub Desktop uses the `Icon=desktop`.  
 
 ### Some icons are not applied correctly and look bad in KDE
 
@@ -122,7 +120,7 @@ Since this new version is officially supported for KDE, please report the misdis
 * Do you find the misused icons?
 * Did you find the errors?
 
-Report, but please provide well-detailed informations. Or I will have difficulty to understand what you are saying or to know which app you are referring.
+Report, but please provide well-detailed information. Or I will have difficulty to understand what you are saying or to know which app you are referring.
 
 ## Contribution
 
@@ -144,5 +142,5 @@ The changelog is available on the release page in theme's repository.
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
+* MIT © Icons 8 by Gravit Designer.
 * MIT © Twemoji by Twitter Team.
-* CC BY-SA © Some Icons by Flaticon. 

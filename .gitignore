@@ -9,3 +9,5 @@
 *.directory
 **/.directory
 \.icon-theme\.cache
+
+\.vscode/
