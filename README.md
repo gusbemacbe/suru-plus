@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
     <img src="images/logo-new.png" alt="Logotype" height="250px">
 </p>
 
@@ -11,8 +11,6 @@
 - [What’s new?](#whats-new)
   - [Version 25.0.0](#version-2500)
 - [Installing with CLI](#installing-with-cli)
-  - [Git](#git)
-  - [Subversion](#subversion)
 - [Changing the folder colour](#changing-the-folder-colour)
 - [Known bugs](#known-bugs)
   - [This icon theme do not apply correctly the apps icons](#this-icon-theme-do-not-apply-correctly-the-apps-icons)
@@ -61,43 +59,50 @@
 
 * The file managers are no longer same, now are different and modern:
 
-<p align="center"> 
+<p align="center">
     <img src="images/preview5.png" alt="Screenshot" height="100px">
 </p>
 
 * Hundreds Steam games icons are supported officially:
 
-<p align="center"> 
+<p align="center">
     <img src="images/preview6.png" alt="Screenshot" height="450px">
 </p>
 
 ## Installing with CLI
 
-It is too easy and quick to install. I recommend strongly the SVN. Firstly you must install both packages `git` and `subversion`.
+Use the scripts to install the latest version directly from this repo (independently of your distro):
 
-### Git
+**NOTE:** Use the same command to update the icon theme.
 
-* Install the package `git`;
-* Clone the repository :
-```shell
-$ sudo git clone https://github.com/gusbemacbe/suru-plus.git /usr/share/icons/Suru++
+#### ROOT directory (recommended)
+
 ```
-* Set the icon theme:
-```shell
-$ gsettings set org.gnome.desktop.interface icon-theme "Suru++"
-```
-* And do you want to keep updating?
-```shell
-$ cd /usr/share/icons/Suru++
-$ sudo git pull
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | sh
 ```
 
-### Subversion
+#### HOME directory for GTK
 
-Run SVN like a Millennium Falcon with coaxium than Git, less than 10 parsecs:
+```
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="$HOME/.icons" sh
+```
 
-```shell
-sudo svn export --force https://github.com/gusbemacbe/suru-plus/trunk/ /usr/share/icons/Suru++
+#### HOME directory for KDE
+
+```
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="$HOME/.local/share/icons" sh
+```
+
+#### \*BSD systems
+
+```
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="/usr/local/share/icons" sh
+```
+
+#### Uninstall
+
+```
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env uninstall=true sh
 ```
 
 ## Changing the folder colour
@@ -108,11 +113,11 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### This icon theme do not apply correctly the apps icons
 
-Some apps, as AppImage-built and Snap-built apps are hardcoded and do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, old version of GitHub Desktop uses the `Icon=desktop`.  
+Some apps, as AppImage-built and Snap-built apps are hardcoded and do not use relative path or relative icon. They use absolute path. Other apps use misleading icon name, for example, old version of GitHub Desktop uses the `Icon=desktop`.
 
 ### Some icons are not applied correctly and look bad in KDE
 
-Since this new version is officially supported for KDE, please report the misdisplayed icon to me that I will analyse and fix. 
+Since this new version is officially supported for KDE, please report the misdisplayed icon to me that I will analyse and fix.
 
 ## Report
 
@@ -138,7 +143,7 @@ The changelog is available on the release page in theme's repository.
 ## Credits and Licences
 
 * CC BY-SA/GPL3 © 2018 Suru Icons by Sam Hewitt.
-* GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa. 
+* GPL3 © 2018 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa.
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
