@@ -29,7 +29,7 @@
 
 set -eo pipefail
 
-THIS_SCRIPT="$(basename "$0")"
+THIS_SCRIPT="$(basename "${BASH_SOURCE[0]}")"
 
 if [ -d "$1" ]; then
 	TARGET_DIR="$1"
@@ -50,40 +50,39 @@ COLORS=(
 	# [0] - primary color
 	# [1] - secondary color
 	# [2] - color of symbol
-	# [3] - color of panel
 	#
-	# | name   | [0]   | [1]   | [2]   | [3]   |
-	# |--------|-------|-------|-------|-------|
-	[blue]="    #37A6E6 #1463A5 #FFFFFF #333333"
-	[black]="   #1A1A1A #333333 #FFFFFF #000000"
-	[bluegrey]="#78909C #455A64 #CFD8DC #333333"
-	[brown]="   #AE8E6C #957552 #FFFFFF #333333"
-	[cyan]="    #31C6B7 #2B898F #FFFFFF #333333"
-	[green]="   #76C22B #28851E #FFFFFF #333333"
-	[grey]="    #999999 #666666 #FFFFFF #333333"
-	[magenta]=" #F74761 #C61B34 #FFFFFF #333333"
-	[mint]=" 		#7AAF65 #579140 #FFFFFF #333333"
-	[orange]="  #fb7c38 #f34f17 #FFFFFF #333333"
-	[red]="     #F22C42 #BC1938 #FFFFFF #333333"
-	[teal]="    #26A69A #00796B #FFFFFF #333333"
-	[violet]="  #8F76E4 #7839B7 #FFFFFF #333333"
-	[yellow]="  #fdc92b #eab305 #333333 #333333"
-	[custom]="  #value_light #value_dark #323232 #e4e4e4"
+	# | name   | [0]   | [1]   | [2]   |
+	# |--------|-------|-------|-------|
+	[blue]="    #37a6e6 #1463a5 #b8dff6"
+	[black]="   #1a1a1a #333333 #aeaeae"
+	[bluegrey]="#78909c #455a64 #cfd8dc"
+	[brown]="   #ae8e6c #957552 #e2d7cb"
+	[cyan]="    #31c6b7 #2b898f #b6ebe6"
+	[green]="   #76c22b #28851e #cfe9b4"
+	[grey]="    #999999 #666666 #dbdbdb"
+	[magenta]=" #f74761 #c61b34 #fcbec7"
+	[mint]="    #7aaf65 #579140 #d0e3c9"
+	[orange]="  #fb7c38 #f34f17 #fdd1b9"
+	[red]="     #f22c42 #bc1938 #fab4bc"
+	[teal]="    #26a69a #00796b #b2dfdb"
+	[violet]="  #8f76e4 #7839b7 #d7cff5"
+	[yellow]="  #fdc92b #eab305 #33290c"
+	[custom]="  #value_light #value_dark #323232"
 )
 
 
-msg() {
+headline() {
 	printf "%b => %b%s\n" "\e[1;32m" "\e[0m" "$*" >&2
 }
 
-warn() {
+msg() {
 	printf "%b [+] %b%s\n" "\e[1;33m" "\e[0m" "$*" >&2
 }
 
 recolor() {
 	# args: <old colors> <new colors> <path to file>
-	declare -a old_colors=( $1 )
-	declare -a new_colors=( $2 )
+	IFS=" " read -ra old_colors <<< "$1"
+	IFS=" " read -ra new_colors <<< "$2"
 	local filepath="$3"
 
 	[ -f "$filepath" ] || exit 1
@@ -93,8 +92,7 @@ recolor() {
 	done
 }
 
-
-msg "PHASE 1: Delete color suffix from monochrome icons ..."
+headline "PHASE 1: Delete color suffix from monochrome icons ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -regextype posix-extended \
 	-regex ".*/places/${MONOCHROME_SIZES_REGEX}/${FILES_REGEX}${DEFAULT_COLOR}-.*" \
@@ -102,12 +100,12 @@ find "$TARGET_DIR" -regextype posix-extended \
 
 	new_file="${file/-$DEFAULT_COLOR-/-}"
 
-	warn "'$file' is renamed to '$new_file'"
+	msg "'$file' is renamed to '$new_file'"
 	mv -f "$file" "$new_file"
 done
 
 
-msg "PHASE 2: Create missing symlinks ..."
+headline "PHASE 2: Create missing symlinks ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
 	-regex ".*/places/${COLOR_SIZES_REGEX}/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
@@ -118,12 +116,12 @@ find "$TARGET_DIR" -type f -regextype posix-extended \
 
 	[ -e "$symlink" ] && continue
 
-	warn "Creating missing symlink '$symlink' ..."
+	msg "Creating missing symlink '$symlink' ..."
 	ln -sf "$target" "$symlink"
 done
 
 
-msg "PHASE 3: Generate color folders ..."
+headline "PHASE 3: Generate color folders ..."
 # -----------------------------------------------------------------------------
 find "$TARGET_DIR" -type f -regextype posix-extended \
 	-regex ".*/places/${SIZES_REGEX}/${FILES_REGEX}${DEFAULT_COLOR}[-\.].*" \
@@ -140,7 +138,7 @@ find "$TARGET_DIR" -type f -regextype posix-extended \
 done
 
 
-msg "PHASE 4: Create symlinks for Folder Color v0.0.80 and newer ..."
+headline "PHASE 4: Create symlinks for Folder Color v0.0.80 and newer ..."
 # -----------------------------------------------------------------------------
 # Icons mapping
 FOLDER_COLOR_MAP=(
@@ -154,7 +152,7 @@ FOLDER_COLOR_MAP=(
 
 for mask in "${FOLDER_COLOR_MAP[@]}"; do
 	for color in "${!COLORS[@]}"; do
-		icon_mask=( $mask )
+		IFS=" " read -ra icon_mask <<< "$mask"
 		folder_color_icon="${icon_mask[0]/COLOR/$color}"
 		icon="${icon_mask[1]/COLOR/$color}"
 
