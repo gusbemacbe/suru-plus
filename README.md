@@ -6,6 +6,15 @@
 <h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a></h3>
 <h3 align="center">A cyberpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
+<p align="center">
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5200%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+</p>
+
 <h1>Index</h1>
 
 - [What’s new?](#whats-new)
@@ -147,5 +156,6 @@ The changelog is available on the release page in theme's repository.
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
+* GPL3/MIT © 2015-2017 La Capitaine by [Keefer Rourke](mail@krourke.org)
 * MIT © Icons 8 by Gravit Designer.
 * MIT © Twemoji by Twitter Team.
