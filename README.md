@@ -156,6 +156,6 @@ The changelog is available on the release page in theme's repository.
 * GPL3 © 2018 Suru++ 20 by Gustavo Costa.
 * GPL3 © Papirus by Alexey Varfolomeev.
 * GPL3 © Numix by Numix Team.
-* GPL3/MIT © 2015-2017 La Capitaine by [Keefer Rourke](mail@krourke.org)
+* GPL3/MIT © 2015-2017 La Capitaine by [Keefer Rourke](mail@krourke.org).
 * MIT © Icons 8 by Gravit Designer.
 * MIT © Twemoji by Twitter Team.
