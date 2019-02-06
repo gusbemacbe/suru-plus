@@ -18,11 +18,12 @@
 <h1>Index</h1>
 
 - [What’s new?](#whats-new)
-  - [Redesign](#redesign)
-  - [Folder redesign and 12 folder colours](#folder-redesign-and-12-folder-colours)
-  - [Mimetype icons redesign](#mimetype-icons-redesign)
-  - [Firefox alternatives](#firefox-alternatives)
-  - [New flags icons](#new-flags-icons)
+  - [Version 20.0.0](#version-2000)
+    - [Redesign](#redesign)
+    - [Folder redesign and 12 folder colours](#folder-redesign-and-12-folder-colours)
+    - [Mimetype icons redesign](#mimetype-icons-redesign)
+    - [Firefox alternatives](#firefox-alternatives)
+    - [New flags icons](#new-flags-icons)
   - [Version 25.0.0](#version-2500)
     - [Folders with colour of Linux Mint](#folders-with-colour-of-linux-mint)
     - [Distinction of file managers](#distinction-of-file-managers)
@@ -56,27 +57,29 @@
 
 ## What’s new?
 
-### Redesign
+### Version 20.0.0
 
-1. Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+#### Redesign
+
+Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
 ![Screenshot](images/preview1-new.png)
 
-### Folder redesign and 12 folder colours
+#### Folder redesign and 12 folder colours
 
-2. The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
+The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
 
 ![Screenshot](images/preview2.png)
 
-### Mimetype icons redesign
+#### Mimetype icons redesign
 
-3. Almost all mimetype icons have been redesigned with new colours and are based on Numix mimetype icons:
+Almost all mimetype icons have been redesigned with new colours and are based on Numix mimetype icons:
 
 ![Screenshot](images/preview3.png)
 
-### Firefox alternatives
+#### Firefox alternatives
 
-4. You can choose one of three alternatives of Firefox:
+You can choose one of three alternatives of Firefox:
 
 | ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
 | :---------------------------------: | :---------------------: | :-----------------------------: |
@@ -85,9 +88,9 @@
 
 To change the alternative icon, click to see [Changing the alternative icon](#changing-the-alternative-icon). 
 
-### New flags icons
+#### New flags icons
 
-5. New countries flags (in development)!
+New countries flags (in development)!
 
 ### Version 25.0.0
 
@@ -188,8 +191,8 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### Alternative icons
 
-1. Run `cd "go_to_/Suru++/64/`
-2. Download the script `[alt-icon.sh](./scripts/alt-icon.sh), make it executable and trusted and copy the path of this script to the terminal
+1. Run `cd "go_to_/Suru++/64/`;
+2. Download the script [`alt-icon.sh`](./scripts/alt-icon.sh), make it executable and trusted and copy the path of this script to the terminal;
 3. For example:
 
 ```bash
@@ -245,10 +248,10 @@ sudo chmod -R 777 ~/.local/share/applications
 sudo rm /var/lib/snapd/desktop/applications/*.desktop
 ```
 
-2. Go to the directory  `~/.local/share/applications`.
+2. Go to the directory  `~/.local/share/applications`;
 3. Open each desktop file of snap app with your favourite text editor and modify the encoded path of `Icon` to the simple path with no extension. For example, if you use Insomnia:
 
-```basg
+```bash
 Icon=snap/icons/icon.png
 Icon=insomnia
 ```
@@ -257,14 +260,14 @@ Icon=insomnia
 
 With AppImageLauncher installed, you click an AppImage, it is automatically integrated to `~/Applications`, and desktop files are automatically created into `~/local/share/applications`. But if you modify one of the AppImage-built app desktop file to correct the icon path, AppImageLauncher reverts automatically the desktop file to the original and keeps again the icon path hardcoded. It also removes the option `StartupWMClass`. We recommend you to ban `AppImageLauncher`. 
 
-1. Remove `appimagelauncher` via terminal.
+1. Remove `appimagelauncher` via terminal;
 2. Make all AppImages executable and trusted:
 
 ```bash
 chmod a+x *.AppImage
 ```
 
-3. Reboot.
+3. Reboot;
 4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWNClass` or the icon will be unrecognised or ugly. 
 
 ### Hardcoded application icons with ugly name
@@ -289,8 +292,8 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Suru++
 
 Not just Suru++, it also affects Numix icons theme. It is a missed `StartupWMClass` option in the desktop files in KDE and an icon cache bug in GNOME and KDE. 
 
-1. Install and use [StartupWMClassFixer](https://github.com/bilelmoussaoui/StartupWMClassFixer)
-2. Install and use [Stacer](https://github.com/oguzhaninan/Stacer) to clean caches. 
+1. Install and use [StartupWMClassFixer](https://github.com/bilelmoussaoui/StartupWMClassFixer);
+2. Install and use [Stacer](https://github.com/oguzhaninan/Stacer) to clean caches;
 3. Log out and log in.
 
 ## Report
@@ -316,12 +319,12 @@ The changelog is available on the release page in theme's repository.
 
 ## Credits and Licences
 
-* CC BY-SA/GPL3 © 2018 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](@snwh).
-* GPL3 © 2018 [Suru++ Ubuntu](https://github.com/Magog64/suru-plus) by [Andrea Bonanni](https://github.com/Magog64) and Gustavo Costa.
-* GPL3 © 2018 Suru++ 20 by Gustavo Costa.
+* CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](@snwh).
+* GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Magog64/suru-plus) by [Andrea Bonanni](https://github.com/Magog64) and Gustavo Costa.
+* GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
 * GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](@varlesh).
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
-* GPL3/MIT © 2015-2017 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](@keeferrourke).
+* GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](@keeferrourke).
 * MIT © Icons 8 by Gravit Designer<sup>1</sup>
 * MIT © Twemoji by Twitter Team.
 
