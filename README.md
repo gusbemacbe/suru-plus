@@ -191,7 +191,7 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### Alternative icons
 
-1. Run `cd "go_to_/Suru++/64/`;
+1. Run `cd "go_to_/Suru++/64/"`;
 2. Download the script [`alt-icon.sh`](./scripts/alt-icon.sh), make it executable and trusted and copy the path of this script to the terminal;
 3. For example:
 
