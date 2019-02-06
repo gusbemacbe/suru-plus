@@ -108,7 +108,7 @@ The file managers are no longer same, now are different and modern:
     <img src="images/preview5.png" alt="Screenshot" height="100px">
 </p>
 
-To change the default icon of each file manager (Caja, Nautilus, Nemo, etc.), see.
+To change the default icon of each file manager (Caja, Nautilus, Nemo, etc.), see [File manager icon](#file-manager-icon).
 
 #### Steam games
 
@@ -126,7 +126,7 @@ Suru++ is officially compatible with with @actionless's [Oomox](https://github.c
 
 #### Alternative session icons
 
-Redesigned by @darcn18. You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
+Redesigned by [@darcn181](https://github.com/). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
 
 |        Icon name         |                      Default                      |                        Alt 1                         |                        Alt 2                         |              Alt 3               |              Alt 4               |
 | :----------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------: | :------------------------------: |
@@ -319,12 +319,12 @@ The changelog is available on the release page in theme's repository.
 
 ## Credits and Licences
 
-* CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](@snwh).
+* CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Magog64/suru-plus) by [Andrea Bonanni](https://github.com/Magog64) and Gustavo Costa.
 * GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
-* GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](@varlesh).
+* GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
-* GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](@keeferrourke).
+* GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](https://github.com/keeferrourke).
 * MIT © Icons 8 by Gravit Designer<sup>1</sup>
 * MIT © Twemoji by Twitter Team.
 
