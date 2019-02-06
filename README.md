@@ -126,7 +126,7 @@ Suru++ is officially compatible with with @actionless's [Oomox](https://github.c
 
 #### Alternative session icons
 
-Redesigned by [@darcn181](https://github.com/). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
+Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
 
 |        Icon name         |                      Default                      |                        Alt 1                         |                        Alt 2                         |              Alt 3               |              Alt 4               |
 | :----------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------: | :------------------------------: |
