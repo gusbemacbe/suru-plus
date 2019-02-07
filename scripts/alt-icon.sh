@@ -35,6 +35,10 @@ case "$LANG" in
         msg_old="Velho link simbólico"
         msg_new="Novo link simbólico"
         ;;
+    ro_*)
+        msg_old="Legătură simbolică veche"
+        msg_new="Legătură simbolică nouă"
+        ;;
     ru_*)
         msg_old="Старая симлинк"
         msg_new="Новая симлинк"
