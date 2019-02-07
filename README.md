@@ -30,7 +30,7 @@
     - [Steam games](#steam-games)
   - [Version 25.1.0](#version-2510)
     - [Oomox](#oomox)
-    - [Alternative session icons](#alternative-session-icons)
+    - [Alternative icons](#alternative-icons)
 - [Installing with CLI](#installing-with-cli)
     - [ROOT directory (recommended)](#root-directory-recommended)
     - [HOME directory for GTK](#home-directory-for-gtk)
@@ -40,7 +40,7 @@
 - [Changing the folder colour](#changing-the-folder-colour)
 - [Changing the alternative icon](#changing-the-alternative-icon)
   - [Firefox](#firefox)
-  - [Alternative icons](#alternative-icons)
+  - [Alternative icons](#alternative-icons-1)
   - [File manager icon](#file-manager-icon)
 - [Known bugs](#known-bugs)
   - [Snap-built apps](#snap-built-apps)
@@ -124,7 +124,7 @@ Hundreds Steam games icons are supported officially:
 
 Suru++ is officially compatible with with @actionless's [Oomox](https://github.com/themix-project/oomox). You can change any colour of all 16px icons and of all folders once in a while!
 
-#### Alternative session icons
+#### Alternative icons
 
 Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
 
