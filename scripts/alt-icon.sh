@@ -7,6 +7,10 @@ case "$LANG" in
         msg_old="Alte symbolische Verknüpfung"
         msg_new="Neue symbolische Verknüpfung"
         ;;
+    el_*)
+        msg_old="Παλιός συμβολικός σύνδεσμος"
+        msg_new="Νέος συμβολικός σύνδεσμος"
+        ;;
     es_*)
         msg_old="Viejo enlace simbólico"
         msg_new="Nuevo enlace simbólico"
@@ -18,6 +22,10 @@ case "$LANG" in
     it_*)
         msg_old="Vecchio collegamento simbolico"
         msg_new="Nuovo collegamento simbolico"
+        ;;
+    ka_*)
+        msg_old="ძველი სიმბოლური კავშირი"
+        msg_new="ახალი სიმბოლური კავშირი"
         ;;
     nl_*)
         msg_old="Oude symbolische link"
