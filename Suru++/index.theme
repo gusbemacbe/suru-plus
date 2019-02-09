@@ -2,6 +2,7 @@
 
 # The FreeDesktop Suru icon set is designed and developed by:
 # - Sam Hewitt <sam@snwh.org>
+# - under GPL3
 
 # The original Suru icon set and concept was created by:
 # - Matthieu James
@@ -11,28 +12,46 @@
 # - Andrea Bonanni (original author) <bonandry@gmail.com>
 # - Gustavo Costa <gusbemacbe@gmail.com>
 
-# Actions, Places and Status based on Papirus by Alexey Varfolomeev, under GPL3
-# Emojis derived from Twemoji by Twitter Team, under MIT
-# Mimetypes based on Numix by Numix Team, under GPL3
-# Some icons are taken from Flaticon, under CCY-BSA, and others from Gravit Designer, under MIT
+# * Devices icons are inspired by La Capitaine created by:
+# - Keefer Rourke <mail@krourke.org>
+# - under GPL3/MIT
+
+# * Emoji icons are derived from the Twenoji created by:
+# - Twitter Team
+# - under MIT
+
+# * Mimetype icons are based on Numix mimetypes icons created by:
+# - Numix Team
+# - under GPL3
+
+# * Devices and places icons and several apps icons are inspired by Papirus icons created by:
+# - Alexey Varfolomeev <https://github.com/varlesh>
+# - under GPL3
+
+# * Numberless icons are from Gravit Designer, under GPL3/MIT
 
 [Icon Theme]
-Name=Suru++ 20
-Comment=A cyberpunkish, elegant, futuristic and modern icons theme.
-Comment[af]='N cyberpunkagtige, elegante, futuristiese en moderne ikoone tema.
-Comment[ca]=Un tema cyberpunk, elegant, futurista i modern d'icones.
-Comment[de]=Ein cyberpunkliches, elegantes, futuristisches und modernes Ikonthema
-Comment[de_AT]=Ein cyberpunkliches, elegantes, futuristisches und modernes Ikonthema.
-Comment[de_CH]=Ein cyberpunkliches, elegantes, futuristisches und modernes Ikonthema.
-Comment[el]=Ένα Κυβερνοπάνκικός, κομψό, φουτουριστικό και σύγχρονο θέμα εικονιδίων.
-Comment[es]=Un tema de iconos cyberpunkoso, elegante, futurista y moderno.
-Comment[fr]=Un thème d'icônes cyberpunkâtre, élégant, futuriste et moderne.
-Comment[it]=Un tema di icone cyberpunkico, elegante, futuristico e moderno
-Comment[ka]=მოკიბერპანკიო, ელეგანტური, ფუტურისტულ და თანამედროვე სურათების თემა
-Comment[nl]=Een cyberpunkachtig, elegant, futuristisch en modern iconenthema
-Comment[pt_BR]=Um tema cyperpunk, elegante, futurista e moderno de ícones
-Comment[pt_PT]=Um tema de ícones cyberpunk, elegante, futurista e moderno
-Comment[ro]=O temă cyberpunkăreață, elegantă, futuristă și modernă icoanelor
+Name=Suru++ 25
+Comment=A cyberpunkish, elegant, futuristic, modern and Papirus-like icons theme.
+Comment[af]='N cyberpunkagtige, elegante, futuristiese, moderne en Papirusagtig ikoone tema.
+Comment[ca]=Un tema cyberpunk, elegant, futurista, semblant al Papirus i modern d'icones.
+Comment[de]=Ein cyberpunkliches, elegantes, futuristisches, modernes und Papirus-artiges Ikonthema
+Comment[de_AT]=Ein cyberpunkliches, elegantes, futuristisches, modernes und Papirus-artiges Ikonthema.
+Comment[de_CH]=Ein cyberpunkliches, elegantes, futuristisches, modernes und Papirus-artiges Ikonthema.
+Comment[eo]=Ciberpunkeca, eleganta, futurstila, moderna kaj Papirus-inspirita piktogramaro.
+Comment[el]Ένα κομψό, κυβερνοπάνκικο, φουτουριστικό, σύγχρονο θέμα εικονιδίων σαν το Papirus.
+Comment[es]=Un tema de iconos cyberpunkoso, elegante, futurista, moderno e inspirado por Papirus.
+Comment[fr]=Un thème d'icônes cyberpunkâtre, élégant, futuriste, moderne et à la Papirus.
+Comment[he]=סט אייקונים אלגנטי, עתידני, מודרני, מעט סייברפאנקי, ובהשראת פפירוס.
+Comment[it]=Un tema di icone cyberpunkico, elegante, futuristico e moderno ed allo stilo di Papirus.
+Comment[ja]=サイバーパンクらしくて、おしゃれで、未来的で、モダンで、Papirusらしいアイコンテーマ.
+Comment[ka]=მოკიბერპანკო, ელეგანტური, ფუტურისტული, თანამედროვე და Paprus-ივით პიქტოგრამების ჯგუფი.
+Comment[nl]=Een cyberpunkachtig, elegant, futuristisch, modern en Papirus-achting iconenthema
+Comment[pt_BR]=Um tema cyperpunk, elegante, futurista e moderno de ícones, e semelhante ao Papirus.
+Comment[pt_PT]=Um tema de ícones cyberpunk, elegante, futurista, moderno e inspirado por Papirus.
+Comment[ro]=O temă cyberpunk, futuristă, modernă, cu icoane asemenea Papirus
+Comment[ru]=Киберпанковая, элегантная, футуристичная и современная Papirus-подобная тема иконок.
+Comment[uk]=Кіберпанкова, елегантна, футуристична, модернова та папірусована тема іконок.
 
 Example=folder
 
