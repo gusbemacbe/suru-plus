@@ -3,7 +3,7 @@ sudo: required
 language: generic
 
 branches:
-    - beta
+    - master
 
 addons:
   apt:
