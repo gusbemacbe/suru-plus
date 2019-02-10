@@ -70,11 +70,6 @@
    <circle fill="#C4C4C4" cx="133.179" cy="157.777" r="10.357" vector-effect="non-scaling-stroke"/>
    <circle fill="#C4C4C4" cx="159.071" cy="157.777" r="10.357" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#G9keiOziiHaYiaeYH5qFEz7LnY8iPhQn)">
    <path d="M 65.927944 159.157401 C 65.886759 159.554812 65.857143 159.95509 65.857143 160.366071 C 65.857143 168.972857 72.987987 175.901786 81.848004 175.901786 L 158.616281 175.901786 C 167.476817 175.901786 174.607143 168.972857 174.607143 160.366071 C 174.607143 159.95509 174.577899 159.554812 174.536341 159.157401 C 173.820645 167.111474 166.996859 173.3125 158.616281 173.3125 L 81.848004 173.3125 C 73.467916 173.3125 66.643638 167.111474 65.927944 159.157401 Z"/>
   </g>

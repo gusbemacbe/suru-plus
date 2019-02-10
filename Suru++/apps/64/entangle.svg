@@ -43,11 +43,6 @@
    <circle cx="148.714" cy="150.009" r="31.071" vector-effect="non-scaling-stroke"/>
   </g>
   <circle fill="#FFFFFF" cx="148.714" cy="147.42" r="31.071" vector-effect="non-scaling-stroke"/>
-  <defs>
-   <filter width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#G3pznnJo2Oxwh00ukJ0jGa4DoFmVqpd4)">
    <circle cx="107.286" cy="108.58" r="51.786" vector-effect="non-scaling-stroke"/>
   </g>
