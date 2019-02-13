@@ -66,6 +66,7 @@ COLORS=(
 	[red]="     #f22c42 #bc1938 #fab4bc"
 	[teal]="    #26a69a #00796b #b2dfdb"
 	[violet]="  #8f76e4 #7839b7 #d7cff5"
+	[white]="   #ececec #b3b3b3 #4c5561"
 	[yellow]="  #fdc92b #eab305 #33290c"
 	[custom]="  #value_light #value_dark #323232"
 )
