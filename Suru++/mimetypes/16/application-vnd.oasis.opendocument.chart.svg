@@ -1,13 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <switch>
-  <g>
-   <path fill="#5c616c" d="M 5.777778 7.111111 L 10.222222 7.111111 L 10.222222 16 L 5.777778 16 L 5.777778 7.111111 Z M 0 2.666667 L 4.444444 2.666667 L 4.444444 16 L 0 16 L 0 2.666667 Z M 11.555556 0 L 16 0 L 16 16 L 11.555556 16 L 11.555556 0 Z"/>
-  </g>
-  <foreignObject requiredExtensions="http://ns.gravit.io/">
-   <gravitDesigner:gravitElementRef xmlns:gravitDesigner="http://ns.gravit.io/" xlink:href="#rHgA8VOtQhkOd6NP6cP3GhURjcfAglLk"/>
-  </foreignObject>
- </switch>
- <gravitDesigner:gravitGraphicSource xmlns:gravitDesigner="http://ns.gravit.io/" id="rHgA8VOtQhkOd6NP6cP3GhURjcfAglLk" version="1">
-  <![CDATA[eMKcw41Vw5luwqNIFMO9wpURPcKaJ0/Ci8KdYGnCpC4bHGPCjG0gw6Alwo5aLMOFZsO2w43DoCjDvz7CgDNJw5rCncKXGWnCpC7DhFLCp8OuwqnCusOLQcO3GcO5wobCjMKRw5RwITJCfkfDhsKPw48DYCVRwppUwrHCnRrCpcOXLcOAGsOGwoltI2PDhwgLOEJ6wrjDqMKMwpHDpyPDssOtwojCjMKPA3JERkfDhArCkwLDmh1Ww6YVw6zDpmlZdMKTw4fDhyMCw4B0L8OLABQ8w7/Dl2DDumV4w6rDhMK9X8Oew6cLD8KmCcOuWsOBahPChsOlJMKsI0bChMK1wqFpR8OkaTTCsMK5w6QTwrZnw5nCl8OUT8Oqw6TCkMKkwoXCrh0oHn1Iw4QiwovDmzQzJcOdwr1hwovCvMOwwpE9CzbDkSnDhMO9MsKXNDxdwqInwo4wScOKwpbDgQHCrMOOXFTCvMKxwq/CnsOfwrDDjQsbwpBNwr3CoA3Ct8Oebw/DlMKUIMOWTm5Mw7YRwrkQNz7DlsKxwp86wrMcOmVTdknCiMKrMMK8w47CjcOYw7LCknxITG9Rw6ZOw7/CiX4lfxzDlAjDrcKvwp/DoT/DscKvw7TDh8OBYMOkTxhNEsO9w57Dn0PCoxXDrMKhRkHChcK1U0HDj8Oqw7nDjsKTw6bCgsOJFMKBeMKoG8OIbh/CljYoTkNQw5/CocOjwrzDml/Dri82wonDgRkAw6nCtFTCqcKLR8KWF8KccVfCmANRRsKpd0fDpMKlw5PDhsK/wpMAB8K6PALDucOHIsKGw7DDnsOHwpfCglJtTEbDkxotccOResOrw4nDgFR4YSdcwrDDtzLCgMK+DDdswq7DiD0Fw44DwpDCnTHCkiDDrsO5LT9Nd8OGwqrDkC0zYMOFw7bChn1TRMKGcy3DtBJuDMKOLsOjwoM4w4/DsV3DmsOCWSXDrmPCpzDCgMOyLsKgw4HDsxvDtlpLV8K7wrsKXyZrwqFQY8KGwrXCpcKGwqfDkcKSCirDmDzClMOZwq8mwoFow57DqsKNwrXDpcO9wpbCm0/DjiYlw4V6RsKgIsOLAsKpSElVwr3ClUAEwrliw5/DkMKaPgFuwqRKw7PChMKdcMOpw6puwp3DlwvDs8OMbcOCw78iwoHCrsKALgBnHnxMZFtObcO+HGXCoELCt8KSTsK1WzzCqypTw6PCs1jClcOnw67DjHorA0g+YTN6w5PCiBNlAyXDn8Ofa8Oiwp7DpsKgwpxGw4TCnlLDosKWw49yw7/Chn1TRMKqwp0kw6HChsKlw5ELw6UmBwt4wqfDk1pgBMKzw50UbMKzw7TDjHc2w7jChB1jw6ZZwqJnWcOlW8KqVcK4wpXCqnMXIcOeN8K8dcOew4/DpsOyw6xXwpMAVMKhw53DgiUpwoUcw4PChsOSVsOPeXfCkQTClcOAHsOaw5jCpsKZWwk0w6sNP1EkwrtdKFM+IcOIw6jDhMOZwpFsUiphwqbDhcOJMXoJPMKNPsOEM8KEw5NHw7PDvwTCg8OERgTDuxbDpRl5w5nCicKvDw3DtsKnPsK/wrYyPy7Cl1fDqGNHc8O8wrDDu8OJw79Zw6t5acOZw4HDky/CjxhBwo1ew68nw6TCpTvDoMKPDg9jMnnCmMKuwqpFHcOJwpFSw5HCp8OICRTDrG7CizPCh8KLEhIKw7Iyek1SZxzCiMKewqrDjlnCgcKRZBkHGgrCp01yw7LCrWYFDFfDpcOvwp1hw5cvwp1hwqzCkW7CpMKgwq0sB1x+w47DsMKHeMKRw63DsVVLwq49w6vCrsOQw47CnVtnZMKMw5Ejw4TCu8K+EsOHwrnCpsOTwrROV2/Ch8O0PXXChmbCkiJjw7QtHcKbwq7ChcO/woYhL38DBCtLag==]]>
- </gravitDesigner:gravitGraphicSource>
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#efefe7; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#8f8f8b; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+   <path style="fill:currentColor;" class="ColorScheme-Text" d="M 5.777778 7.111111 L 10.222222 7.111111 L 10.222222 16 L 5.777778 16 L 5.777778 7.111111 Z M 0 2.666667 L 4.444444 2.666667 L 4.444444 16 L 0 16 L 0 2.666667 Z M 11.555556 0 L 16 0 L 16 16 L 11.555556 16 L 11.555556 0 Z"/>
 </svg>
