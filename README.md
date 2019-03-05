@@ -31,7 +31,7 @@
   - [Version 25.1.0](#version-2510)
     - [Oomox](#oomox)
     - [Alternative icons](#alternative-icons)
-  - [Version 25.1.0](#version-2510-1)
+  - [Version 25.2.0](#version-2520)
     - [Gradient support for small icons](#gradient-support-for-small-icons)
     - [New three folders colours – Indigo, pink and Manjaro-coloured](#new-three-folders-colours-%E2%80%93-indigo-pink-and-manjaro-coloured)
 - [Installing with CLI](#installing-with-cli)
@@ -143,7 +143,7 @@ Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of yo
 | system-suspend-hibernate | ![default](./images/system-suspend-hibernate.png) | ![alt 1](./images/system-suspend-hibernate-alt1.png) | ![alt 2](./images/system-suspend-hibernate-alt2.png) |                -                 |                -                 |
 |           user           |           ![default](./images/user.png)           |           ![alt 1](./images/user-alt1.png)           |           ![alt 2](./images/user-alt2.png)           | ![alt 3](./images/user-alt3.png) | ![alt 4](./images/user-alt4.png) |
 
-### Version 25.1.0
+### Version 25.2.0
 
 #### Gradient support for small icons
 
