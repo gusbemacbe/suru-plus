@@ -17,3 +17,6 @@
 # v03 – Arezzo
 # v02 – Pisa
 # v01 – Pontassieve
+
+The icons have been reimagined with a 90s cyberpunk retro-futuristic feel.
+The icons have been reimagined with a 90s cyberpunk retro-futuristic look.
