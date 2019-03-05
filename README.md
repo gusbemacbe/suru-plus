@@ -12,7 +12,7 @@
   <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
   <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
   <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-1500%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
 </p>
 
 <h1>Index</h1>
@@ -31,6 +31,9 @@
   - [Version 25.1.0](#version-2510)
     - [Oomox](#oomox)
     - [Alternative icons](#alternative-icons)
+  - [Version 25.1.0](#version-2510-1)
+    - [Gradient support for small icons](#gradient-support-for-small-icons)
+    - [New three folders colours – Indigo, pink and Manjaro-coloured](#new-three-folders-colours-%E2%80%93-indigo-pink-and-manjaro-coloured)
 - [Installing with CLI](#installing-with-cli)
     - [ROOT directory (recommended)](#root-directory-recommended)
     - [HOME directory for GTK](#home-directory-for-gtk)
@@ -140,9 +143,23 @@ Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of yo
 | system-suspend-hibernate | ![default](./images/system-suspend-hibernate.png) | ![alt 1](./images/system-suspend-hibernate-alt1.png) | ![alt 2](./images/system-suspend-hibernate-alt2.png) |                -                 |                -                 |
 |           user           |           ![default](./images/user.png)           |           ![alt 1](./images/user-alt1.png)           |           ![alt 2](./images/user-alt2.png)           | ![alt 3](./images/user-alt3.png) | ![alt 4](./images/user-alt4.png) |
 
+### Version 25.1.0
+
+#### Gradient support for small icons
+
+I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](/actionless) and [@SmartFinn](/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!
+
+![gradient colours](images/preview7.png)
+
+#### New three folders colours – Indigo, pink and Manjaro-coloured
+
+Suru++ won more new three colours for folders:
+
+![three-folders-colours](images/preview8.png)
+
 ## Installing with CLI
 
-Use the scripts to install the latest version directly from this repo (independently of your distro):
+Use the scripts to install the latest version directly from this repository (independently of your distribution):
 
 **NOTE:** Use the same command to update the icon theme.
 
@@ -272,7 +289,7 @@ chmod a+x *.AppImage
 
 ### Hardcoded application icons with ugly name
 
-We have already icons, but it is wrong or ugly name, or because the icon is hardcoded. For example, the application Github Desktop used `Icon=desktop.png` and other apps, like Insomnia, use `Icon=icon.png`, or worse, `Icon=stupid/path/icon.png`. 
+We have already icons, but it is wrong or ugly name, or because the icon is hardcoded. For example, the application GitHub Desktop used `Icon=desktop.png` and other apps, like Insomnia, use `Icon=icon.png`, or worse, `Icon=stupid/path/icon.png`. 
 
 To deal with hardcoded application icons we recommend to install [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer). Suru++ supports most of the applications in the list. If [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favourite app yet, please open an [issue here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
 
@@ -329,4 +346,4 @@ The changelog is available on the release page in theme's repository.
 * MIT © Twemoji by Twitter Team.
 
 <hr>
-<sup>1</sup> Gravit Designer has a special agreement with Icons 8 and allows the Pro user of Gravit Designer to use any icon without attribution and to sublicence under an open source licence. See the <a href="https://discuss.gravit.io/t/licence-of-icons/2767">topic here</a>.
+<sup>1</sup> Gravit Designer has a special agreement with Icons 8 and allows the Pro user of Gravit Designer to use any icon without attribution and to sub-licence under an open source licence. See the <a href="https://discuss.gravit.io/t/licence-of-icons/2767">topic here</a>.
