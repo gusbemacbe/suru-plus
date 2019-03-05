@@ -1,4 +1,44 @@
-# v25 or XXV
+# v25.2.0 or XXV.2.0 – Nantes
+
+* **Gradient support for small icons:** I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](/actionless) and [@SmartFinn](/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!
+
+![gradient colours](images/preview7.png)
+
+* Suru++ won more new three colours for folders: – indigo, Manjaro-coloured and pink:
+
+![three-folders-colours](images/preview8.png)
+
+# v25.1.1 or XXV.1.1
+
+* I have fixed the bug in the Greek translation in the file `index.theme`.
+
+# v25.1.0 or XXV.1.0
+
+* Officially compatible with @actionless's Oomox. You are allowed to replace the colour of all small icons and of folders with any colour you want!
+* New alternative icons of session and of Sublime Text, redesigned by @darcn181:
+
+|        Icon name         |                      Default                      |                        Alt 1                         |                        Alt 2                         |              Alt 3               |              Alt 4               |
+| :----------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------: | :------------------------------: |
+|         settings         |         ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/settings.png)         |         ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/settings-alt1.png)         |         ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/settings-alt2.png)         |                -                 |                -                 |
+|       sublime-text       |       ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/sublime-text.png)       |       ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/sublime-text-alt.png)        |                          -                           |                -                 |                -                 |
+|    system-lock-screen    |    ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-lock-screen.png)    |    ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-lock-screen-alt1.png)    |    ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-lock-screen-alt2.png)    |                -                 |                -                 |
+|      system-log-out      |      ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-log-out.png)      |      ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-log-out-alt1.png)      |      ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-log-out-alt2.png)      |                -                 |                -                 |
+|      system-reboot       |      ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-reboot.png)       |      ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-reboot-alt1.png)       |      ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-reboot-alt2.png)       |                -                 |                -                 |
+|     system-shutdown      |     ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-shutdown.png)      |     ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-shutdown-alt1.png)      |     ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-shutdown-alt2.png)      |                -                 |                -                 |
+|      system-suspend      |      ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend.png)      |      ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend-alt1.png)      |      ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend-alt2.png)      |                -                 |                -                 |
+| system-suspend-hibernate | ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend-hibernate.png) | ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend-hibernate-alt1.png) | ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/system-suspend-hibernate-alt2.png) |                -                 |                -                 |
+|           user           |           ![default](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/user.png)           |           ![alt 1](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/user-alt1.png)           |           ![alt 2](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/user-alt2.png)           | ![alt 3](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/user-alt3.png) | ![alt 4](https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/images/user-alt4.png) |
+
+* Devices icons redesign: 
+
+![devices-icons](https://user-images.githubusercontent.com/2257024/52533844-0b674a00-2d21-11e9-88de-488ed048ea39.png)
+
+* From 4,700 to **5,200** icons!
+* New translations and upgrade in the file `index.theme`.
+* Fixed missed KDE media controller icons.
+* Fixed symbolic session icons.
+
+# v25 or XXV – Rio de Janeiro
 
 * I have increased from 2,2k to 4,7k icons!
 * All 4,7k icons of the folder `apps` have been redesigned;
@@ -22,7 +62,7 @@
 
 * Some icons have been redesigned by Pedro Gauna <@lapega>
 
-# v20 3.0 or XX 3.0
+# v20.3.0 or XX.3.0 – Paris
 
 It is one of biggest changes made during one month in this icons theme:
 
@@ -180,7 +220,7 @@ Added icons:
 
 Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the Belarusian, Russian and Ukrainian translations in the `index.theme`!
 
-# v20 or XX
+# v20 or XX – Half Moon Bay
 
 * Tested on many distributions and passed well
 * Redesigning the logotype
@@ -212,7 +252,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   - Readjusting many times the `index.theme`
   - Removing the cursor theme
 
-# v15
+# v15 – Rome
 
 * Belarusian, Russian and Ukrainian translations added. Thanks to @bzhmurov!
 * Fixed the wrong icons of Clocks
@@ -478,7 +518,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Halo
   * Origin
 
-# v14
+# v14 – Venice
 
 Designed @Magog64:
 
@@ -596,7 +636,7 @@ Icons designed by @Magog64:
 * The good news is that, you are not any more required to depend on Sam Hewitt's icons and other Suru++ packs, because we have purged the dead symlinks. 
 * WE have switched to GPL3. 
 
-# v13
+# v13 – MIlan
 
 We have made a biggest update, biggest than v11. :-D We have good news...
 
@@ -790,7 +830,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Xubuntu
   * Zorin
 
-# v12
+# v12 – Palermo
 
 <sup>1</sub> Some AppImage apps do use the relative icons, therefore, we provide desktop files.
 
@@ -955,7 +995,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 
 * I have removed and moved the Suru++ Lubuntu to a new repository, designed for Lubuntu users.
 
-# v11
+# v11 – Naples
 
 * We have made a bigger update - big addition of Ubuntu GNOME, KDE and XFCE and Maths icons, distributions logos icons, improvements of icons and we have fixed the icons bugs in KDE, purging the PNG images and rewriting the icon in pure SVG.
 
@@ -1210,7 +1250,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Instagram
 
-# v10.0
+# v10.0 – Genoa
 
 * Added icons:
   - Aqualung
@@ -1330,7 +1370,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - Wordpress
   - XBMC
 
-# v9.0
+# v9.0 – Bologna
 
 * Added Kali Linux icons: 
   * Distribution Kali Linux Logo
@@ -1381,7 +1421,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Adobe Reader 9
   * Adobe Reader 10
 
-# v8.0
+# v8.0 – Firenze
 
 * Added icons:
   * Archive Mounter
@@ -1401,7 +1441,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * We have provided desktop files located in the folder `desktop` for you who have problems with badly displayed icon;
 * We reorganised README to facilitate expert and novice users. 
 
-# v7.0
+# v7.0 – Padua
 
 * Added icons:
   * Address Book
@@ -1524,7 +1564,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   * Archive
   * Jocky
 
-# v6.0
+# v6.0 – Modena
 
 * Added missed icons:
   * Arduino
@@ -1573,7 +1613,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   * Opera
 
-# v5.0
+# v5.0 – Verona
 
 * Added icons:
   - Git Cola 
@@ -1607,7 +1647,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 * Improved icons:
   - Gravit Designer
 
-# v4.0
+# v4.0 – Trastevere
 
 * Apps:
   - GNOME-Do
@@ -1643,11 +1683,11 @@ We have made a biggest update, biggest than v11. :-D We have good news...
 - Added and fixed status icons
 - Improved Insync status icons
 
-# v3.0
+# v3.0 – Arezzo
 - Added Wine icons
 - Improved the icons of GNOME Screenshot, Hyper and Mailspring
 
-# v2.0
+# v2.0 – Pisa
 - Added icons:
   - Atom Beta
   - Citra
@@ -1666,7 +1706,7 @@ We have made a biggest update, biggest than v11. :-D We have good news...
   - VSCode Insiders
   - Wire
 
-# v1.0
+# v1.0 – Pontassieve
 
 - Starting the icons pack
 
