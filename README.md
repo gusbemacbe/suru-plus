@@ -147,7 +147,7 @@ Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of yo
 
 #### Gradient support for small icons
 
-I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](/actionless) and [@SmartFinn](/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!
+I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!
 
 ![gradient colours](images/preview7.png)
 
