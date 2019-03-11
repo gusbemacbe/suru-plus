@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#jCK2t48Y3Z27ljhd9HFWF48Kgf1aayXK)">
   <linearGradient id="_lgradient_524" x1="-.182" x2="1.04" y1=".503" y2=".497" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="25.186%" style="stop-color:#76C22B"/>
-   <stop offset="25.215%" style="stop-color:#FFDA64"/>
-   <stop offset="37.975%" style="stop-color:#FFDA64"/>
-   <stop offset="38.056%" style="stop-color:#FB7C38"/>
-   <stop offset="49.877%" style="stop-color:#FB7C38"/>
-   <stop offset="50%" style="stop-color:#F76363"/>
-   <stop offset="61.898%" style="stop-color:#F76363"/>
-   <stop offset="61.904%" style="stop-color:#D85ECA"/>
-   <stop offset="75%" style="stop-color:#D85ECA"/>
-   <stop offset="75%" style="stop-color:#5884F4"/>
-   <stop offset="86.718%" style="stop-color:#5884F4"/>
-   <stop offset="86.786%" style="stop-color:#31C6B7"/>
-   <stop offset="97.87%" style="stop-color:#31C6B7"/>
-   <stop offset="100%" style="stop-color:#31C6B7"/>
+   <stop offset="25.186%" style="stop-color:#76c22b"/>
+   <stop offset="25.215%" style="stop-color:#ffda64"/>
+   <stop offset="37.975%" style="stop-color:#ffda64"/>
+   <stop offset="38.056%" style="stop-color:#fb7c38"/>
+   <stop offset="49.877%" style="stop-color:#fb7c38"/>
+   <stop offset="50%" style="stop-color:#f76363"/>
+   <stop offset="61.898%" style="stop-color:#f76363"/>
+   <stop offset="61.904%" style="stop-color:#d85eca"/>
+   <stop offset="75%" style="stop-color:#d85eca"/>
+   <stop offset="75%" style="stop-color:#5884f4"/>
+   <stop offset="86.718%" style="stop-color:#5884f4"/>
+   <stop offset="86.786%" style="stop-color:#31c6b7"/>
+   <stop offset="97.87%" style="stop-color:#31c6b7"/>
+   <stop offset="100%" style="stop-color:#31c6b7"/>
   </linearGradient>
   <path fill="url(#_lgradient_524)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -37,7 +37,7 @@
   </filter>
  </defs>
  <g filter="url(#tGchCV4xRuaJtz9iqhwInY3s2tktPOZe)">
-  <path fill="#FFFFFF" d="M 77.472 183.027 L 55.727 72.973 Q 54.843 69.055 57.406 66.027 Q 59.97 63 63.859 63 L 74.113 63 Q 78.356 63 81.715 65.849 Q 85.074 68.699 85.605 72.973 L 97.626 162.014 Q 97.626 162.192 97.803 162.192 Q 97.98 162.192 97.98 162.014 L 108.941 72.973 Q 109.472 68.699 112.654 65.849 Q 115.836 63 120.079 63 L 136.698 63 Q 140.941 63 144.123 65.849 Q 147.305 68.699 147.836 72.973 L 158.797 162.014 Q 158.797 162.192 158.973 162.192 Q 159.15 162.192 159.15 162.014 L 171.172 72.973 Q 171.702 68.699 175.062 65.849 Q 178.421 63 182.664 63 L 192.21 63 Q 196.1 63 198.575 66.027 Q 201.05 69.055 200.343 72.973 L 178.597 183.027 Q 177.713 187.301 174.354 190.151 Q 170.995 193 166.576 193 L 151.548 193 Q 147.305 193 144.034 190.151 Q 140.764 187.301 140.233 183.027 L 128.212 93.986 Q 128.212 93.808 128.035 93.808 Q 127.858 93.808 127.858 93.986 L 115.836 183.027 Q 115.306 187.301 112.035 190.151 Q 108.764 193 104.521 193 L 89.494 193 Q 85.074 193 81.627 190.151 Q 78.179 187.301 77.472 183.027 Z"/>
+  <path fill="#ffffff" d="M 77.472 183.027 L 55.727 72.973 Q 54.843 69.055 57.406 66.027 Q 59.97 63 63.859 63 L 74.113 63 Q 78.356 63 81.715 65.849 Q 85.074 68.699 85.605 72.973 L 97.626 162.014 Q 97.626 162.192 97.803 162.192 Q 97.98 162.192 97.98 162.014 L 108.941 72.973 Q 109.472 68.699 112.654 65.849 Q 115.836 63 120.079 63 L 136.698 63 Q 140.941 63 144.123 65.849 Q 147.305 68.699 147.836 72.973 L 158.797 162.014 Q 158.797 162.192 158.973 162.192 Q 159.15 162.192 159.15 162.014 L 171.172 72.973 Q 171.702 68.699 175.062 65.849 Q 178.421 63 182.664 63 L 192.21 63 Q 196.1 63 198.575 66.027 Q 201.05 69.055 200.343 72.973 L 178.597 183.027 Q 177.713 187.301 174.354 190.151 Q 170.995 193 166.576 193 L 151.548 193 Q 147.305 193 144.034 190.151 Q 140.764 187.301 140.233 183.027 L 128.212 93.986 Q 128.212 93.808 128.035 93.808 Q 127.858 93.808 127.858 93.986 L 115.836 183.027 Q 115.306 187.301 112.035 190.151 Q 108.764 193 104.521 193 L 89.494 193 Q 85.074 193 81.627 190.151 Q 78.179 187.301 77.472 183.027 Z"/>
  </g>
  <g opacity=".4">
   <linearGradient id="_lgradient_525" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">

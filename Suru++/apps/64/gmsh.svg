@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#Zg8mmCHkty1kWzWHA1pOncvZ07uI7Kkt)">
   <linearGradient id="_lgradient_110" x1=".567" x2=".567" y1="1.071" y2="-.071" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#A0A0A0"/>
-   <stop offset="100%" style="stop-color:#DFDFDF"/>
+   <stop offset="0%" style="stop-color:#a0a0a0"/>
+   <stop offset="100%" style="stop-color:#dfdfdf"/>
   </linearGradient>
   <path fill="url(#_lgradient_110)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -17,8 +17,8 @@
  </defs>
  <g filter="url(#dQ2mYU8YO7rMIQqdHFkcJY3L3v1mQ5MY)">
   <path fill="#333333" d="M 55.5 199.5 L 200.5 199.5 L 128 174.193 L 55.5 199.5 L 55.5 199.5 Z"/>
-  <path fill="#E6E6E6" d="M 128 54.5 L 55.5 199.5 L 128 179.665 L 128 54.5 L 128 54.5 Z"/>
-  <path fill="#4D4D4D" d="M 128 54.5 L 200.5 199.5 L 128 179.665 L 128 54.5 L 128 54.5 Z"/>
+  <path fill="#e6e6e6" d="M 128 54.5 L 55.5 199.5 L 128 179.665 L 128 54.5 L 128 54.5 Z"/>
+  <path fill="#4d4d4d" d="M 128 54.5 L 200.5 199.5 L 128 179.665 L 128 54.5 L 128 54.5 Z"/>
  </g>
  <defs>
   <filter id="dQ2mYU8YO7rMIQqdHFkcJY3L3v1mQ5MY" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">

@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#pCjgu65Em2Whwu7ohhK8zlpA3AElGvHe)">
   <linearGradient id="_lgradient_197" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648,0,0,228.338,5.619,11.952)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#454F6F"/>
-   <stop offset="100%" style="stop-color:#5F6888"/>
+   <stop offset="0%" style="stop-color:#454f6f"/>
+   <stop offset="100%" style="stop-color:#5f6888"/>
   </linearGradient>
   <path fill="url(#_lgradient_197)" d="M 165.628 11.952 C 239.684 11.952 250.267 22.509 250.267 96.495 L 250.267 155.746 C 250.267 229.733 239.684 240.29 165.628 240.29 L 90.259 240.29 C 16.203 240.29 5.619 229.733 5.619 155.746 L 5.619 96.495 C 5.619 22.509 16.203 11.952 90.259 11.952 L 165.628 11.952 Z"/>
  </g>
@@ -20,12 +20,12 @@
    <path fill-rule="evenodd" d="M 152.031 81.005 L 55.5 177.536 L 93.604 177.536 L 136.789 134.351 L 136.789 177.536 L 177.434 136.891 L 177.434 177.536 L 200.5 154.47 L 200.297 81.005 L 152.031 129.27 L 152.031 81.005 Z"/>
   </g>
   <linearGradient id="_lgradient_198" x1=".516" x2=".52" y1="1.651" y2="-.013" gradientTransform="matrix(145,0,0,96.531,55.5,78.464)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#0575E6"/>
-   <stop offset="100%" style="stop-color:#00F260"/>
+   <stop offset="0%" style="stop-color:#0575e6"/>
+   <stop offset="100%" style="stop-color:#00f260"/>
   </linearGradient>
   <path fill="url(#_lgradient_198)" fill-rule="evenodd" d="M 152.031 78.464 L 55.5 174.995 L 93.604 174.995 L 136.789 131.81 L 136.789 174.995 L 177.434 134.351 L 177.434 174.995 L 200.5 151.93 L 200.297 78.464 L 152.031 126.73 L 152.031 78.464 Z"/>
   <g opacity=".2">
-   <path fill="#FFFFFF" fill-rule="evenodd" d="M 152.031 78.464 L 55.5 174.995 L 58.04 174.995 L 152.031 81.005 L 152.031 78.464 Z M 200.297 78.464 L 152.031 126.73 L 152.031 129.27 L 200.297 81.005 L 200.297 78.464 Z"/>
+   <path fill="#ffffff" fill-rule="evenodd" d="M 152.031 78.464 L 55.5 174.995 L 58.04 174.995 L 152.031 81.005 L 152.031 78.464 Z M 200.297 78.464 L 152.031 126.73 L 152.031 129.27 L 200.297 81.005 L 200.297 78.464 Z"/>
   </g>
  </g>
  <g opacity=".4">

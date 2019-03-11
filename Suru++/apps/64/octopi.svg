@@ -8,14 +8,14 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#C2FFE7" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <path fill="#c2ffe7" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <g filter="url(#b)">
-  <path fill="#31C6B7" d="M156.803 188.096c-6.047 10.696-23.163 11.255-28.744.186-4.558 10.138-23.534 11.441-27.72-.093-.131 10.269-27.943 11.019-27.999 0l.372-73.384c-.093-45.853 27.746-59.93 55.163-59.93 31.958.25 56.834 13.798 56.462 59.744v73.756c.059 10.521-27.629 10.646-27.534-.279z"/>
-  <ellipse fill="#2B898F" cx="108.75" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
-  <ellipse fill="#EBEBEB" cx="110.238" cy="108.24" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
+  <path fill="#31c6b7" d="M156.803 188.096c-6.047 10.696-23.163 11.255-28.744.186-4.558 10.138-23.534 11.441-27.72-.093-.131 10.269-27.943 11.019-27.999 0l.372-73.384c-.093-45.853 27.746-59.93 55.163-59.93 31.958.25 56.834 13.798 56.462 59.744v73.756c.059 10.521-27.629 10.646-27.534-.279z"/>
+  <ellipse fill="#2b898f" cx="108.75" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
+  <ellipse fill="#ebebeb" cx="110.238" cy="108.24" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#333" cx="120.284" cy="108.612" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
-  <ellipse fill="#2B898F" cx="159.353" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
-  <ellipse fill="#EBEBEB" cx="161.399" cy="107.961" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
+  <ellipse fill="#2b898f" cx="159.353" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
+  <ellipse fill="#ebebeb" cx="161.399" cy="107.961" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#333" cx="171.445" cy="108.984" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
  </g>
  <defs>

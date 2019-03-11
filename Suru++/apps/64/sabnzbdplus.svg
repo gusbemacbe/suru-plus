@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#FksvLbN83UGUPMKczMxJeg1lG1O4rDON)">
   <linearGradient id="_lgradient_53" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.577)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#545E63"/>
-   <stop offset="100%" style="stop-color:#343B40"/>
+   <stop offset="0%" style="stop-color:#545e63"/>
+   <stop offset="100%" style="stop-color:#343b40"/>
   </linearGradient>
   <path fill="url(#_lgradient_53)" d="M 165.439 11.577 C 239.495 11.577 250.078 22.134 250.078 96.12 L 250.078 155.371 C 250.078 229.358 239.495 239.915 165.439 239.915 L 90.069 239.915 C 16.014 239.915 5.43 229.358 5.43 155.371 L 5.43 96.12 C 5.43 22.134 16.014 11.577 90.069 11.577 L 165.439 11.577 Z"/>
  </g>
@@ -26,15 +26,15 @@
  </g>
  <g>
   <linearGradient id="_lgradient_55" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(93.214,0,0,82.857,81.393,55.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF9757"/>
-   <stop offset="50%" style="stop-color:#FF6E51"/>
-   <stop offset="100%" style="stop-color:#F5350F"/>
+   <stop offset="0%" style="stop-color:#ff9757"/>
+   <stop offset="50%" style="stop-color:#ff6e51"/>
+   <stop offset="100%" style="stop-color:#f5350f"/>
   </linearGradient>
   <path fill="url(#_lgradient_55)" d="M 88.563 55.5 C 85.584 55.5 81.393 58.713 81.393 62.705 L 81.393 138.357 L 128 138.357 L 174.607 138.357 L 174.607 62.705 C 174.607 58.713 170.416 55.5 167.437 55.5 L 88.563 55.5 Z"/>
   <linearGradient id="_lgradient_56" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(145,0,0,67.321,55.5,133.179)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FFEC57"/>
-   <stop offset="50%" style="stop-color:#FFC551"/>
-   <stop offset="100%" style="stop-color:#F5A90F"/>
+   <stop offset="0%" style="stop-color:#ffec57"/>
+   <stop offset="50%" style="stop-color:#ffc551"/>
+   <stop offset="100%" style="stop-color:#f5a90f"/>
   </linearGradient>
   <path fill="url(#_lgradient_56)" fill-rule="evenodd" d="M 61.063 133.179 C 60.47 133.177 49.214 133.175 60.506 143.588 L 120.548 197.447 C 122.778 199.447 125.078 200.462 128 200.5 C 130.922 200.462 133.222 199.447 135.452 197.447 L 195.494 143.588 C 206.786 133.175 195.53 133.177 194.937 133.179 L 128 133.179 L 61.063 133.179 Z"/>
  </g>

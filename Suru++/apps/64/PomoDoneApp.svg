@@ -10,9 +10,9 @@
  </defs>
  <g filter="url(#Vss7Qhxzbp0yAG2woT6Y0LgNYcyiDieJ)">
   <linearGradient id="_lgradient_56" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.577)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF576A"/>
-   <stop offset="50%" style="stop-color:#FF518B"/>
-   <stop offset="100%" style="stop-color:#F50F5C"/>
+   <stop offset="0%" style="stop-color:#ff576a"/>
+   <stop offset="50%" style="stop-color:#ff518b"/>
+   <stop offset="100%" style="stop-color:#f50f5c"/>
   </linearGradient>
   <path fill="url(#_lgradient_56)" d="M 165.439 11.577 C 239.495 11.577 250.078 22.134 250.078 96.12 L 250.078 155.371 C 250.078 229.358 239.495 239.915 165.439 239.915 L 90.069 239.915 C 16.014 239.915 5.43 229.358 5.43 155.371 L 5.43 96.12 C 5.43 22.134 16.014 11.577 90.069 11.577 L 165.439 11.577 Z"/>
  </g>
@@ -27,15 +27,15 @@
  </g>
  <g opacity=".2">
   <linearGradient id="_lgradient_58" x1="0" x2="0" y1="0" y2=".907" gradientTransform="matrix(165,0,0,156.515,45.5,49.742)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#E0E5E7"/>
-   <stop offset="100%" style="stop-color:#C7CED2"/>
+   <stop offset="0%" style="stop-color:#e0e5e7"/>
+   <stop offset="100%" style="stop-color:#c7ced2"/>
   </linearGradient>
   <path fill="url(#_lgradient_58)" d="M 102.584 49.742 C 52.639 49.742 45.5 56.978 45.5 107.693 L 45.5 148.306 C 45.5 199.02 52.639 206.258 102.584 206.258 L 153.416 206.258 C 203.361 206.258 210.5 199.02 210.5 148.306 L 210.5 107.693 C 210.5 56.978 203.361 49.742 153.416 49.742 L 102.584 49.742 L 102.584 49.742 Z"/>
  </g>
  <g opacity=".8">
   <linearGradient id="_lgradient_59" x1="0" x2="0" y1="0" y2=".907" gradientTransform="matrix(165,0,0,156.515,45.5,49.742)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#E0E5E7"/>
-   <stop offset="100%" style="stop-color:#C7CED2"/>
+   <stop offset="0%" style="stop-color:#e0e5e7"/>
+   <stop offset="100%" style="stop-color:#c7ced2"/>
   </linearGradient>
   <path fill="url(#_lgradient_59)" fill-rule="evenodd" d="M 102.584 49.742 C 52.639 49.742 45.5 56.978 45.5 107.693 L 45.5 148.306 C 45.5 199.02 52.639 206.258 102.584 206.258 L 153.416 206.258 C 203.361 206.258 210.5 199.02 210.5 148.306 L 210.5 107.693 C 210.5 56.978 203.361 49.742 153.416 49.742 L 102.584 49.742 L 102.584 49.742 Z M 105.665 59.228 C 61.773 59.228 55.5 65.587 55.5 110.154 L 55.5 145.845 C 55.5 190.411 61.773 196.772 105.665 196.772 L 150.335 196.772 C 194.227 196.772 200.5 190.411 200.5 145.845 L 200.5 110.154 C 200.5 65.587 194.227 59.228 150.335 59.228 L 105.665 59.228 L 105.665 59.228 Z"/>
  </g>

@@ -16,14 +16,14 @@
   </defs>
   <g filter="url(#5UXEzvARwGKhZsDAX33b9mAPw6d9wqdV)">
    <linearGradient id="_lgradient_407" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#E0E5E7"/>
-    <stop offset="100%" style="stop-color:#C7CED2"/>
+    <stop offset="0%" style="stop-color:#e0e5e7"/>
+    <stop offset="100%" style="stop-color:#c7ced2"/>
    </linearGradient>
    <path fill="url(#_lgradient_407)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
   </g>
   <linearGradient id="_lgradient_408" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(243.367,0,0,57.358,6.187,182.93)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_408)" d="M 249.554 183.325 C 246.1 232.49 229.338 240.288 165.689 240.288 L 90.319 240.288 C 26.528 240.288 9.833 232.455 6.431 182.993 C -2.585 182.807 241.661 183.068 249.554 183.325 Z"/>
   <g opacity=".4">
@@ -37,11 +37,11 @@
   </g>
   <g>
    <linearGradient id="_lgradient_410" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(129.264,0,0,129.264,63.368,53.736)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#1AD6AB"/>
-    <stop offset="100%" style="stop-color:#329DB6"/>
+    <stop offset="0%" style="stop-color:#1ad6ab"/>
+    <stop offset="100%" style="stop-color:#329db6"/>
    </linearGradient>
    <path fill="url(#_lgradient_410)" d="M 63.368 53.736 L 63.368 68.099 L 77.731 68.099 L 77.731 53.736 L 63.368 53.736 Z M 77.731 68.099 L 77.731 82.461 L 92.093 82.461 L 92.093 68.099 L 77.731 68.099 Z M 92.093 82.461 L 92.093 96.824 L 77.731 96.824 L 77.731 111.187 L 63.368 111.187 L 63.368 132.731 L 128 132.731 L 192.632 132.731 L 192.632 111.187 L 178.269 111.187 L 178.269 96.824 L 163.907 96.824 L 163.907 82.461 L 128 82.461 L 92.093 82.461 Z M 163.907 82.461 L 178.269 82.461 L 178.269 68.099 L 163.907 68.099 L 163.907 82.461 Z M 178.269 68.099 L 192.632 68.099 L 192.632 53.736 L 178.269 53.736 L 178.269 68.099 Z M 63.368 147.093 L 63.368 183 L 128 183 L 192.632 183 L 192.632 147.093 L 128 147.093 L 63.368 147.093 Z"/>
-   <path fill="#E6E6E6" fill-rule="evenodd" d="M 92.093 111.187 L 106.456 111.187 L 106.456 125.549 L 92.093 125.549 L 92.093 111.187 Z M 149.544 111.187 L 163.907 111.187 L 163.907 125.549 L 149.544 125.549 L 149.544 111.187 Z"/>
+   <path fill="#e6e6e6" fill-rule="evenodd" d="M 92.093 111.187 L 106.456 111.187 L 106.456 125.549 L 92.093 125.549 L 92.093 111.187 Z M 149.544 111.187 L 163.907 111.187 L 163.907 125.549 L 149.544 125.549 L 149.544 111.187 Z"/>
   </g>
  </g>
 </svg>

@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#0l8WoszPOcnAKM0wvtCeoyYrwQK6gsNe)">
   <linearGradient id="_lgradient_31" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.952)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#545E63"/>
-   <stop offset="100%" style="stop-color:#343B40"/>
+   <stop offset="0%" style="stop-color:#545e63"/>
+   <stop offset="100%" style="stop-color:#343b40"/>
   </linearGradient>
   <path fill="url(#_lgradient_31)" d="M 165.689 11.952 C 239.745 11.952 250.328 22.509 250.328 96.495 L 250.328 155.746 C 250.328 229.733 239.745 240.29 165.689 240.29 L 90.319 240.29 C 16.264 240.29 5.68 229.733 5.68 155.746 L 5.68 96.495 C 5.68 22.509 16.264 11.952 90.319 11.952 L 165.689 11.952 Z"/>
  </g>
@@ -49,11 +49,11 @@
   <g opacity=".4" filter="url(#fYEhsDe5IN5wtQKnKjor8X2ZsLqMAbBL)">
    <circle cx="166.839" cy="168.134" r="33.661" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#DA1636" cx="89.161" cy="165.545" r="33.661" vector-effect="non-scaling-stroke"/>
-  <circle fill="#F76363" cx="89.161" cy="165.545" r="23.304" vector-effect="non-scaling-stroke"/>
-  <circle fill="#46A926" cx="128" cy="87.866" r="33.661" vector-effect="non-scaling-stroke"/>
-  <circle fill="#A6D74F" cx="128" cy="87.866" r="23.304" vector-effect="non-scaling-stroke"/>
-  <circle fill="#9B33AE" cx="166.839" cy="165.545" r="33.661" vector-effect="non-scaling-stroke"/>
-  <circle fill="#D85ECA" cx="166.839" cy="165.545" r="23.304" vector-effect="non-scaling-stroke"/>
+  <circle fill="#da1636" cx="89.161" cy="165.545" r="33.661" vector-effect="non-scaling-stroke"/>
+  <circle fill="#f76363" cx="89.161" cy="165.545" r="23.304" vector-effect="non-scaling-stroke"/>
+  <circle fill="#46a926" cx="128" cy="87.866" r="33.661" vector-effect="non-scaling-stroke"/>
+  <circle fill="#a6d74f" cx="128" cy="87.866" r="23.304" vector-effect="non-scaling-stroke"/>
+  <circle fill="#9b33ae" cx="166.839" cy="165.545" r="33.661" vector-effect="non-scaling-stroke"/>
+  <circle fill="#d85eca" cx="166.839" cy="165.545" r="23.304" vector-effect="non-scaling-stroke"/>
  </g>
 </svg>

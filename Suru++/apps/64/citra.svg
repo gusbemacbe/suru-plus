@@ -8,7 +8,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#F7F7F7" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <path fill="#f7f7f7" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <linearGradient id="b" x1="1.377" x2="-.638" y1="-.406" y2="1.344" gradientTransform="matrix(109.801 0 0 84.223 140.523 83.936)" gradientUnits="userSpaceOnUse">
   <stop offset="0%" stop-color="#f7a076"/>
   <stop offset="44.55%" stop-color="#f3816c"/>

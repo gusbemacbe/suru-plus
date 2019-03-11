@@ -16,8 +16,8 @@
   </defs>
   <g filter="url(#RizrINif0Zch8n9Cd3XDeFA5F3ud5BzG)">
    <linearGradient id="_lgradient_164" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#4C5561"/>
-    <stop offset="100%" style="stop-color:#2E3842"/>
+    <stop offset="0%" style="stop-color:#4c5561"/>
+    <stop offset="100%" style="stop-color:#2e3842"/>
    </linearGradient>
    <path fill="url(#_lgradient_164)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
   </g>
@@ -44,12 +44,12 @@
    <path fill="#FFF" d="M 72.336 88.88 L 55.5 112.692 L 92.109 112.692 L 104.606 88.88 L 72.336 88.88 Z M 142.962 88.88 L 130.465 112.692 L 130.684 112.692 L 138.258 112.692 L 186.468 112.692 L 200.5 88.88 L 150.537 88.88 L 142.962 88.88 Z"/>
    <linearGradient id="_lgradient_166" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(58.468,0,0,74.839,84.496,88.88)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#037164"/>
-    <stop offset="100%" style="stop-color:#00AC98"/>
+    <stop offset="100%" style="stop-color:#00ac98"/>
    </linearGradient>
    <path fill="url(#_lgradient_166)" d="M 123.787 88.88 L 142.964 88.88 L 103.674 163.718 L 84.496 163.718 L 123.787 88.88 Z"/>
    <linearGradient id="_lgradient_167" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(58.468,0,0,74.839,65.319,88.88)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#1AD6AB"/>
-    <stop offset="100%" style="stop-color:#329DB6"/>
+    <stop offset="0%" style="stop-color:#1ad6ab"/>
+    <stop offset="100%" style="stop-color:#329db6"/>
    </linearGradient>
    <path fill="url(#_lgradient_167)" d="M 104.609 88.88 L 123.787 88.88 L 84.496 163.718 L 65.319 163.718 L 104.609 88.88 Z"/>
   </g>

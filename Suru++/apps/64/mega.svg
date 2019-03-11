@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#mzYXIjfg5V8pQLhbrYar7Lbm90p8cnS4)">
   <linearGradient id="_lgradient_69" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648,0,0,228.339,6.343,13.28)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#DA1636"/>
-   <stop offset="100%" style="stop-color:#F22C42"/>
+   <stop offset="0%" style="stop-color:#da1636"/>
+   <stop offset="100%" style="stop-color:#f22c42"/>
   </linearGradient>
   <path fill="url(#_lgradient_69)" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>
  </g>
@@ -15,7 +15,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
   </filter>
  </defs>
- <path fill="#FEFEFE" d="M 55 128 L 55 78 L 85.234 78 L 105.986 100.283 C 117.4 112.538 127.074 122.565 127.484 122.565 C 127.894 122.565 137.581 112.543 149.011 100.293 L 169.792 78.02 L 184.896 78.01 L 200 78 L 200 178 L 169.242 178 L 169.242 120.96 L 151.38 138.61 L 133.517 156.261 L 121.483 156.261 L 103.62 138.61 L 85.758 120.96 L 85.758 178 L 55 178 L 55 128 L 55 128 Z"/>
+ <path fill="#fefefe" d="M 55 128 L 55 78 L 85.234 78 L 105.986 100.283 C 117.4 112.538 127.074 122.565 127.484 122.565 C 127.894 122.565 137.581 112.543 149.011 100.293 L 169.792 78.02 L 184.896 78.01 L 200 78 L 200 178 L 169.242 178 L 169.242 120.96 L 151.38 138.61 L 133.517 156.261 L 121.483 156.261 L 103.62 138.61 L 85.758 120.96 L 85.758 178 L 55 178 L 55 128 L 55 128 Z"/>
  <g opacity=".4">
   <linearGradient id="_lgradient_70" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#FFF"/>

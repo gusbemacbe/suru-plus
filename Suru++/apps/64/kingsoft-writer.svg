@@ -15,7 +15,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <g fill="#AEE3F8">
+ <g fill="#aee3f8">
   <path d="M50.5 128V55.5h38.749l.001 33.462-.001 111.538H50.5V128zm116.25 0V55.5h38.749l.001 33.462-.001 111.538H166.75V128z"/>
   <path fill-opacity=".5" d="M166.749 155.885l-38.75-33.462v44.615L166.75 200.5h-.001v-44.615zm-77.5 0l38.75-33.462v44.615L89.248 200.5h.001v-44.615z"/>
  </g>

@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#0wgSoXs9H3Kz3yCSM5Cv4sW4cEkpOYMU)">
   <linearGradient id="_lgradient_136" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_136)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -29,8 +29,8 @@
    <circle cx="97.792" cy="120.448" r="42.292" vector-effect="non-scaling-stroke"/>
   </g>
   <linearGradient id="_lgradient_138" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(67.667,0,0,67.667,63.949,86.615)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF4500"/>
-   <stop offset="100%" style="stop-color:#DC153B"/>
+   <stop offset="0%" style="stop-color:#ff4500"/>
+   <stop offset="100%" style="stop-color:#dc153b"/>
   </linearGradient>
   <path fill="url(#_lgradient_138)" d="M 67.886 90.541 C 66.465 91.98 65.149 93.52 63.949 95.147 L 76.986 108.189 C 71.396 117.675 72.922 129.741 80.699 137.535 C 88.491 145.307 100.548 146.83 110.027 141.24 L 123.065 154.282 C 124.695 153.084 126.236 151.77 127.678 150.351 C 129.099 148.912 130.415 147.373 131.615 145.746 L 118.575 132.707 C 124.164 123.222 122.637 111.156 114.86 103.363 C 107.07 95.59 95.013 94.065 85.534 99.653 L 72.496 86.615 C 70.866 87.814 69.323 89.128 67.881 90.548 L 67.886 90.541 Z"/>
   <defs>
@@ -41,7 +41,7 @@
   <g opacity=".4" filter="url(#vW2xqvrNN3IiZgHBgQdxLMrcpUJnx8sa)">
    <circle cx="97.792" cy="123.469" r="12.083" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#FA9381" cx="97.792" cy="120.448" r="12.083" vector-effect="non-scaling-stroke"/>
+  <circle fill="#fa9381" cx="97.792" cy="120.448" r="12.083" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="2YMQ4C4yywX6UbyTfN497CIFXKphPwML" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -51,8 +51,8 @@
    <circle cx="191.438" cy="176.781" r="9.063" vector-effect="non-scaling-stroke"/>
   </g>
   <linearGradient id="_lgradient_139" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(18.125,0,0,18.125,182.375,164.698)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#EDC268"/>
-   <stop offset="100%" style="stop-color:#9B7424"/>
+   <stop offset="0%" style="stop-color:#edc268"/>
+   <stop offset="100%" style="stop-color:#9b7424"/>
   </linearGradient>
   <circle fill="url(#_lgradient_139)" cx="191.438" cy="173.76" r="9.063" vector-effect="non-scaling-stroke"/>
   <defs>
@@ -64,8 +64,8 @@
    <circle cx="167.268" cy="176.781" r="9.063" vector-effect="non-scaling-stroke"/>
   </g>
   <linearGradient id="_lgradient_140" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(18.125,0,0,18.125,158.205,164.698)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#EDC268"/>
-   <stop offset="100%" style="stop-color:#9B7424"/>
+   <stop offset="0%" style="stop-color:#edc268"/>
+   <stop offset="100%" style="stop-color:#9b7424"/>
   </linearGradient>
   <circle fill="url(#_lgradient_140)" cx="167.268" cy="173.76" r="9.063" vector-effect="non-scaling-stroke"/>
   <g opacity=".2">

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#lD8OSfTiNf6j6ASbl44I609Gz2qDdrUs)">
   <linearGradient id="_lgradient_227" x1="1.673" x2="-.753" y1="-1.41" y2="2.513" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#00CCDA"/>
-   <stop offset="22%" style="stop-color:#0083FF"/>
-   <stop offset="26.1%" style="stop-color:#007AF9"/>
-   <stop offset="33%" style="stop-color:#0060E8"/>
-   <stop offset="33.3%" style="stop-color:#005FE7"/>
-   <stop offset="43.8%" style="stop-color:#2639AD"/>
-   <stop offset="52.2%" style="stop-color:#401E84"/>
-   <stop offset="56.6%" style="stop-color:#4A1475"/>
+   <stop offset="0%" style="stop-color:#00ccda"/>
+   <stop offset="22%" style="stop-color:#0083ff"/>
+   <stop offset="26.1%" style="stop-color:#007af9"/>
+   <stop offset="33%" style="stop-color:#0060e8"/>
+   <stop offset="33.3%" style="stop-color:#005fe7"/>
+   <stop offset="43.8%" style="stop-color:#2639ad"/>
+   <stop offset="52.2%" style="stop-color:#401e84"/>
+   <stop offset="56.6%" style="stop-color:#4a1475"/>
   </linearGradient>
   <path fill="url(#_lgradient_227)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -23,7 +23,7 @@
  </defs>
  <g style="opacity:0.2">
   <g opacity=".2">
-   <path fill="#FFFFFF" d="M 226.499 22.25 L 29.956 231.898 C 42.535 238.491 61.75 240.148 90.904 240.148 L 165.551 240.148 C 238.896 240.148 249.379 229.692 249.379 156.415 L 249.379 97.733 C 249.379 53.583 245.566 32.244 226.499 22.25 Z"/>
+   <path fill="#ffffff" d="M 226.499 22.25 L 29.956 231.898 C 42.535 238.491 61.75 240.148 90.904 240.148 L 165.551 240.148 C 238.896 240.148 249.379 229.692 249.379 156.415 L 249.379 97.733 C 249.379 53.583 245.566 32.244 226.499 22.25 Z"/>
   </g>
  </g>
  <g>
@@ -48,7 +48,7 @@
   </radialGradient>
   <path fill="url(#_rgradient_9)" fill-rule="evenodd" d="M 46.324 132.99 L 42.96 152.95 L 23 155.769 L 42.96 159.604 L 46.618 179.564 L 49.613 159.604 L 69.573 156.505 L 49.613 152.95 L 46.324 132.99 L 46.324 132.99 Z"/>
   <g opacity=".7">
-   <path fill="#EEEEEC" d="M 204.723 97.997 C 207.314 104.119 208.674 110.896 208.674 117.958 C 208.674 146.206 185.774 169.105 157.526 169.105 C 149.276 169.105 141.559 167.171 134.655 163.699 C 142.428 182.064 160.666 194.887 181.852 194.887 C 210.101 194.887 233 171.987 233 143.739 C 233 123.741 221.458 106.415 204.723 97.997 L 204.723 97.997 L 204.723 97.997 Z"/>
+   <path fill="#eeeeec" d="M 204.723 97.997 C 207.314 104.119 208.674 110.896 208.674 117.958 C 208.674 146.206 185.774 169.105 157.526 169.105 C 149.276 169.105 141.559 167.171 134.655 163.699 C 142.428 182.064 160.666 194.887 181.852 194.887 C 210.101 194.887 233 171.987 233 143.739 C 233 123.741 221.458 106.415 204.723 97.997 L 204.723 97.997 L 204.723 97.997 Z"/>
   </g>
  </g>
  <g opacity=".4">

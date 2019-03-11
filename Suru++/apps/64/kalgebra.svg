@@ -15,9 +15,9 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#DA1636" opacity=".4" d="M68.64 54.5h4.028v145H68.64v-145z"/>
- <path fill="#1A7FD4" opacity=".4" d="M56 66.58h144.333v4.028H56V66.58z"/>
- <path fill="#AEA795" d="M88.778 85.723v9.795h.039l22.487 38.927-22.527 39.006v10.216h78.355v-19.589h-9.794v9.794H99.855l22.752-39.422v-.01l-22.478-38.928h47.414v4.897h9.795V85.718h-62.86l-5.7.005z"/>
+ <path fill="#da1636" opacity=".4" d="M68.64 54.5h4.028v145H68.64v-145z"/>
+ <path fill="#1a7fd4" opacity=".4" d="M56 66.58h144.333v4.028H56V66.58z"/>
+ <path fill="#aea795" d="M88.778 85.723v9.795h.039l22.487 38.927-22.527 39.006v10.216h78.355v-19.589h-9.794v9.794H99.855l22.752-39.422v-.01l-22.478-38.928h47.414v4.897h9.795V85.718h-62.86l-5.7.005z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" stop-color="#fff"/>

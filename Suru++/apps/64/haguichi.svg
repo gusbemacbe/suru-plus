@@ -35,7 +35,7 @@
   </filter>
  </defs>
  <path opacity=".1" d="M130.44 46.609l-75.097 81.55 26.4 28.514v.002l48.697 53.034h54.65l-75.087-81.56 75.087-81.54h-54.65z" filter="url(#e)"/>
- <path fill="#FFDFD6" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
+ <path fill="#ffdfd6" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
  <path fill="none" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
  <defs>
   <filter id="f" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -43,7 +43,7 @@
   </filter>
  </defs>
  <path opacity=".1" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z" filter="url(#f)"/>
- <path fill="#FFF7F1" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z"/>
+ <path fill="#fff7f1" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z"/>
  <path fill="#FFF" d="M130.44 44.57l-75.097 81.55.941 1.017 74.156-80.528h52.773l1.877-2.039h-54.65z"/>
  <g opacity=".4">
   <linearGradient id="g" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

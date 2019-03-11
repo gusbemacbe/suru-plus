@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#eYze7M9YrXKGu53K49K3uofGFOntHZhr)">
   <linearGradient id="_lgradient_202" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_202)" d="M 165.688919 11.951604 C 239.744626 11.951604 250.328309 22.508801 250.328309 96.495462 L 250.328309 155.746257 C 250.328309 229.732514 239.744626 240.29 165.688919 240.29 L 90.319393 240.29 C 16.26369 240.29 5.68 229.732514 5.68 155.746257 L 5.68 96.495462 C 5.68 22.508801 16.26369 11.951604 90.319393 11.951604 L 165.688919 11.951604 Z"/>
  </g>
@@ -41,8 +41,8 @@
   <g opacity=".4" filter="url(#F2r1F79CYgmVyFL7lJYwTLqDaWkzxvXV)">
    <circle cx="174.25" cy="165.76" r="36.25" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#E4E4E4" cx="81.75" cy="162.74" r="36.25" vector-effect="non-scaling-stroke"/>
-  <circle fill="#5D5D5D" cx="81.75" cy="162.74" r="15.104" vector-effect="non-scaling-stroke"/>
+  <circle fill="#e4e4e4" cx="81.75" cy="162.74" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#5d5d5d" cx="81.75" cy="162.74" r="15.104" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="D3qVV0707ZDZqARL2dY7S8TDtyFmhhy5" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -53,21 +53,21 @@
   </g>
   <defs>
    <linearGradient id="_lgradient_204" x1="0" x2="0" y1="0" y2="1">
-    <stop offset="0%" style="stop-color:#6AFF57"/>
-    <stop offset="50%" style="stop-color:#8BFF51"/>
-    <stop offset="100%" style="stop-color:#5CF50F"/>
+    <stop offset="0%" style="stop-color:#6aff57"/>
+    <stop offset="50%" style="stop-color:#8bff51"/>
+    <stop offset="100%" style="stop-color:#5cf50f"/>
    </linearGradient>
   </defs>
   <path d="M 64.523229 53.989583 L 191.476771 53.989583 C 196.456827 53.989583 200.5 58.032757 200.5 63.012812 L 200.5 87.258021 C 200.5 92.238077 196.456827 96.28125 191.476771 96.28125 L 64.523229 96.28125 C 59.543173 96.28125 55.5 92.238077 55.5 87.258021 L 55.5 63.012812 C 55.5 58.032757 59.543173 53.989583 64.523229 53.989583 Z" style="fill:url(#_lgradient_204)"/>
-  <circle fill="#5D5D5D" cx="76.646" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
-  <rect fill="#F34F17" width="18.125" height="18.125" x="170.29" y="66.07" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#FDC92B" width="6.042" height="6.042" x="176.33" y="72.11" transform="matrix(1,0,0,1,0,0)"/>
-  <circle fill="#5D5D5D" cx="100.812" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
-  <circle fill="#5D5D5D" cx="124.979" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
-  <circle fill="#E4E4E4" cx="174.25" cy="162.74" r="36.25" vector-effect="non-scaling-stroke"/>
-  <circle fill="#5D5D5D" cx="174.25" cy="162.74" r="15.104" vector-effect="non-scaling-stroke"/>
+  <circle fill="#5d5d5d" cx="76.646" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
+  <rect fill="#f34f17" width="18.125" height="18.125" x="170.29" y="66.07" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#fdc92b" width="6.042" height="6.042" x="176.33" y="72.11" transform="matrix(1,0,0,1,0,0)"/>
+  <circle fill="#5d5d5d" cx="100.812" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
+  <circle fill="#5d5d5d" cx="124.979" cy="75.135" r="9.063" vector-effect="non-scaling-stroke"/>
+  <circle fill="#e4e4e4" cx="174.25" cy="162.74" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#5d5d5d" cx="174.25" cy="162.74" r="15.104" vector-effect="non-scaling-stroke"/>
   <g opacity=".1">
-   <path fill="#FFFFFF" d="M 64.527099 53.989583 C 59.527991 53.989583 55.5 58.232609 55.5 63.50049 L 55.5 66.521323 C 55.5 61.253443 59.527991 57.010417 64.527099 57.010417 L 191.472901 57.010417 C 196.472012 57.010417 200.5 61.253443 200.5 66.521323 L 200.5 63.50049 C 200.5 58.232609 196.472012 53.989583 191.472901 53.989583 L 64.527099 53.989583 Z"/>
+   <path fill="#ffffff" d="M 64.527099 53.989583 C 59.527991 53.989583 55.5 58.232609 55.5 63.50049 L 55.5 66.521323 C 55.5 61.253443 59.527991 57.010417 64.527099 57.010417 L 191.472901 57.010417 C 196.472012 57.010417 200.5 61.253443 200.5 66.521323 L 200.5 63.50049 C 200.5 58.232609 196.472012 53.989583 191.472901 53.989583 L 64.527099 53.989583 Z"/>
   </g>
  </g>
 </svg>

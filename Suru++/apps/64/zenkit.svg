@@ -9,27 +9,27 @@
   </filter>
  </defs>
  <g filter="url(#0yZmtJCRT8HkALXHEOLEAXhLn8btclvD)">
-  <path fill="#FAF8F6" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
+  <path fill="#faf8f6" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
- <path fill="#FF9E72" d="M 129.682 127.592 L 129.682 11.95 L 97.514 11.95 C 17.176 11.95 5.713 21.809 5.713 90.788 L 5.713 127.592 L 129.682 127.592 L 129.682 127.592 Z"/>
- <path fill="#43A8FD" d="M 129.776 125.852 L 5.676 125.852 L 5.676 155.429 C 5.676 229.297 16.256 239.838 90.28 239.838 L 129.776 239.838 L 129.776 125.852 L 129.776 125.852 Z"/>
- <path fill="#FF3266" d="M 126.318 127.592 L 126.318 11.95 L 158.486 11.95 C 238.824 11.95 250.287 21.809 250.287 90.788 L 250.287 127.592 L 126.318 127.592 L 126.318 127.592 Z"/>
- <path fill="#905CB9" d="M 126.224 125.851 L 250.324 125.851 L 250.324 155.429 C 250.324 229.297 239.744 239.837 165.72 239.837 L 126.224 239.837 L 126.224 125.851 L 126.224 125.851 Z"/>
+ <path fill="#ff9e72" d="M 129.682 127.592 L 129.682 11.95 L 97.514 11.95 C 17.176 11.95 5.713 21.809 5.713 90.788 L 5.713 127.592 L 129.682 127.592 L 129.682 127.592 Z"/>
+ <path fill="#43a8fd" d="M 129.776 125.852 L 5.676 125.852 L 5.676 155.429 C 5.676 229.297 16.256 239.838 90.28 239.838 L 129.776 239.838 L 129.776 125.852 L 129.776 125.852 Z"/>
+ <path fill="#ff3266" d="M 126.318 127.592 L 126.318 11.95 L 158.486 11.95 C 238.824 11.95 250.287 21.809 250.287 90.788 L 250.287 127.592 L 126.318 127.592 L 126.318 127.592 Z"/>
+ <path fill="#905cb9" d="M 126.224 125.851 L 250.324 125.851 L 250.324 155.429 C 250.324 229.297 239.744 239.837 165.72 239.837 L 126.224 239.837 L 126.224 125.851 L 126.224 125.851 Z"/>
  <linearGradient id="_lgradient_557" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(97.746,0,0,114.371,77.434,11.95)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#F06AC5"/>
-  <stop offset="2.42%" style="stop-color:#F06AC5"/>
-  <stop offset="12.64%" style="stop-color:#F66AC2"/>
-  <stop offset="35.76%" style="stop-color:#FD6BBF"/>
-  <stop offset="100%" style="stop-color:#FF6BBE"/>
+  <stop offset="0%" style="stop-color:#f06ac5"/>
+  <stop offset="2.42%" style="stop-color:#f06ac5"/>
+  <stop offset="12.64%" style="stop-color:#f66ac2"/>
+  <stop offset="35.76%" style="stop-color:#fd6bbf"/>
+  <stop offset="100%" style="stop-color:#ff6bbe"/>
  </linearGradient>
  <path fill="url(#_lgradient_557)" d="M 175.18 126.321 L 77.434 126.321 L 126.318 11.95 L 175.18 126.321 L 175.18 126.321 Z"/>
  <linearGradient id="_lgradient_558" x1=".535" x2=".535" y1=".996" y2="-.001" gradientTransform="matrix(97.746,0,0,114.371,77.434,125.917)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#8B62D0"/>
-  <stop offset="30.54%" style="stop-color:#8E62CF"/>
-  <stop offset="53.3%" style="stop-color:#9762CE"/>
-  <stop offset="73.53%" style="stop-color:#A863CB"/>
-  <stop offset="92.19%" style="stop-color:#BE64C7"/>
-  <stop offset="100%" style="stop-color:#CA64C5"/>
+  <stop offset="0%" style="stop-color:#8b62d0"/>
+  <stop offset="30.54%" style="stop-color:#8e62cf"/>
+  <stop offset="53.3%" style="stop-color:#9762ce"/>
+  <stop offset="73.53%" style="stop-color:#a863cb"/>
+  <stop offset="92.19%" style="stop-color:#be64c7"/>
+  <stop offset="100%" style="stop-color:#ca64c5"/>
  </linearGradient>
  <path fill="url(#_lgradient_558)" d="M 77.434 125.917 L 175.18 125.917 L 126.297 240.288 L 77.434 125.917 L 77.434 125.917 Z"/>
  <g opacity=".4">

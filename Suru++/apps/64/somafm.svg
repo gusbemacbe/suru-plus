@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#3byyBlMN0sEDgtjYvMOJJamHp4wZpjqD)">
   <linearGradient id="_lgradient_72" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_72)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -34,8 +34,8 @@
    <path d="M 184 86 C 184 89.2 182.72 92.24 180.48 94.48 C 178.24 96.72 175.2 98 172 98 C 168.8 98 165.76 96.72 163.52 94.48 C 161.28 92.24 160 89.2 160 86 L 160 82 L 96 82 L 96 91.88 L 184 155.88 L 184 202 L 72 202 L 72 174 C 72 170.8 73.28 167.76 75.52 165.52 C 77.76 163.28 80.8 162 84 162 C 87.2 162 90.24 163.28 92.48 165.52 C 94.72 167.76 96 170.8 96 174 L 96 178 L 160 178 L 160 168.12 L 72 104.12 L 72 58 L 184 58 L 184 86 Z"/>
   </g>
   <linearGradient id="_lgradient_74" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(112,0,0,144,72,54)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF4500"/>
-   <stop offset="100%" style="stop-color:#DC153B"/>
+   <stop offset="0%" style="stop-color:#ff4500"/>
+   <stop offset="100%" style="stop-color:#dc153b"/>
   </linearGradient>
   <path fill="url(#_lgradient_74)" d="M 184 82 C 184 85.2 182.72 88.24 180.48 90.48 C 178.24 92.72 175.2 94 172 94 C 168.8 94 165.76 92.72 163.52 90.48 C 161.28 88.24 160 85.2 160 82 L 160 78 L 96 78 L 96 87.88 L 184 151.88 L 184 198 L 72 198 L 72 170 C 72 166.8 73.28 163.76 75.52 161.52 C 77.76 159.28 80.8 158 84 158 C 87.2 158 90.24 159.28 92.48 161.52 C 94.72 163.76 96 166.8 96 170 L 96 174 L 160 174 L 160 164.12 L 72 100.12 L 72 54 L 184 54 L 184 82 Z"/>
  </g>

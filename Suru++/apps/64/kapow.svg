@@ -16,8 +16,8 @@
   </defs>
   <g filter="url(#fwatY7NQx6HXju66Q5g4gH6kcPPolKix)">
    <linearGradient id="_lgradient_324" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#1AD6AB"/>
-    <stop offset="100%" style="stop-color:#329DB6"/>
+    <stop offset="0%" style="stop-color:#1ad6ab"/>
+    <stop offset="100%" style="stop-color:#329db6"/>
    </linearGradient>
    <path fill="url(#_lgradient_324)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
   </g>
@@ -39,10 +39,10 @@
    <g opacity=".4" filter="url(#NqLark5TDbpBoFmdgVcwcBypNPXPU7fi)">
     <circle cx="128.925" cy="128.887" r="73.612" vector-effect="non-scaling-stroke"/>
    </g>
-   <circle fill="#ECECEC" cx="128.925" cy="125.112" r="73.612" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ececec" cx="128.925" cy="125.112" r="73.612" vector-effect="non-scaling-stroke"/>
    <linearGradient id="_lgradient_326" x1=".146" x2=".854" y1=".146" y2=".854" gradientTransform="matrix(55.733,0,0,55.733,128.925,69.379)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#1AD6AB"/>
-    <stop offset="100%" style="stop-color:#329DB6"/>
+    <stop offset="0%" style="stop-color:#1ad6ab"/>
+    <stop offset="100%" style="stop-color:#329db6"/>
    </linearGradient>
    <path fill="url(#_lgradient_326)" d="M 144.124 69.379 C 138.91 88.331 128.925 125.112 128.925 125.112 C 128.925 125.112 165.089 116.115 184.658 109.646 C 179.182 90.022 163.785 74.725 144.124 69.379 Z"/>
    <g opacity=".2">

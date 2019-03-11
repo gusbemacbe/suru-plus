@@ -15,7 +15,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FEC589" d="M58.769 125.5V53h135l-.001 89.231h-53.719v-33.462h14.344l.001-22.307h-56.25L98.143 198H58.769v-72.5z"/>
+ <path fill="#fec589" d="M58.769 125.5V53h135l-.001 89.231h-53.719v-33.462h14.344l.001-22.307h-56.25L98.143 198H58.769v-72.5z"/>
  <linearGradient id="c" x1="1" x2="0" y1=".5" y2=".5" gradientTransform="matrix(42.187 0 0 33.462 98.145 108.769)" gradientUnits="userSpaceOnUse">
   <stop offset="1.304%" stop-color="#fec589"/>
   <stop offset="100%" stop-color="#ffcfac" stop-opacity="0"/>

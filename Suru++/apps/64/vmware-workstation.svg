@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#6jUBPRkCJXBtgP3LXFXKMYP5kgMmLgey)">
   <linearGradient id="_lgradient_627" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#07B3FF"/>
-   <stop offset="100%" style="stop-color:#007DE8"/>
+   <stop offset="0%" style="stop-color:#07b3ff"/>
+   <stop offset="100%" style="stop-color:#007de8"/>
   </linearGradient>
   <path fill="url(#_lgradient_627)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -26,14 +26,14 @@
  </g>
  <g filter="url(#Q2qZW8HXNB1liHJjOZibWMdMWS6YdN0X)">
   <linearGradient id="_lgradient_629" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(115.819,0,0,116.182,55.5,82.318)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FFD057"/>
-   <stop offset="50%" style="stop-color:#FFA851"/>
-   <stop offset="100%" style="stop-color:#F5820F"/>
+   <stop offset="0%" style="stop-color:#ffd057"/>
+   <stop offset="50%" style="stop-color:#ffa851"/>
+   <stop offset="100%" style="stop-color:#f5820f"/>
   </linearGradient>
   <path fill="url(#_lgradient_629)" d="M 160.461 198.5 C 166.476 198.5 171.319 193.642 171.319 187.608 L 171.319 93.21 C 171.319 87.176 166.476 82.318 160.461 82.318 L 66.358 82.318 C 60.343 82.318 55.5 87.176 55.5 93.21 L 55.5 187.608 C 55.5 193.642 60.343 198.5 66.358 198.5 L 160.461 198.5 Z M 142.364 169.455 L 84.455 169.455 L 84.455 111.364 L 142.364 111.364 L 142.364 169.455 Z"/>
   <linearGradient id="_lgradient_630" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(115.819,0,0,116.182,84.681,53.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#E0E5E7"/>
-   <stop offset="100%" style="stop-color:#C7CED2"/>
+   <stop offset="0%" style="stop-color:#e0e5e7"/>
+   <stop offset="100%" style="stop-color:#c7ced2"/>
   </linearGradient>
   <path fill="url(#_lgradient_630)" d="M 189.642 169.682 C 195.657 169.682 200.5 164.824 200.5 158.79 L 200.5 64.392 C 200.5 58.358 195.657 53.5 189.642 53.5 L 95.539 53.5 C 89.524 53.5 84.681 58.358 84.681 64.392 L 84.681 82.545 L 171.545 82.545 L 171.545 140.636 L 113.636 140.636 L 113.636 111.591 L 84.681 111.591 L 84.681 158.79 C 84.681 164.824 89.524 169.682 95.539 169.682 L 189.642 169.682 Z"/>
  </g>

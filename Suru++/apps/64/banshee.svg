@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#IOiZ4wsu572j1Q1qB6QZ7CnDCry6uTWS)">
   <linearGradient id="_lgradient_0" x1=".993" x2=".002" y1=".988" y2=".193" gradientTransform="matrix(244.648309,0,0,228.338396,5.681691,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#343B40"/>
-   <stop offset="100%" style="stop-color:#555E63"/>
+   <stop offset="0%" style="stop-color:#343b40"/>
+   <stop offset="100%" style="stop-color:#555e63"/>
   </linearGradient>
   <path fill="url(#_lgradient_0)" d="M 165.690609 11.95 C 239.746317 11.95 250.33 22.507198 250.33 96.493859 L 250.33 155.744653 C 250.33 229.73091 239.746317 240.288396 165.690609 240.288396 L 90.321084 240.288396 C 16.26538 240.288396 5.681691 229.73091 5.681691 155.744653 L 5.681691 96.493859 C 5.681691 22.507198 16.26538 11.95 90.321084 11.95 L 165.690609 11.95 Z"/>
  </g>
@@ -36,8 +36,8 @@
  </defs>
  <g filter="url(#c3eLV9k8SikLR21XqJcSyNt1YDz2X0DU)">
   <linearGradient id="_lgradient_2" x1=".568" x2=".567" y1="1.005" y2="-.071" gradientTransform="matrix(131.712024,0,0,145,62.143988,55.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#00979C"/>
-   <stop offset="100%" style="stop-color:#20B6BB"/>
+   <stop offset="0%" style="stop-color:#00979c"/>
+   <stop offset="100%" style="stop-color:#20b6bb"/>
   </linearGradient>
   <path fill="url(#_lgradient_2)" fill-rule="evenodd" d="M 62.143988 92.077797 C 83.414546 76.221563 94.823299 51.277001 129.436297 56.111218 L 129.436297 151.24862 C 170.613388 135.745495 194.794919 142.35366 193.828075 169.425279 C 192.861232 196.496897 145.679268 203.844908 110.679533 199.204059 L 110.292795 78.348619 C 104.685103 71.000608 84.574758 94.784959 62.143988 92.077797 Z M 128.856191 187.408568 L 129.04956 162.270637 Q 168.690144 151.24862 171.590675 166.138011 Q 172.557518 184.894775 128.856191 187.408568 Z"/>
  </g>

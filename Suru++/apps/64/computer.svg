@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#gHI30iQ9mQnBD1wJigBF7UfOXnXbD0Sw)">
   <linearGradient id="_lgradient_139" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#D1313E"/>
-   <stop offset="34.838%" style="stop-color:#A9344F"/>
-   <stop offset="100%" style="stop-color:#6B3274"/>
+   <stop offset="0%" style="stop-color:#d1313e"/>
+   <stop offset="34.838%" style="stop-color:#a9344f"/>
+   <stop offset="100%" style="stop-color:#6b3274"/>
   </linearGradient>
   <path fill="url(#_lgradient_139)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -17,9 +17,9 @@
   </filter>
  </defs>
  <g>
-  <path fill="#FFFFFF" fill-rule="evenodd" d="M 38 42.276 L 38 195.934 L 120.976 195.934 L 120.976 187.154 L 46.341 187.154 L 46.341 51.056 L 208.78 51.056 L 208.78 173.983 L 218 173.983 L 218 42.276 L 38 42.276 L 38 42.276 Z"/>
-  <path fill="#FFFFFF" d="M 191.334 149.835 L 164.993 169.591 L 191.334 189.347 L 197.576 181.031 L 182.325 169.597 L 197.576 158.157 L 191.334 149.835 L 191.334 149.835 Z"/>
-  <path fill="#FFFFFF" d="M 141.659 174.212 L 135.417 182.535 L 150.668 193.968 L 135.417 205.408 L 141.659 213.724 L 168 193.968 L 141.659 174.212 L 141.659 174.212 Z"/>
+  <path fill="#ffffff" fill-rule="evenodd" d="M 38 42.276 L 38 195.934 L 120.976 195.934 L 120.976 187.154 L 46.341 187.154 L 46.341 51.056 L 208.78 51.056 L 208.78 173.983 L 218 173.983 L 218 42.276 L 38 42.276 L 38 42.276 Z"/>
+  <path fill="#ffffff" d="M 191.334 149.835 L 164.993 169.591 L 191.334 189.347 L 197.576 181.031 L 182.325 169.597 L 197.576 158.157 L 191.334 149.835 L 191.334 149.835 Z"/>
+  <path fill="#ffffff" d="M 141.659 174.212 L 135.417 182.535 L 150.668 193.968 L 135.417 205.408 L 141.659 213.724 L 168 193.968 L 141.659 174.212 L 141.659 174.212 Z"/>
  </g>
  <g opacity=".4">
   <linearGradient id="_lgradient_140" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">

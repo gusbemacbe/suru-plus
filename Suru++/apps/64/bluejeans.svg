@@ -9,7 +9,7 @@
   </filter>
  </defs>
  <g filter="url(#wG52DJV2u6Epx1f6BpDJEj22GeLyIh5j)">
-  <path fill="#D9C813" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z"/>
+  <path fill="#d9c813" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 Z"/>
  </g>
  <defs>
   <filter id="DnJraFD8NVQe6T5eWa1lPKu4utbA984x" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -22,8 +22,8 @@
  </defs>
  <g filter="url(#DnJraFD8NVQe6T5eWa1lPKu4utbA984x)">
   <linearGradient id="_lgradient_41" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_41)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -38,8 +38,8 @@
  </g>
  <g>
   <linearGradient id="_lgradient_43" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(145,0,0,121.613,55.5,67.194)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#1AD6AB"/>
-   <stop offset="100%" style="stop-color:#329DB6"/>
+   <stop offset="0%" style="stop-color:#1ad6ab"/>
+   <stop offset="100%" style="stop-color:#329db6"/>
   </linearGradient>
   <path fill="url(#_lgradient_43)" fill-rule="evenodd" d="M 69.808 67.194 L 162.805 67.194 C 170.702 67.194 177.113 73.605 177.113 81.502 L 177.113 174.498 C 177.113 182.395 170.702 188.806 162.805 188.806 L 69.808 188.806 C 61.911 188.806 55.5 182.395 55.5 174.498 L 55.5 81.502 C 55.5 73.605 61.911 67.194 69.808 67.194 Z M 177.113 94.924 L 200.5 76.548 L 200.5 179.452 L 177.113 161.076 L 177.113 94.924 Z"/>
   <path fill="#FFF" d="M 83.565 120.984 L 83.565 167.758 L 127.22 167.758 C 139.276 167.758 149.048 156.294 149.048 144.371 C 149.048 132.448 139.276 120.984 127.22 120.984 L 83.565 120.984 Z M 97.597 135.016 L 127.22 135.016 C 131.411 135.016 135.016 140.226 135.016 144.371 C 135.016 148.516 131.411 153.777 127.22 153.726 L 97.597 153.726 L 97.597 135.016 Z"/>

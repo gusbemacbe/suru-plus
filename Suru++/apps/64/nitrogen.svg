@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#CZLO6sqvmGzVhIYaSWEpatAOyLZSy9Rl)">
   <linearGradient id="_lgradient_47" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_47)" d="M 165.439 11.452 C 239.495 11.452 250.078 22.009 250.078 95.995 L 250.078 155.246 C 250.078 229.233 239.495 239.79 165.439 239.79 L 90.069 239.79 C 16.014 239.79 5.43 229.233 5.43 155.246 L 5.43 95.995 C 5.43 22.009 16.014 11.452 90.069 11.452 L 165.439 11.452 Z"/>
  </g>
@@ -33,8 +33,8 @@
   <g opacity=".4" filter="url(#ACRZrA0PCrcs0jCgOa1mPCRQqBVl0WT8)">
    <circle cx="153.893" cy="129.295" r="46.607" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#37A6E6" cx="153.893" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
-  <circle fill="#1A7FD4" cx="153.893" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#37a6e6" cx="153.893" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
+  <circle fill="#1a7fd4" cx="153.893" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="Radwf5VKhHMoHnWljQXohyZb7DLgI1wj" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -51,12 +51,12 @@
   <g opacity=".4" filter="url(#hu2OvVMg7qaY70bruFAwJvCrIAc2hDqJ)">
    <circle cx="102.107" cy="129.295" r="46.607" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#37A6E6" cx="128" cy="100.813" r="46.607" vector-effect="non-scaling-stroke"/>
-  <circle fill="#1A7FD4" cx="128" cy="100.813" r="36.25" vector-effect="non-scaling-stroke"/>
-  <circle fill="#37A6E6" cx="102.107" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
-  <circle fill="#1A7FD4" cx="102.107" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
-  <circle fill="#37A6E6" cx="128" cy="152.598" r="46.607" vector-effect="non-scaling-stroke"/>
-  <circle fill="#1A7FD4" cx="128" cy="152.598" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#37a6e6" cx="128" cy="100.813" r="46.607" vector-effect="non-scaling-stroke"/>
+  <circle fill="#1a7fd4" cx="128" cy="100.813" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#37a6e6" cx="102.107" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
+  <circle fill="#1a7fd4" cx="102.107" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#37a6e6" cx="128" cy="152.598" r="46.607" vector-effect="non-scaling-stroke"/>
+  <circle fill="#1a7fd4" cx="128" cy="152.598" r="36.25" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="pBYA6NMFwqn3eydEeZUXyOOix9eUJ76e" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -65,7 +65,7 @@
   <g opacity=".4" filter="url(#pBYA6NMFwqn3eydEeZUXyOOix9eUJ76e)">
    <circle cx="128" cy="129.295" r="46.607" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#37A6E6" cx="128" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
-  <circle fill="#1A7FD4" cx="128" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
+  <circle fill="#37a6e6" cx="128" cy="126.705" r="46.607" vector-effect="non-scaling-stroke"/>
+  <circle fill="#1a7fd4" cx="128" cy="126.705" r="36.25" vector-effect="non-scaling-stroke"/>
  </g>
 </svg>

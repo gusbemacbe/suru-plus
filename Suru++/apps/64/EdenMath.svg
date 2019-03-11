@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#7Gnk0LiWel9ilgodvlJvUVxK2T5JaAJ5)">
   <linearGradient id="_lgradient_46" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#D1313E"/>
-   <stop offset="34.838%" style="stop-color:#A9344F"/>
-   <stop offset="100%" style="stop-color:#6B3274"/>
+   <stop offset="0%" style="stop-color:#d1313e"/>
+   <stop offset="34.838%" style="stop-color:#a9344f"/>
+   <stop offset="100%" style="stop-color:#6b3274"/>
   </linearGradient>
   <path fill="url(#_lgradient_46)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -16,7 +16,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
   </filter>
  </defs>
- <path fill="#ECEFF4" d="M 70.867 183.904 L 70.867 170.466 L 82.77 168.162 L 82.77 84.915 L 70.867 82.611 L 70.867 69.096 L 185.133 69.096 L 185.133 82.611 L 173.23 84.915 L 173.23 168.162 L 185.133 170.466 L 185.133 183.904 L 138.904 183.904 L 138.904 170.466 L 150.807 168.162 L 150.807 86.374 L 105.193 86.374 L 105.193 168.162 L 117.172 170.466 L 117.172 183.904 L 70.867 183.904 L 70.867 183.904 Z"/>
+ <path fill="#eceff4" d="M 70.867 183.904 L 70.867 170.466 L 82.77 168.162 L 82.77 84.915 L 70.867 82.611 L 70.867 69.096 L 185.133 69.096 L 185.133 82.611 L 173.23 84.915 L 173.23 168.162 L 185.133 170.466 L 185.133 183.904 L 138.904 183.904 L 138.904 170.466 L 150.807 168.162 L 150.807 86.374 L 105.193 86.374 L 105.193 168.162 L 117.172 170.466 L 117.172 183.904 L 70.867 183.904 L 70.867 183.904 Z"/>
  <g opacity=".4">
   <linearGradient id="_lgradient_47" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#FFF"/>

@@ -10,7 +10,7 @@
  </defs>
  <g filter="url(#rV2ILVAE14eSVl6ybvwFJKMegVpoellK)">
   <linearGradient id="_lgradient_19" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4D4D4D"/>
+   <stop offset="0%" style="stop-color:#4d4d4d"/>
    <stop offset="100%" style="stop-color:#333"/>
   </linearGradient>
   <path fill="url(#_lgradient_19)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
@@ -35,8 +35,8 @@
  </defs>
  <g filter="url(#U8K0bKHdtDJcJQxZRwggeSy0ICdzWgql)">
   <radialGradient id="_rgradient_8" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="matrix(197,-2,-1,189,29,33.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#009A56"/>
-   <stop offset="100%" style="stop-color:#46A926"/>
+   <stop offset="0%" style="stop-color:#009a56"/>
+   <stop offset="100%" style="stop-color:#46a926"/>
   </radialGradient>
   <path fill="url(#_rgradient_8)" fill-rule="evenodd" d="M 57 127 C 57 88.365949 88.365949 57 127 57 C 165.634051 57 197 88.365949 197 127 C 197 165.634051 165.634051 197 127 197 C 88.365949 197 57 165.634051 57 127 Z M 102 126 C 102 112.202125 113.202125 101 127 101 C 140.797876 101 152 112.202125 152 126 C 152 139.797876 140.797876 151 127 151 C 113.202125 151 102 139.797876 102 126 Z"/>
  </g>
@@ -51,8 +51,8 @@
  </defs>
  <g filter="url(#FhvtiQYfqqGMxUqaNg4Czpx1cBMeWc4i)">
   <radialGradient id="_rgradient_9" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="matrix(113,0,1,100,105,112)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FAC82E"/>
-   <stop offset="100%" style="stop-color:#F37E40"/>
+   <stop offset="0%" style="stop-color:#fac82e"/>
+   <stop offset="100%" style="stop-color:#f37e40"/>
   </radialGradient>
   <path fill="url(#_rgradient_9)" fill-rule="evenodd" d="M 127 162 C 127 142.682976 142.682976 127 162 127 C 181.317024 127 197 142.682976 197 162 C 197 181.317024 181.317024 197 162 197 C 142.682976 197 127 181.317024 127 162 Z M 149.5 161.5 C 149.5 154.601063 155.101063 149 162 149 C 168.898941 149 174.5 154.601063 174.5 161.5 C 174.5 168.398941 168.898941 174 162 174 C 155.101063 174 149.5 168.398941 149.5 161.5 Z"/>
  </g>

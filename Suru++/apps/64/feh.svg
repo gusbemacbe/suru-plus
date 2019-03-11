@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#hI9kIMvyYul05QqWb5mp49rIrn6mS7oK)">
   <linearGradient id="_lgradient_16" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_16)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -33,15 +33,15 @@
   <g opacity=".4" filter="url(#yxmHvLq1FGkMi48VKmYMIaqJOzTGNXLO)">
    <path d="M 55.5 78.156 L 55.5 93.26 L 55.5 120.448 L 55.5 135.552 L 55.5 180.865 L 70.604 180.865 L 70.604 135.552 L 97.792 135.552 L 97.792 120.448 L 70.604 120.448 L 70.604 93.26 L 97.792 93.26 L 97.792 78.156 L 70.604 78.156 L 55.5 78.156 Z M 106.854 78.156 L 106.854 180.865 L 121.958 180.865 L 149.146 180.865 L 149.146 165.76 L 121.958 165.76 L 121.958 135.552 L 149.146 135.552 L 149.146 120.448 L 121.958 120.448 L 121.958 93.26 L 149.146 93.26 L 149.146 78.156 L 121.958 78.156 L 106.854 78.156 Z M 158.208 78.156 L 158.208 180.865 L 173.312 180.865 L 173.312 135.552 L 185.396 135.552 L 185.396 180.865 L 200.5 180.865 L 200.5 135.552 L 200.5 120.448 L 200.5 78.156 L 185.396 78.156 L 185.396 120.448 L 173.312 120.448 L 173.312 78.156 L 158.208 78.156 Z"/>
   </g>
-  <rect fill="#F22C42" width="15.104" height="102.708" x="55.5" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="69.09" y="61.54" transform="matrix(0,1,-1,0,159.333,6.042)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="69.09" y="103.83" transform="matrix(0,1,-1,0,201.625,48.333)"/>
-  <rect fill="#F22C42" width="15.104" height="102.708" x="106.85" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="120.45" y="61.54" transform="matrix(0,1,-1,0,210.687,-45.312)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="120.45" y="103.83" transform="matrix(0,1,-1,0,252.979,-3.021)"/>
-  <rect fill="#F22C42" width="15.104" height="102.708" x="158.21" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="171.8" y="103.83" transform="matrix(0,1,-1,0,304.333,-54.375)"/>
-  <rect fill="#F22C42" width="15.104" height="42.292" x="120.45" y="149.15" transform="matrix(0,1,-1,0,298.292,42.292)"/>
-  <rect fill="#F22C42" width="15.104" height="102.708" x="185.4" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#f22c42" width="15.104" height="102.708" x="55.5" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="69.09" y="61.54" transform="matrix(0,1,-1,0,159.333,6.042)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="69.09" y="103.83" transform="matrix(0,1,-1,0,201.625,48.333)"/>
+  <rect fill="#f22c42" width="15.104" height="102.708" x="106.85" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="120.45" y="61.54" transform="matrix(0,1,-1,0,210.687,-45.312)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="120.45" y="103.83" transform="matrix(0,1,-1,0,252.979,-3.021)"/>
+  <rect fill="#f22c42" width="15.104" height="102.708" x="158.21" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="171.8" y="103.83" transform="matrix(0,1,-1,0,304.333,-54.375)"/>
+  <rect fill="#f22c42" width="15.104" height="42.292" x="120.45" y="149.15" transform="matrix(0,1,-1,0,298.292,42.292)"/>
+  <rect fill="#f22c42" width="15.104" height="102.708" x="185.4" y="75.14" transform="matrix(1,0,0,1,0,0)"/>
  </g>
 </svg>

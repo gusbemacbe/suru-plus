@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#wm2hYZ17zyNPKFzFwi5FyBGRshP5DEzB)">
   <linearGradient id="_lgradient_125" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.7,11.9)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_125)" d="M 165.708919 11.9 C 239.764626 11.9 250.348309 22.457198 250.348309 96.443859 L 250.348309 155.694653 C 250.348309 229.68091 239.764626 240.238396 165.708919 240.238396 L 90.339393 240.238396 C 16.28369 240.238396 5.7 229.68091 5.7 155.694653 L 5.7 96.443859 C 5.7 22.457198 16.28369 11.9 90.339393 11.9 L 165.708919 11.9 Z"/>
  </g>
@@ -34,13 +34,13 @@
    <circle cx="128" cy="129.295" r="72.5" vector-effect="non-scaling-stroke"/>
   </g>
   <linearGradient id="_lgradient_127" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(145,0,0,145,55.5,54.205357)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FFD057"/>
-   <stop offset="50%" style="stop-color:#FFA851"/>
-   <stop offset="100%" style="stop-color:#F5820F"/>
+   <stop offset="0%" style="stop-color:#ffd057"/>
+   <stop offset="50%" style="stop-color:#ffa851"/>
+   <stop offset="100%" style="stop-color:#f5820f"/>
   </linearGradient>
   <circle fill="url(#_lgradient_127)" cx="128" cy="126.705" r="72.5" vector-effect="non-scaling-stroke"/>
   <g opacity=".2">
-   <path fill="#FFFFFF" d="M 128 54.205357 C 87.959356 54.205357 55.5 86.664713 55.5 126.705357 C 55.51326 127.211311 55.531817 127.717113 55.55567 128.222679 C 56.141235 88.62295 88.395951 56.820724 128 56.794643 C 167.434357 56.815582 199.620326 88.351596 200.445625 127.777321 C 200.466395 127.420139 200.48452 127.062808 200.5 126.705357 C 200.5 86.664713 168.040644 54.205357 128 54.205357 Z"/>
+   <path fill="#ffffff" d="M 128 54.205357 C 87.959356 54.205357 55.5 86.664713 55.5 126.705357 C 55.51326 127.211311 55.531817 127.717113 55.55567 128.222679 C 56.141235 88.62295 88.395951 56.820724 128 56.794643 C 167.434357 56.815582 199.620326 88.351596 200.445625 127.777321 C 200.466395 127.420139 200.48452 127.062808 200.5 126.705357 C 200.5 86.664713 168.040644 54.205357 128 54.205357 Z"/>
   </g>
   <defs>
    <filter id="HqTMxKZvrIT6tLppjnxIISgrhPR7J8Fg" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -50,7 +50,7 @@
   <g opacity=".4" filter="url(#HqTMxKZvrIT6tLppjnxIISgrhPR7J8Fg)">
    <circle cx="128" cy="129.295" r="51.786" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#FFFFFF" cx="128" cy="126.705" r="51.786" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ffffff" cx="128" cy="126.705" r="51.786" vector-effect="non-scaling-stroke"/>
   <g opacity=".6">
    <path d="M 128 93.044643 L 128 93.044643 C 133.716263 93.044643 138.357143 97.685523 138.357143 103.401786 L 138.357143 150.008929 C 138.357143 155.725191 133.716263 160.366071 128 160.366071 L 128 160.366071 C 122.283737 160.366071 117.642857 155.725191 117.642857 150.008929 L 117.642857 103.401786 C 117.642857 97.685523 122.283737 93.044643 128 93.044643 Z"/>
   </g>

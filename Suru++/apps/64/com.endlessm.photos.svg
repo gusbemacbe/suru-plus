@@ -11,16 +11,16 @@
  <g filter="url(#fsFnZCfilQJyi9stwZjyFCJLWXhU5F68)">
   <linearGradient id="_lgradient_121" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.682,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#F90"/>
-   <stop offset="100%" style="stop-color:#DC5714"/>
+   <stop offset="100%" style="stop-color:#dc5714"/>
   </linearGradient>
   <path fill="url(#_lgradient_121)" d="M 165.691 11.95 C 239.746 11.95 250.33 22.507 250.33 96.494 L 250.33 155.745 C 250.33 229.731 239.746 240.288 165.691 240.288 L 90.321 240.288 C 16.265 240.288 5.682 229.731 5.682 155.745 L 5.682 96.494 C 5.682 22.507 16.265 11.95 90.321 11.95 L 165.691 11.95 Z"/>
  </g>
  <g opacity=".6">
-  <path fill="#3B3B3B" d="M 44 97 L 83.5 123.5 L 106 65.5 L 121.5 122 L 143 97 L 155 133.5 L 175.5 61.5 L 199 93.5 L 222 71.5 L 227.5 122 L 241 59.5 L 250.33 155.745 C 250.33 229.731 239.746 240.288 165.691 240.288 L 90.321 240.288 C 16.265 240.288 5.682 229.731 5.682 155.745 L 44 97 Z"/>
+  <path fill="#3b3b3b" d="M 44 97 L 83.5 123.5 L 106 65.5 L 121.5 122 L 143 97 L 155 133.5 L 175.5 61.5 L 199 93.5 L 222 71.5 L 227.5 122 L 241 59.5 L 250.33 155.745 C 250.33 229.731 239.746 240.288 165.691 240.288 L 90.321 240.288 C 16.265 240.288 5.682 229.731 5.682 155.745 L 44 97 Z"/>
  </g>
  <linearGradient id="_lgradient_122" x1=".567" x2=".567" y1="1.071" y2="-.742" gradientTransform="matrix(243.122,0,0,56.963,6.434,183.326)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#A0A0A0"/>
-  <stop offset="100%" style="stop-color:#DFDFDF"/>
+  <stop offset="0%" style="stop-color:#a0a0a0"/>
+  <stop offset="100%" style="stop-color:#dfdfdf"/>
  </linearGradient>
  <path fill="url(#_lgradient_122)" d="M 249.556 183.326 C 246.102 232.49 229.339 240.288 165.691 240.288 L 90.321 240.288 C 26.795 240.288 9.975 232.52 6.476 183.609 C 2.769 184.749 247.004 184.545 249.556 183.326 Z"/>
  <g opacity=".4">
@@ -56,8 +56,8 @@
     <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_shadow" in2="SourceGraphic" operator="over"/>
    </filter>
    <linearGradient id="_lgradient_124" x1="0" x2="0" y1="0" y2="1">
-    <stop offset="0%" style="stop-color:#FF9900"/>
-    <stop offset="100%" style="stop-color:#DC5714"/>
+    <stop offset="0%" style="stop-color:#ff9900"/>
+    <stop offset="100%" style="stop-color:#dc5714"/>
    </linearGradient>
   </defs>
   <g filter="url(#8FEmq9fhOTvTyfpZfe93mZQw7HfwvEx4)">
@@ -73,7 +73,7 @@
    </filter>
   </defs>
   <g filter="url(#amqTrp6NiiyL5mNcgbmrg94zgdPEUVo2)">
-   <circle fill="#FEFDFE" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
+   <circle fill="#fefdfe" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
 </svg>

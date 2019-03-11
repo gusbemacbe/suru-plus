@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#U6FhLEYC4OCENMs77NydKJv70C81jZq4)">
   <linearGradient id="_lgradient_160" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_160)" d="M 165.439 11.452 C 239.495 11.452 250.078 22.009 250.078 95.995 L 250.078 155.246 C 250.078 229.233 239.495 239.79 165.439 239.79 L 90.069 239.79 C 16.014 239.79 5.43 229.233 5.43 155.246 L 5.43 95.995 C 5.43 22.009 16.014 11.452 90.069 11.452 L 165.439 11.452 Z"/>
  </g>
@@ -34,19 +34,19 @@
    <path d="M 97.179 191.438 L 86.821 181.08 L 66.107 181.08 C 60.369 181.08 55.75 176.461 55.75 170.723 L 55.75 77.509 C 55.75 71.771 60.369 67.152 66.107 67.152 L 190.393 67.152 C 196.131 67.152 200.75 71.771 200.75 77.509 L 200.75 170.723 C 200.75 176.461 196.131 181.08 190.393 181.08 L 169.679 181.08 L 159.321 191.438 L 97.179 191.438 Z"/>
   </g>
   <linearGradient id="_lgradient_162" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(145,0,0,124.286,55.75,64.563)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#BDC3C7"/>
-   <stop offset="100%" style="stop-color:#AEAFB3"/>
+   <stop offset="0%" style="stop-color:#bdc3c7"/>
+   <stop offset="100%" style="stop-color:#aeafb3"/>
   </linearGradient>
   <path fill="url(#_lgradient_162)" d="M 97.179 188.848 L 86.821 178.491 L 66.107 178.491 C 60.369 178.491 55.75 173.872 55.75 168.134 L 55.75 74.92 C 55.75 69.182 60.369 64.563 66.107 64.563 L 190.393 64.563 C 196.131 64.563 200.75 69.182 200.75 74.92 L 200.75 168.134 C 200.75 173.872 196.131 178.491 190.393 178.491 L 169.679 178.491 L 159.321 188.848 L 97.179 188.848 Z"/>
   <g opacity=".5">
    <path d="M 107.536 168.134 L 97.179 157.777 L 76.464 157.777 L 76.464 85.277 L 180.036 85.277 L 180.036 157.777 L 159.321 157.777 L 148.964 168.134 L 107.536 168.134 Z"/>
   </g>
   <g>
-   <rect fill="#FDC92B" width="10.357" height="10.357" x="92" y="85.28" transform="matrix(-1,0,0,-1,194.357,180.911)"/>
-   <rect fill="#FDC92B" width="10.357" height="10.357" x="107.54" y="85.28" transform="matrix(-1,0,0,-1,225.429,180.911)"/>
-   <rect fill="#FDC92B" width="10.357" height="10.357" x="123.07" y="85.28" transform="matrix(-1,0,0,-1,256.5,180.911)"/>
-   <rect fill="#FDC92B" width="10.357" height="10.357" x="138.61" y="85.28" transform="matrix(-1,0,0,-1,287.571,180.911)"/>
-   <rect fill="#FDC92B" width="10.357" height="10.357" x="154.14" y="85.28" transform="matrix(-1,0,0,-1,318.643,180.911)"/>
+   <rect fill="#fdc92b" width="10.357" height="10.357" x="92" y="85.28" transform="matrix(-1,0,0,-1,194.357,180.911)"/>
+   <rect fill="#fdc92b" width="10.357" height="10.357" x="107.54" y="85.28" transform="matrix(-1,0,0,-1,225.429,180.911)"/>
+   <rect fill="#fdc92b" width="10.357" height="10.357" x="123.07" y="85.28" transform="matrix(-1,0,0,-1,256.5,180.911)"/>
+   <rect fill="#fdc92b" width="10.357" height="10.357" x="138.61" y="85.28" transform="matrix(-1,0,0,-1,287.571,180.911)"/>
+   <rect fill="#fdc92b" width="10.357" height="10.357" x="154.14" y="85.28" transform="matrix(-1,0,0,-1,318.643,180.911)"/>
   </g>
  </g>
 </svg>

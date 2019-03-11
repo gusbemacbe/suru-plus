@@ -11,7 +11,7 @@
  <g filter="url(#7JRYIipM2RUFCqnZEsKRR4IuYq0tMxHp)">
   <linearGradient id="_lgradient_124" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#0F9"/>
-   <stop offset="100%" style="stop-color:#14DC57"/>
+   <stop offset="100%" style="stop-color:#14dc57"/>
   </linearGradient>
   <path fill="url(#_lgradient_124)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>
@@ -33,8 +33,8 @@
   <g opacity=".4" filter="url(#TC3OvGxPmtfMmByegnARplmLmuqLDRIq)">
    <rect width="120.836" height="18.125" x="67.42" y="172.17" transform="matrix(1,0,0,1,0,0)"/>
   </g>
-  <rect fill="#3B3B3B" width="18.125" height="24.167" x="118.77" y="148" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#3B3B3B" width="120.836" height="18.125" x="67.42" y="169.15" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#3b3b3b" width="18.125" height="24.167" x="118.77" y="148" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#3b3b3b" width="120.836" height="18.125" x="67.42" y="169.15" transform="matrix(1,0,0,1,0,0)"/>
   <defs>
    <filter id="vzysrHzN0lEViKm8Dt0nNXsSc3FPWZQv" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -43,7 +43,7 @@
   <g opacity=".4" filter="url(#vzysrHzN0lEViKm8Dt0nNXsSc3FPWZQv)">
    <circle cx="73.459" cy="181.23" r="18.125" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#FFFFFF" cx="73.459" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ffffff" cx="73.459" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="70uLcAlENV9VFDw0lxQwxFM1cM2zqu0c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -52,7 +52,7 @@
   <g opacity=".4" filter="url(#70uLcAlENV9VFDw0lxQwxFM1cM2zqu0c)">
    <circle cx="127.835" cy="181.23" r="18.125" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#FFFFFF" cx="127.835" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ffffff" cx="127.835" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="10hTHvYZwlA3qNCwfnETq18fXAHzzRpr" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -61,7 +61,7 @@
   <g opacity=".4" filter="url(#10hTHvYZwlA3qNCwfnETq18fXAHzzRpr)">
    <circle cx="182.208" cy="181.23" r="18.125" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#FFFFFF" cx="182.208" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ffffff" cx="182.208" cy="178.209" r="18.125" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="tMKMuXU3XptXlIetKk2h6xnCM6DwJ069" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -70,6 +70,6 @@
   <g opacity=".4" filter="url(#tMKMuXU3XptXlIetKk2h6xnCM6DwJ069)">
    <path fill-rule="evenodd" d="M 83.02 56 L 172.65 56 C 177.25 56 181.67 57.83 184.92 61.08 C 188.17 64.34 190 68.75 190 73.35 L 190 141.99 C 190 146.59 188.17 151 184.92 154.26 C 181.67 157.51 177.25 159.34 172.65 159.34 L 83.02 159.34 C 78.42 159.34 74 157.51 70.75 154.26 C 67.5 151 65.67 146.59 65.67 141.99 L 65.67 73.35 C 65.67 68.75 67.5 64.34 70.75 61.08 C 74 57.83 78.42 56 83.02 56 Z M 83.02 66 L 172.65 66 C 174.6 66 176.47 66.78 177.85 68.16 C 179.23 69.53 180 71.4 180 73.35 L 180 141.99 C 180 143.94 179.23 145.81 177.85 147.18 C 176.47 148.56 174.6 149.34 172.65 149.34 L 83.02 149.34 C 81.07 149.34 79.2 148.56 77.82 147.18 C 76.44 145.81 75.67 143.94 75.67 141.99 L 75.67 73.35 C 75.67 71.4 76.44 69.53 77.82 68.16 C 79.2 66.78 81.07 66 83.02 66 Z"/>
   </g>
-  <path fill="#5D5D5D" fill-rule="evenodd" d="M 83.019997 53.330002 L 172.649994 53.330002 C 177.25 53.330002 181.669998 55.16 184.919998 58.41 C 188.169998 61.669998 190 66.080002 190 70.68 L 190 139.320007 C 190 143.919998 188.169998 148.330002 184.919998 151.589996 C 181.669998 154.839996 177.25 156.669998 172.649994 156.669998 L 83.019997 156.669998 C 78.419998 156.669998 74 154.839996 70.75 151.589996 C 67.5 148.330002 65.669998 143.919998 65.669998 139.320007 L 65.669998 70.68 C 65.669998 66.080002 67.5 61.669998 70.75 58.41 C 74 55.16 78.419998 53.330002 83.019997 53.330002 Z M 83.019997 63.330002 L 172.649994 63.330002 C 174.600006 63.330002 176.470001 64.110001 177.850006 65.489998 C 179.229996 66.860001 180 68.730003 180 70.68 L 180 139.320007 C 180 141.270004 179.229996 143.139999 177.850006 144.509995 C 176.470001 145.889999 174.600006 146.669998 172.649994 146.669998 L 83.019997 146.669998 C 81.07 146.669998 79.199997 145.889999 77.82 144.509995 C 76.440002 143.139999 75.669998 141.270004 75.669998 139.320007 L 75.669998 70.68 C 75.669998 68.730003 76.440002 66.860001 77.82 65.489998 C 79.199997 64.110001 81.07 63.330002 83.019997 63.330002 Z"/>
+  <path fill="#5d5d5d" fill-rule="evenodd" d="M 83.019997 53.330002 L 172.649994 53.330002 C 177.25 53.330002 181.669998 55.16 184.919998 58.41 C 188.169998 61.669998 190 66.080002 190 70.68 L 190 139.320007 C 190 143.919998 188.169998 148.330002 184.919998 151.589996 C 181.669998 154.839996 177.25 156.669998 172.649994 156.669998 L 83.019997 156.669998 C 78.419998 156.669998 74 154.839996 70.75 151.589996 C 67.5 148.330002 65.669998 143.919998 65.669998 139.320007 L 65.669998 70.68 C 65.669998 66.080002 67.5 61.669998 70.75 58.41 C 74 55.16 78.419998 53.330002 83.019997 53.330002 Z M 83.019997 63.330002 L 172.649994 63.330002 C 174.600006 63.330002 176.470001 64.110001 177.850006 65.489998 C 179.229996 66.860001 180 68.730003 180 70.68 L 180 139.320007 C 180 141.270004 179.229996 143.139999 177.850006 144.509995 C 176.470001 145.889999 174.600006 146.669998 172.649994 146.669998 L 83.019997 146.669998 C 81.07 146.669998 79.199997 145.889999 77.82 144.509995 C 76.440002 143.139999 75.669998 141.270004 75.669998 139.320007 L 75.669998 70.68 C 75.669998 68.730003 76.440002 66.860001 77.82 65.489998 C 79.199997 64.110001 81.07 63.330002 83.019997 63.330002 Z"/>
  </g>
 </svg>

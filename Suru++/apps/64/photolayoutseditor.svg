@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#ZWxTqT7IuCmHF3E5ZpFtWzm9Q62xV1So)">
   <linearGradient id="_lgradient_229" x1=".5" x2=".5" y1="0" y2=".622" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#F37E40"/>
-   <stop offset="100%" style="stop-color:#FAC82E"/>
+   <stop offset="0%" style="stop-color:#f37e40"/>
+   <stop offset="100%" style="stop-color:#fac82e"/>
   </linearGradient>
   <path fill="url(#_lgradient_229)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -16,23 +16,23 @@
   </filter>
  </defs>
  <g opacity=".2">
-  <circle fill="#FEE581" cx="182.833" cy="77.5" r="36.5" vector-effect="non-scaling-stroke"/>
+  <circle fill="#fee581" cx="182.833" cy="77.5" r="36.5" vector-effect="non-scaling-stroke"/>
  </g>
  <g opacity=".2">
-  <circle fill="#FEE581" cx="182.833" cy="77.5" r="47.833" vector-effect="non-scaling-stroke"/>
+  <circle fill="#fee581" cx="182.833" cy="77.5" r="47.833" vector-effect="non-scaling-stroke"/>
  </g>
- <circle fill="#FEE581" cx="182.833" cy="77.5" r="25.167" vector-effect="non-scaling-stroke"/>
- <path fill="#1463A5" d="M 250.328 140.995 L 250.328 155.745 C 250.328 162.874 250.23 169.415 249.986 175.414 L 5.897 171.896 C 5.744 166.88 5.68 161.504 5.68 155.745 L 5.68 130.877 C 13.087 119.361 17.608 102.745 33 102.667 C 56.462 102.547 56 128.333 76.667 128 C 98 128.333 98.333 92 120.333 91.333 C 140.333 93 155.333 148.333 177.333 149 C 199.333 148 192 108.667 213 108.333 C 235.333 108.333 225 144.333 240.333 144.333 C 244.764 144.333 247.872 142.957 250.328 140.995 L 250.328 140.995 Z"/>
- <path fill="#37A6E6" d="M 250.164 170.004 C 248.591 231.121 234.698 240.288 165.689 240.288 L 90.319 240.288 C 21.311 240.288 7.417 231.121 5.844 170.004 C 5.729 170.443 250.289 170.453 250.164 170.004 L 250.164 170.004 Z"/>
+ <circle fill="#fee581" cx="182.833" cy="77.5" r="25.167" vector-effect="non-scaling-stroke"/>
+ <path fill="#1463a5" d="M 250.328 140.995 L 250.328 155.745 C 250.328 162.874 250.23 169.415 249.986 175.414 L 5.897 171.896 C 5.744 166.88 5.68 161.504 5.68 155.745 L 5.68 130.877 C 13.087 119.361 17.608 102.745 33 102.667 C 56.462 102.547 56 128.333 76.667 128 C 98 128.333 98.333 92 120.333 91.333 C 140.333 93 155.333 148.333 177.333 149 C 199.333 148 192 108.667 213 108.333 C 235.333 108.333 225 144.333 240.333 144.333 C 244.764 144.333 247.872 142.957 250.328 140.995 L 250.328 140.995 Z"/>
+ <path fill="#37a6e6" d="M 250.164 170.004 C 248.591 231.121 234.698 240.288 165.689 240.288 L 90.319 240.288 C 21.311 240.288 7.417 231.121 5.844 170.004 C 5.729 170.443 250.289 170.453 250.164 170.004 L 250.164 170.004 Z"/>
  <g style="opacity:0.6">
   <g opacity=".2">
-   <ellipse fill="#FEE581" cx="182.833" cy="201.5" rx="36.5" ry="13.608" vector-effect="non-scaling-stroke"/>
+   <ellipse fill="#fee581" cx="182.833" cy="201.5" rx="36.5" ry="13.608" vector-effect="non-scaling-stroke"/>
   </g>
   <g opacity=".2">
-   <ellipse fill="#FEE581" cx="182.833" cy="201.5" rx="47.833" ry="17.833" vector-effect="non-scaling-stroke"/>
+   <ellipse fill="#fee581" cx="182.833" cy="201.5" rx="47.833" ry="17.833" vector-effect="non-scaling-stroke"/>
   </g>
   <g opacity=".6">
-   <ellipse fill="#FEE581" cx="182.833" cy="201.5" rx="25.167" ry="9.383" vector-effect="non-scaling-stroke"/>
+   <ellipse fill="#fee581" cx="182.833" cy="201.5" rx="25.167" ry="9.383" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
  <g opacity=".4">

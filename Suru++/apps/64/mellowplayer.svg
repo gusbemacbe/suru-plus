@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#VFNr9N4sHzovGsjTDtVBh6xxtdsBPwvm)">
   <linearGradient id="_lgradient_12" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_12)" d="M 165.688919 11.951604 C 239.744626 11.951604 250.328309 22.508801 250.328309 96.495462 L 250.328309 155.746257 C 250.328309 229.732514 239.744626 240.29 165.688919 240.29 L 90.319393 240.29 C 16.26369 240.29 5.68 229.732514 5.68 155.746257 L 5.68 96.495462 C 5.68 22.508801 16.26369 11.951604 90.319393 11.951604 L 165.688919 11.951604 Z"/>
  </g>
@@ -33,9 +33,9 @@
   <g opacity=".4" filter="url(#HmDqNTVP5b1G0jSICm9EOUYyJQmaCuAH)">
    <path d="M 150.499995 54.875008 C 140.554379 54.875008 131.016108 58.825891 123.983492 65.858504 C 116.950876 72.891116 112.999997 82.429387 112.999997 92.375011 C 112.999997 113.085683 129.789315 129.875002 150.499995 129.875002 C 171.210675 129.875002 188.000001 113.085683 188.000001 92.375011 C 188.000001 71.664331 171.210675 54.875008 150.499995 54.875008 Z M 150.499995 129.875002 C 129.789315 129.875002 112.999997 146.664328 112.999997 167.375001 C 112.999997 188.085687 129.789315 204.874999 150.499995 204.874999 C 171.210675 204.874999 188.000001 188.085687 188.000001 167.375001 C 188.000001 146.664328 171.210675 129.875002 150.499995 129.875002 Z M 82.999998 92.375011 C 62.289322 92.375011 45.500001 109.164329 45.500001 129.875002 C 45.500001 150.585689 62.289322 167.375001 82.999998 167.375001 C 103.710677 167.375001 120.499996 150.585689 120.499996 129.875002 C 120.499996 109.164329 103.710677 92.375011 82.999998 92.375011 Z"/>
   </g>
-  <circle fill="#ECECEC" cx="83" cy="126.125" r="37.5" vector-effect="non-scaling-stroke"/>
-  <circle fill="#ECECEC" cx="150.5" cy="163.625" r="37.5" vector-effect="non-scaling-stroke"/>
-  <circle fill="#ECECEC" cx="150.5" cy="88.625" r="37.5" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ececec" cx="83" cy="126.125" r="37.5" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ececec" cx="150.5" cy="163.625" r="37.5" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ececec" cx="150.5" cy="88.625" r="37.5" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="4ZXWBuRytTkgyQwchMQdTlWFNeB0kfZy" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -46,7 +46,7 @@
   </g>
   <linearGradient id="_lgradient_14" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(127.500001,0,0,150,82.999999,51.125)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#FE0"/>
-   <stop offset="100%" style="stop-color:#DC9914"/>
+   <stop offset="100%" style="stop-color:#dc9914"/>
   </linearGradient>
   <path fill="url(#_lgradient_14)" d="M 85.447878 51.543666 C 88.026858 50.271995 90.504475 52.302881 90.504475 52.302881 L 149.670721 86.793877 L 206.877416 120.176442 C 206.877416 120.176442 210.5 121.918826 210.5 126.083102 C 210.5 130.25878 206.847389 131.617765 206.847389 131.617765 L 149.539335 165.000309 L 89.040422 200.239141 C 89.040422 200.239141 87.276065 201.784136 85.001158 200.793392 C 82.40341 199.654562 83.07913 196.758163 83.07913 196.758163 L 83.07913 125.897114 L 83.07913 56.178669 C 83.082882 56.178669 82.793868 52.853327 85.447878 51.54368 L 85.447878 51.543666 Z"/>
  </g>

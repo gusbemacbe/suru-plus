@@ -10,14 +10,14 @@
  </defs>
  <g filter="url(#bsWE4av84oxKgXnbbYfk6xs4Yn8NLQ8q)">
   <linearGradient id="_lgradient_65" x1=".993" x2=".002" y1=".988" y2=".193" gradientTransform="matrix(244.648,0,0,228.338,5.682,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#343B40"/>
-   <stop offset="98.261%" style="stop-color:#555E63"/>
+   <stop offset="0%" style="stop-color:#343b40"/>
+   <stop offset="98.261%" style="stop-color:#555e63"/>
   </linearGradient>
   <path fill="url(#_lgradient_65)" d="M 165.691 11.95 C 239.746 11.95 250.33 22.507 250.33 96.494 L 250.33 155.745 C 250.33 229.731 239.746 240.288 165.691 240.288 L 90.321 240.288 C 16.265 240.288 5.682 229.731 5.682 155.745 L 5.682 96.494 C 5.682 22.507 16.265 11.95 90.321 11.95 L 165.691 11.95 Z"/>
  </g>
  <linearGradient id="_lgradient_66" x1=".567" x2=".567" y1="1.071" y2="-.742" gradientTransform="matrix(243.122,0,0,56.963,6.434,183.326)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#A0A0A0"/>
-  <stop offset="100%" style="stop-color:#DFDFDF"/>
+  <stop offset="0%" style="stop-color:#a0a0a0"/>
+  <stop offset="100%" style="stop-color:#dfdfdf"/>
  </linearGradient>
  <path fill="url(#_lgradient_66)" d="M 249.556 183.326 C 246.102 232.49 229.339 240.288 165.691 240.288 L 90.321 240.288 C 26.795 240.288 9.975 232.52 6.476 183.609 C 2.769 184.749 247.004 184.545 249.556 183.326 Z"/>
  <g opacity=".4">
@@ -54,7 +54,7 @@
    </filter>
   </defs>
   <g filter="url(#Zrfm4PD0R5GucNHBJOFUnekDOcCjBloG)">
-   <path d="M 62 200.333 L 146 200.333 C 149.311 200.333 152 203.022 152 206.333 L 152 206.333 C 152 209.645 149.311 212.333 146 212.333 L 62 212.333 C 58.689 212.333 56 209.645 56 206.333 L 56 206.333 C 56 203.022 58.689 200.333 62 200.333 Z" style="fill:#424A4F"/>
+   <path d="M 62 200.333 L 146 200.333 C 149.311 200.333 152 203.022 152 206.333 L 152 206.333 C 152 209.645 149.311 212.333 146 212.333 L 62 212.333 C 58.689 212.333 56 209.645 56 206.333 L 56 206.333 C 56 203.022 58.689 200.333 62 200.333 Z" style="fill:#424a4f"/>
   </g>
   <defs>
    <filter id="Fycw53ZNzlqfok7EemvzdEiiYgxY9q7M" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -66,7 +66,7 @@
    </filter>
   </defs>
   <g filter="url(#Fycw53ZNzlqfok7EemvzdEiiYgxY9q7M)">
-   <circle fill="#FEFDFE" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
+   <circle fill="#fefdfe" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
  <defs>

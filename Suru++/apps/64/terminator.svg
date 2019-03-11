@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#dMJZEWQrBzzaKjm71Ml9HI5ZoVO98p3v)">
   <linearGradient id="_lgradient_414" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF2E00"/>
-   <stop offset="100%" style="stop-color:#DC1425"/>
+   <stop offset="0%" style="stop-color:#ff2e00"/>
+   <stop offset="100%" style="stop-color:#dc1425"/>
   </linearGradient>
   <path fill="url(#_lgradient_414)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -37,13 +37,13 @@
   <path fill="#111111" d="M 128 126.35 L 250.328 126.35 L 250.328 126.35 L 250.328 96.494 C 250.328 22.507 239.745 11.95 165.689 11.95 L 128 11.95 L 128 126.35 L 128 126.35 Z"/>
  </g>
  <linearGradient id="_lgradient_416" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(70,0,0,44.545,36,54)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#E0E5E7"/>
-  <stop offset="100%" style="stop-color:#C7CED2"/>
+  <stop offset="0%" style="stop-color:#e0e5e7"/>
+  <stop offset="100%" style="stop-color:#c7ced2"/>
  </linearGradient>
  <path fill="url(#_lgradient_416)" fill-rule="evenodd" d="M 36 92.182 L 67.818 92.182 L 67.818 98.545 L 36 98.545 L 36 92.182 L 36 92.182 L 36 92.182 Z M 36 54 L 106 54 L 106 60.364 L 36 60.364 L 36 54 L 36 54 L 36 54 Z M 36 66.727 L 86.909 66.727 L 86.909 73.091 L 36 73.091 L 36 66.727 L 36 66.727 Z M 36 79.455 L 74.182 79.455 L 74.182 85.818 L 36 85.818 L 36 79.455 Z"/>
  <linearGradient id="_lgradient_417" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(69.504,0,0,44.625,156,153.875)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#E0E5E7"/>
-  <stop offset="100%" style="stop-color:#C7CED2"/>
+  <stop offset="0%" style="stop-color:#e0e5e7"/>
+  <stop offset="100%" style="stop-color:#c7ced2"/>
  </linearGradient>
  <path fill="url(#_lgradient_417)" fill-rule="evenodd" d="M 156.395 153.875 L 206.944 153.875 L 206.944 160.194 L 156.395 160.194 L 156.395 153.875 L 156.395 153.875 L 156.395 153.875 Z M 156 166.907 L 225.504 166.907 L 225.504 173.226 L 156 173.226 L 156 166.907 L 156 166.907 L 156 166.907 Z M 156 179.544 L 200.23 179.544 L 200.23 185.863 L 156 185.863 L 156 179.544 L 156 179.544 Z M 156 192.181 L 212.867 192.181 L 212.867 198.5 L 156 198.5 L 156 192.181 Z"/>
 </svg>

@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#WY1HjX5bjBgy0mlGoFbmZeofXZ3aOGNo)">
   <linearGradient id="_lgradient_27" x1="0" x2="-.001" y1="0" y2="1.426" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#00F260"/>
-   <stop offset="100%" style="stop-color:#0575E6"/>
+   <stop offset="0%" style="stop-color:#00f260"/>
+   <stop offset="100%" style="stop-color:#0575e6"/>
   </linearGradient>
   <path fill="url(#_lgradient_27)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -26,13 +26,13 @@
  </g>
  <g>
   <linearGradient id="_lgradient_29" x1="0" x2="1" y1="1" y2="1" gradientTransform="matrix(126.757,0,0,120.314,64.648,76.456)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#BDC3C7"/>
-   <stop offset="100%" style="stop-color:#AEAFB3"/>
+   <stop offset="0%" style="stop-color:#bdc3c7"/>
+   <stop offset="100%" style="stop-color:#aeafb3"/>
   </linearGradient>
   <path fill="url(#_lgradient_29)" d="M 64.648 76.456 L 64.648 173.329 L 65.05 173.329 C 64.791 174.106 64.648 174.844 64.648 175.643 C 64.648 187.317 93.005 196.77 128.026 196.77 C 163.049 196.77 191.405 187.317 191.405 175.643 C 191.405 174.843 191.264 174.107 191.003 173.329 L 191.405 173.329 L 191.405 76.456 L 64.648 76.456 Z"/>
   <linearGradient id="_lgradient_30" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(126.827,0,0,42.274,64.61,54.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#E0E5E7"/>
-   <stop offset="100%" style="stop-color:#C7CED2"/>
+   <stop offset="0%" style="stop-color:#e0e5e7"/>
+   <stop offset="100%" style="stop-color:#c7ced2"/>
   </linearGradient>
   <path fill="url(#_lgradient_30)" d="M 191.437 75.637 C 191.437 87.311 163.046 96.774 128.024 96.774 C 93 96.774 64.61 87.311 64.61 75.637 C 64.61 63.963 93 54.5 128.024 54.5 C 163.046 54.5 191.437 63.963 191.437 75.637 Z"/>
   <path fill="#565656" d="M 64.563 145.959 C 65.037 157.498 93.317 166.784 128.044 166.784 C 162.67 166.784 190.793 157.553 191.425 146.061 C 180.313 155.512 156.144 162.057 128.044 162.057 C 99.887 162.057 75.644 155.442 64.563 145.96 L 64.563 145.959 Z"/>

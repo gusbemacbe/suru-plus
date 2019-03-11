@@ -10,14 +10,14 @@
  </defs>
  <g filter="url(#CrK6zZcUuLeyERIn0MhDvIf6rsj1R615)">
   <linearGradient id="_lgradient_177" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_177)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>
  <linearGradient id="_lgradient_178" x1="1" x2="0" y1="0" y2="0" gradientTransform="matrix(49.784914,0,0,225.36438,5.68,13.461281)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#2B2E30"/>
-  <stop offset="100%" style="stop-color:#1E1F1F"/>
+  <stop offset="0%" style="stop-color:#2b2e30"/>
+  <stop offset="100%" style="stop-color:#1e1f1f"/>
  </linearGradient>
  <path fill="url(#_lgradient_178)" d="M 55.464914 238.825661 C 12.705618 234.200072 5.68 216.024864 5.68 155.744653 L 5.68 96.493859 C 5.68 36.419211 12.657706 18.16289 55.029848 13.461281 L 55.464914 238.825661 L 55.464914 238.825661 Z"/>
  <g opacity=".4">
@@ -39,8 +39,8 @@
    <path d="M 164 18.135776 L 164 147.9375 L 182.543103 129.394397 L 201.086207 147.9375 L 201.086207 18.135776 L 164 18.135776 Z"/>
   </g>
   <linearGradient id="_lgradient_180" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(37.148707,0,0,131.40039,163.9375,11.901334)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#EDC268"/>
-   <stop offset="100%" style="stop-color:#9B7424"/>
+   <stop offset="0%" style="stop-color:#edc268"/>
+   <stop offset="100%" style="stop-color:#9b7424"/>
   </linearGradient>
   <path fill="url(#_lgradient_180)" d="M 163.9375 11.9375 L 164 143.301724 L 182.543103 124.758621 L 201.086207 143.301724 L 201.086207 13.5 C 190.784127 12.265233 178.411225 11.7544 163.9375 11.9375 Z"/>
  </g>

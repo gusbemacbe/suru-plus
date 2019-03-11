@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#Wq42QTQVSKvMkAUIJ9Yhj412JwFVAUNS)">
   <linearGradient id="_lgradient_89" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#EDC268"/>
-   <stop offset="100%" style="stop-color:#9B7424"/>
+   <stop offset="0%" style="stop-color:#edc268"/>
+   <stop offset="100%" style="stop-color:#9b7424"/>
   </linearGradient>
   <path fill="url(#_lgradient_89)" d="M 165.688919 11.951604 C 239.744626 11.951604 250.328309 22.508801 250.328309 96.495462 L 250.328309 155.746257 C 250.328309 229.732514 239.744626 240.29 165.688919 240.29 L 90.319393 240.29 C 16.26369 240.29 5.68 229.732514 5.68 155.746257 L 5.68 96.495462 C 5.68 22.508801 16.26369 11.951604 90.319393 11.951604 L 165.688919 11.951604 Z"/>
  </g>
@@ -33,16 +33,16 @@
   <g opacity=".4" filter="url(#MDQFDqpaZDwPVn7TEQGzFEzY2wyndXcN)">
    <circle cx="94.028" cy="114.329" r="38.528" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#CCCCCC" cx="94.028" cy="111.843" r="38.528" vector-effect="non-scaling-stroke"/>
+  <circle fill="#cccccc" cx="94.028" cy="111.843" r="38.528" vector-effect="non-scaling-stroke"/>
   <g opacity=".2">
-   <path fill="#FFFFFF" d="M 94.028141 73.314896 C 72.749637 73.314898 55.500001 90.564533 55.5 111.843037 C 55.508616 112.328817 55.526421 112.814388 55.553403 113.299494 C 56.110701 92.444709 73.165922 75.822055 94.028141 75.800583 C 114.729909 75.814481 131.720309 92.185292 132.502879 112.872267 C 132.525267 112.529445 132.543074 112.186338 132.556283 111.843037 C 132.556283 90.564533 115.306646 73.314898 94.028141 73.314896 L 94.028141 73.314896 Z"/>
+   <path fill="#ffffff" d="M 94.028141 73.314896 C 72.749637 73.314898 55.500001 90.564533 55.5 111.843037 C 55.508616 112.328817 55.526421 112.814388 55.553403 113.299494 C 56.110701 92.444709 73.165922 75.822055 94.028141 75.800583 C 114.729909 75.814481 131.720309 92.185292 132.502879 112.872267 C 132.525267 112.529445 132.543074 112.186338 132.556283 111.843037 C 132.556283 90.564533 115.306646 73.314898 94.028141 73.314896 L 94.028141 73.314896 Z"/>
   </g>
   <linearGradient id="_lgradient_91" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(27.342552,0,0,27.342552,80.356865,90.714702)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#07B3FF"/>
-   <stop offset="100%" style="stop-color:#007DE8"/>
+   <stop offset="0%" style="stop-color:#07b3ff"/>
+   <stop offset="100%" style="stop-color:#007de8"/>
   </linearGradient>
   <circle fill="url(#_lgradient_91)" cx="94.028" cy="104.386" r="13.671" vector-effect="non-scaling-stroke"/>
-  <circle fill="#3F3F3F" cx="94.028" cy="104.386" r="3.729" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3f3f3f" cx="94.028" cy="104.386" r="3.729" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="QcCmdafanPpvT07a8WAabWOmtsoLoPjH" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -51,15 +51,15 @@
   <g opacity=".4" filter="url(#QcCmdafanPpvT07a8WAabWOmtsoLoPjH)">
    <circle cx="152.027" cy="134.214" r="48.471" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#E4E4E4" cx="152.027" cy="131.729" r="48.471" vector-effect="non-scaling-stroke"/>
+  <circle fill="#e4e4e4" cx="152.027" cy="131.729" r="48.471" vector-effect="non-scaling-stroke"/>
   <linearGradient id="_lgradient_92" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(42.256671,0,0,42.256671,137.527656,103.143135)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#07B3FF"/>
-   <stop offset="100%" style="stop-color:#007DE8"/>
+   <stop offset="0%" style="stop-color:#07b3ff"/>
+   <stop offset="100%" style="stop-color:#007de8"/>
   </linearGradient>
   <circle fill="url(#_lgradient_92)" cx="158.656" cy="124.271" r="21.128" vector-effect="non-scaling-stroke"/>
-  <circle fill="#3F3F3F" cx="158.656" cy="124.271" r="6.214" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3f3f3f" cx="158.656" cy="124.271" r="6.214" vector-effect="non-scaling-stroke"/>
   <g opacity=".2">
-   <path fill="#FFFFFF" d="M 152.029112 83.257642 C 125.259381 83.257642 103.558225 104.958799 103.558225 131.72853 C 103.568726 132.214253 103.586529 132.699795 103.611628 133.184987 C 104.171179 106.838795 125.676989 85.766423 152.029112 85.743329 C 178.219499 85.760359 199.659626 106.579192 200.446597 132.757759 C 200.468045 132.414885 200.485843 132.071783 200.5 131.72853 C 200.5 104.958799 178.798848 83.257642 152.029112 83.257642 Z"/>
+   <path fill="#ffffff" d="M 152.029112 83.257642 C 125.259381 83.257642 103.558225 104.958799 103.558225 131.72853 C 103.568726 132.214253 103.586529 132.699795 103.611628 133.184987 C 104.171179 106.838795 125.676989 85.766423 152.029112 85.743329 C 178.219499 85.760359 199.659626 106.579192 200.446597 132.757759 C 200.468045 132.414885 200.485843 132.071783 200.5 131.72853 C 200.5 104.958799 178.798848 83.257642 152.029112 83.257642 Z"/>
   </g>
  </g>
 </svg>

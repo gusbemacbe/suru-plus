@@ -10,9 +10,9 @@
  </defs>
  <g filter="url(#jYPa1hhrbdFVNrkKtd7joF8NnCzCntle)">
   <linearGradient id="_lgradient_0" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FF6D57"/>
-   <stop offset="50%" style="stop-color:#FF5160"/>
-   <stop offset="100%" style="stop-color:#F50F22"/>
+   <stop offset="0%" style="stop-color:#ff6d57"/>
+   <stop offset="50%" style="stop-color:#ff5160"/>
+   <stop offset="100%" style="stop-color:#f50f22"/>
   </linearGradient>
   <path fill="url(#_lgradient_0)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -61,10 +61,10 @@
    </g>
   </g>
   <g>
-   <rect fill="#FFFFFF" width="20.233" height="94.419" x="67.3" y="55.5" transform="matrix(1,0,0,1,0,0)"/>
-   <rect fill="#FFFFFF" width="20.233" height="114.651" x="101.02" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
-   <rect fill="#FFFFFF" width="20.233" height="114.651" x="134.74" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
-   <rect fill="#FFFFFF" width="20.233" height="67.442" x="168.47" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
+   <rect fill="#ffffff" width="20.233" height="94.419" x="67.3" y="55.5" transform="matrix(1,0,0,1,0,0)"/>
+   <rect fill="#ffffff" width="20.233" height="114.651" x="101.02" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
+   <rect fill="#ffffff" width="20.233" height="114.651" x="134.74" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
+   <rect fill="#ffffff" width="20.233" height="67.442" x="168.47" y="82.48" transform="matrix(1,0,0,1,0,0)"/>
   </g>
  </g>
 </svg>

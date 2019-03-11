@@ -9,7 +9,7 @@
   </filter>
  </defs>
  <g filter="url(#M8osjUnfnUG8hidoJVR9eUL1nqsLUPz1)">
-  <path fill="#62237C" d="M 165.709 11.9 C 239.765 11.9 250.348 22.457 250.348 96.444 L 250.348 155.695 C 250.348 229.681 239.765 240.238 165.709 240.238 L 90.339 240.238 C 16.284 240.238 5.7 229.681 5.7 155.695 L 5.7 96.444 C 5.7 22.457 16.284 11.9 90.339 11.9 L 165.709 11.9 Z"/>
+  <path fill="#62237c" d="M 165.709 11.9 C 239.765 11.9 250.348 22.457 250.348 96.444 L 250.348 155.695 C 250.348 229.681 239.765 240.238 165.709 240.238 L 90.339 240.238 C 16.284 240.238 5.7 229.681 5.7 155.695 L 5.7 96.444 C 5.7 22.457 16.284 11.9 90.339 11.9 L 165.709 11.9 Z"/>
  </g>
  <g opacity=".4">
   <linearGradient id="_lgradient_42" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
@@ -28,7 +28,7 @@
  <g opacity=".4" filter="url(#Or8tGlFm0ZQBZ0uicgBuAQvvfsd7WDMb)">
   <path d="M 160.275 85.381 L 92.183 203.545 L 109.05 203.545 L 125.253 174.004 L 179.085 174.004 L 183.874 203.545 L 200.5 203.545 L 178.411 85.381 L 160.275 85.381 Z M 166.295 101.132 L 176.459 159.234 L 133.513 159.234 L 166.295 101.132 Z"/>
  </g>
- <path fill="#FFFFFF" d="M 160.275 81.688 L 92.183 199.853 L 109.05 199.853 L 125.253 170.312 L 179.085 170.312 L 183.874 199.853 L 200.5 199.853 L 178.411 81.688 L 160.275 81.688 Z M 166.295 97.44 L 176.459 155.541 L 133.513 155.541 L 166.295 97.44 Z"/>
+ <path fill="#ffffff" d="M 160.275 81.688 L 92.183 199.853 L 109.05 199.853 L 125.253 170.312 L 179.085 170.312 L 183.874 199.853 L 200.5 199.853 L 178.411 81.688 L 160.275 81.688 Z M 166.295 97.44 L 176.459 155.541 L 133.513 155.541 L 166.295 97.44 Z"/>
  <g>
   <defs>
    <filter id="Yf5bVfG6S5CdChU5Y3ws5ivoeTcmBT7x" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -54,8 +54,8 @@
   <g opacity=".4" filter="url(#lrcFQiPFtpLw3N77E14ArYg0cplsg8ts)">
    <circle cx="102.167" cy="60.344" r="11.111" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#AC7ECE" cx="46.611" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
-  <circle fill="#AC7ECE" cx="74.389" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
-  <circle fill="#AC7ECE" cx="102.167" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ac7ece" cx="46.611" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ac7ece" cx="74.389" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ac7ece" cx="102.167" cy="57.566" r="11.111" vector-effect="non-scaling-stroke"/>
  </g>
 </svg>

@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#yeLKbII8IZy6rvz98ICCoYOWyKLzFyRs)">
   <linearGradient id="_lgradient_35" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#545E63"/>
-   <stop offset="100%" style="stop-color:#343B40"/>
+   <stop offset="0%" style="stop-color:#545e63"/>
+   <stop offset="100%" style="stop-color:#343b40"/>
   </linearGradient>
   <path fill="url(#_lgradient_35)" d="M 165.439 11.452 C 239.495 11.452 250.078 22.009 250.078 95.995 L 250.078 155.246 C 250.078 229.233 239.495 239.79 165.439 239.79 L 90.069 239.79 C 16.014 239.79 5.43 229.233 5.43 155.246 L 5.43 95.995 C 5.43 22.009 16.014 11.452 90.069 11.452 L 165.439 11.452 Z"/>
  </g>
@@ -26,12 +26,12 @@
  </g>
  <g>
   <linearGradient id="_lgradient_37" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(165,0,0,165.014,45.5,44.764)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#07B3FF"/>
-   <stop offset="100%" style="stop-color:#007DE8"/>
+   <stop offset="0%" style="stop-color:#07b3ff"/>
+   <stop offset="100%" style="stop-color:#007de8"/>
   </linearGradient>
   <path fill="url(#_lgradient_37)" d="M 169.24 55.829 C 129.784 33.049 79.332 46.568 56.552 86.024 C 45.613 104.971 42.649 127.488 48.311 148.621 C 53.974 169.754 67.799 187.772 86.747 198.711 C 126.203 221.491 176.654 207.973 199.434 168.517 C 222.214 129.061 208.696 78.609 169.24 55.829 L 169.24 55.829 Z"/>
-  <path fill="#FFFFFF" d="M 169.684 74.265 L 164.439 90.4 L 181.024 93.975 L 165.906 101.675 L 175.106 115.93 L 158.971 110.685 L 155.396 127.27 L 147.696 112.152 L 133.441 121.352 L 138.687 105.217 L 122.101 101.642 L 137.22 93.942 L 128.019 79.687 L 144.154 84.933 L 147.729 68.347 L 155.429 83.465 L 169.684 74.265 Z"/>
-  <path fill="none" stroke="#3F3F3F" stroke-dasharray="12" stroke-linecap="square" stroke-width="6" d="M 85.274 52.143 C 67.597 116.959 90.259 165.442 135.359 211.236" vector-effect="non-scaling-stroke"/>
-  <path fill="none" stroke="#3F3F3F" stroke-dasharray="12" stroke-linecap="square" stroke-width="6" d="M 209.013 125.797 C 162.576 171.998 111.789 181.775 52.866 164.098" vector-effect="non-scaling-stroke"/>
+  <path fill="#ffffff" d="M 169.684 74.265 L 164.439 90.4 L 181.024 93.975 L 165.906 101.675 L 175.106 115.93 L 158.971 110.685 L 155.396 127.27 L 147.696 112.152 L 133.441 121.352 L 138.687 105.217 L 122.101 101.642 L 137.22 93.942 L 128.019 79.687 L 144.154 84.933 L 147.729 68.347 L 155.429 83.465 L 169.684 74.265 Z"/>
+  <path fill="none" stroke="#3f3f3f" stroke-dasharray="12" stroke-linecap="square" stroke-width="6" d="M 85.274 52.143 C 67.597 116.959 90.259 165.442 135.359 211.236" vector-effect="non-scaling-stroke"/>
+  <path fill="none" stroke="#3f3f3f" stroke-dasharray="12" stroke-linecap="square" stroke-width="6" d="M 209.013 125.797 C 162.576 171.998 111.789 181.775 52.866 164.098" vector-effect="non-scaling-stroke"/>
  </g>
 </svg>

@@ -10,9 +10,9 @@
  </defs>
  <g filter="url(#80Xb4th7yWWlVe1GgX087k2ucPazlXT0)">
   <linearGradient id="_lgradient_83" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FFB357"/>
-   <stop offset="50%" style="stop-color:#FF8B51"/>
-   <stop offset="100%" style="stop-color:#F55C0F"/>
+   <stop offset="0%" style="stop-color:#ffb357"/>
+   <stop offset="50%" style="stop-color:#ff8b51"/>
+   <stop offset="100%" style="stop-color:#f55c0f"/>
   </linearGradient>
   <path fill="url(#_lgradient_83)" d="M 165.688919 11.951604 C 239.744626 11.951604 250.328309 22.508801 250.328309 96.495462 L 250.328309 155.746257 C 250.328309 229.732514 239.744626 240.29 165.688919 240.29 L 90.319393 240.29 C 16.26369 240.29 5.68 229.732514 5.68 155.746257 L 5.68 96.495462 C 5.68 22.508801 16.26369 11.951604 90.319393 11.951604 L 165.688919 11.951604 Z"/>
  </g>
@@ -34,9 +34,9 @@
    </linearGradient>
    <path fill="url(#_lgradient_85)" d="M 246.292001 150.43299 C 175.738002 150.728995 165.524997 161.917991 165.524997 234.247001 L 165.524997 240.29 L 184.666667 240.000007 L 204.88 230.400001 L 246.292001 150.43299 L 246.292001 150.43299 L 246.292001 150.43299 Z"/>
   </g>
-  <path fill="#5D5D5D" d="M 169.562999 240.29 C 240.117 239.993995 250.33 228.804999 250.33 156.475989 L 250.33 150.43299 L 169.562999 240.29 L 169.562999 240.29 L 169.562999 240.29 Z"/>
+  <path fill="#5d5d5d" d="M 169.562999 240.29 C 240.117 239.993995 250.33 228.804999 250.33 156.475989 L 250.33 150.43299 L 169.562999 240.29 L 169.562999 240.29 L 169.562999 240.29 Z"/>
   <linearGradient id="_lgradient_86" x1=".854" x2="-2.24" y1=".146" y2="3.353" gradientTransform="matrix(0,89.85701,-80.767001,0,250.33,150.43299)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FAF8F6"/>
+   <stop offset="0%" style="stop-color:#faf8f6"/>
    <stop offset="100%" style="stop-color:#000"/>
   </linearGradient>
   <path fill="url(#_lgradient_86)" d="M 250.33 150.43299 C 179.777003 150.728995 169.562999 161.917991 169.562999 234.247001 L 169.562999 240.29 L 250.33 150.43299 L 250.33 150.43299 L 250.33 150.43299 Z"/>

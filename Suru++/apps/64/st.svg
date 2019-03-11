@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#lcOozFLbMCNOyTQIBwCKlUD6HdOX6qRE)">
   <linearGradient id="_lgradient_409" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4D4D4D"/>
+   <stop offset="0%" style="stop-color:#4d4d4d"/>
    <stop offset="100%" style="stop-color:#333"/>
   </linearGradient>
   <path fill="url(#_lgradient_409)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
@@ -17,8 +17,8 @@
  </defs>
  <g filter="url(#XBJpy3z8XzzPFMiffLwpShrr70DECVVV)">
   <linearGradient id="_lgradient_410" x1=".51" x2=".512" y1="1.06" y2=".609" gradientTransform="matrix(145,0,0,72.5,55.5,91.75)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#009A56"/>
-   <stop offset="100%" style="stop-color:#46A926"/>
+   <stop offset="0%" style="stop-color:#009a56"/>
+   <stop offset="100%" style="stop-color:#46a926"/>
   </linearGradient>
   <path fill="url(#_lgradient_410)" d="M 55.5 140.083 L 79.667 140.083 L 79.667 91.75 L 200.5 91.75 L 200.5 115.917 L 176.333 115.917 L 176.333 164.25 L 152.167 164.25 L 152.167 115.917 L 103.833 115.917 L 103.833 164.25 L 55.5 164.25 L 55.5 140.083 L 55.5 140.083 Z"/>
  </g>

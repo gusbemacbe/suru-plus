@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#bmMnw2e5k83EofH8f0pznMwQ5PIqTfTb)">
   <linearGradient id="_lgradient_100" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <path fill="url(#_lgradient_100)" d="M 165.439 11.452 C 239.495 11.452 250.078 22.009 250.078 95.995 L 250.078 155.246 C 250.078 229.233 239.495 239.79 165.439 239.79 L 90.069 239.79 C 16.014 239.79 5.43 229.233 5.43 155.246 L 5.43 95.995 C 5.43 22.009 16.014 11.452 90.069 11.452 L 165.439 11.452 Z"/>
  </g>
@@ -35,34 +35,34 @@
   </g>
   <defs>
    <linearGradient id="_lgradient_102" x1=".567" x2=".567" y1="1.071" y2="-.742">
-    <stop offset="0%" style="stop-color:#A0A0A0"/>
-    <stop offset="100%" style="stop-color:#DFDFDF"/>
+    <stop offset="0%" style="stop-color:#a0a0a0"/>
+    <stop offset="100%" style="stop-color:#dfdfdf"/>
    </linearGradient>
   </defs>
   <path d="M 125.568 40.432 L 125.568 40.432 C 174.137 40.432 213.568 79.863 213.568 128.432 L 213.568 128.432 C 213.568 177.001 174.137 216.432 125.568 216.432 L 125.568 216.432 C 77 216.432 37.568 177.001 37.568 128.432 L 37.568 128.432 C 37.568 79.863 77 40.432 125.568 40.432 Z" style="fill:url(#_lgradient_102)"/>
   <linearGradient id="_lgradient_103" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(154,0,0,154.005,48.568,51.432)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4C5561"/>
-   <stop offset="100%" style="stop-color:#2E3842"/>
+   <stop offset="0%" style="stop-color:#4c5561"/>
+   <stop offset="100%" style="stop-color:#2e3842"/>
   </linearGradient>
   <ellipse fill="url(#_lgradient_103)" cx="125.568" cy="128.434" rx="77" ry="77.002" vector-effect="non-scaling-stroke"/>
   <linearGradient id="_lgradient_104" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(132,0,0,132.004,59.568,62.432)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#E0E5E7"/>
-   <stop offset="100%" style="stop-color:#C7CED2"/>
+   <stop offset="0%" style="stop-color:#e0e5e7"/>
+   <stop offset="100%" style="stop-color:#c7ced2"/>
   </linearGradient>
   <ellipse fill="url(#_lgradient_104)" cx="125.568" cy="128.434" rx="66" ry="66.002" vector-effect="non-scaling-stroke"/>
   <radialGradient id="_rgradient_1" cx=".5" cy=".5" r=".5" fx=".516" fy=".498" gradientTransform="matrix(116.935,-31.333,31.334,116.939,53.481,84.559)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#FFEB00"/>
-   <stop offset="100%" style="stop-color:#FFA100"/>
+   <stop offset="0%" style="stop-color:#ffeb00"/>
+   <stop offset="100%" style="stop-color:#ffa100"/>
   </radialGradient>
   <path fill="url(#_rgradient_1)" d="M 67.071 144.359 C 58.424 112.088 77.602 78.869 109.871 70.223 C 142.14 61.576 175.359 80.756 184.005 113.026 C 192.652 145.296 173.474 178.515 141.205 187.162 C 108.936 195.808 75.717 176.629 67.071 144.359 Z"/>
   <linearGradient id="_lgradient_105" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(55.06,0,0,55.064,98.008,101.16)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#2B2E30"/>
-   <stop offset="100%" style="stop-color:#1E1F1F"/>
+   <stop offset="0%" style="stop-color:#2b2e30"/>
+   <stop offset="100%" style="stop-color:#1e1f1f"/>
   </linearGradient>
   <ellipse fill="url(#_lgradient_105)" cx="125.538" cy="128.692" rx="27.53" ry="27.532" vector-effect="non-scaling-stroke"/>
   <radialGradient id="_rgradient_2" cx=".5" cy=".5" r=".5" fx=".5" fy=".5" gradientTransform="matrix(42.558,-11.404,11.404,42.562,98.557,113.113)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#545E63"/>
-   <stop offset="100%" style="stop-color:#343B40"/>
+   <stop offset="0%" style="stop-color:#545e63"/>
+   <stop offset="100%" style="stop-color:#343b40"/>
   </radialGradient>
   <path fill="url(#_rgradient_2)" d="M 104.259 134.394 C 101.112 122.648 108.092 110.558 119.836 107.411 C 131.58 104.264 143.67 111.245 146.817 122.99 C 149.964 134.735 142.984 146.826 131.24 149.973 C 119.496 153.12 107.406 146.139 104.259 134.394 Z"/>
  </g>
