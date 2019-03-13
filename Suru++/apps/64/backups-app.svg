@@ -15,8 +15,8 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
- <path fill="none" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".2" d="M91.031 32.5h73.938c35.567 0 51.638 3.765 57.451 9.57 5.813 5.805 9.58 21.838 9.58 57.368v58.125c0 35.529-3.767 51.562-9.58 57.367-5.813 5.805-21.884 9.57-57.451 9.57H91.031c-35.567 0-51.638-3.765-57.451-9.57-5.813-5.805-9.58-21.838-9.58-57.367V99.438c0-35.53 3.767-51.563 9.58-57.368 5.813-5.805 21.884-9.57 57.451-9.57z" vector-effect="non-scaling-stroke"/>
+ <path fill="#ffffff" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
+ <path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".2" d="M91.031 32.5h73.938c35.567 0 51.638 3.765 57.451 9.57 5.813 5.805 9.58 21.838 9.58 57.368v58.125c0 35.529-3.767 51.562-9.58 57.367-5.813 5.805-21.884 9.57-57.451 9.57H91.031c-35.567 0-51.638-3.765-57.451-9.57-5.813-5.805-9.58-21.838-9.58-57.367V99.438c0-35.53 3.767-51.563 9.58-57.368 5.813-5.805 21.884-9.57 57.451-9.57z" vector-effect="non-scaling-stroke"/>
  <path fill="none" stroke="#3b3b3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M91.031 31.5h73.938c35.567 0 51.638 3.765 57.451 9.57 5.813 5.805 9.58 21.838 9.58 57.367v58.125c0 35.53-3.767 51.563-9.58 57.368-5.813 5.805-21.884 9.57-57.451 9.57H91.031c-35.567 0-51.638-3.765-57.451-9.57-5.813-5.805-9.58-21.838-9.58-57.368V98.437c0-35.529 3.767-51.562 9.58-57.367 5.813-5.805 21.884-9.57 57.451-9.57z" vector-effect="non-scaling-stroke"/>
  <defs>
   <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -24,11 +24,11 @@
   </filter>
  </defs>
  <circle opacity=".1" cx="128" cy="89.5" r="40" filter="url(#c)" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" cx="128" cy="87.5" r="40" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" cx="128" cy="87.5" r="40" vector-effect="non-scaling-stroke"/>
  <circle fill="#cdcdcd" cx="128" cy="87.5" r="34" vector-effect="non-scaling-stroke"/>
- <circle fill="#666" cx="128" cy="87.5" r="28" vector-effect="non-scaling-stroke"/>
+ <circle fill="#666666" cx="128" cy="87.5" r="28" vector-effect="non-scaling-stroke"/>
  <path fill="#f7f7f7" d="M128 59.5l-5.953 8.93A19.998 19.998 0 0 0 108 87.5c0 10.27 7.776 18.87 17.994 19.9 10.218 1.03 19.555-5.846 21.604-15.909 2.049-10.063-3.857-20.042-13.664-23.089L128 59.5z"/>
- <path fill="#FFF" d="M128 65.1l-4.763 7.144A16 16 0 0 0 112 87.5c0 4.243 1.686 8.313 4.686 11.314 6.25 6.247 16.379 6.247 22.628 0a16 16 0 0 0-6.567-26.592L128 65.1z"/>
+ <path fill="#ffffff" d="M128 65.1l-4.763 7.144A16 16 0 0 0 112 87.5c0 4.243 1.686 8.313 4.686 11.314 6.25 6.247 16.379 6.247 22.628 0a16 16 0 0 0-6.567-26.592L128 65.1z"/>
  <defs>
   <filter id="d" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation=".792"/>
@@ -43,11 +43,11 @@
  </defs>
  <circle opacity=".1" cx="128" cy="169.5" r="12" filter="url(#e)" vector-effect="non-scaling-stroke"/>
  <circle fill="#e6e6e6" cx="128" cy="167.5" r="12" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" cx="128" cy="167.5" r="8" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" cx="128" cy="167.5" r="8" vector-effect="non-scaling-stroke"/>
  <g opacity=".4">
   <linearGradient id="f" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

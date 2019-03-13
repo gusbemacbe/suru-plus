@@ -15,14 +15,14 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
+ <path fill="#ffffff" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
  <path fill="#00b4e1" fill-rule="evenodd" d="M69.446 122.721h99.72c11.66 6.374 17.777 18.565 18.332 36.55.227 22.135-18.162 39.672-39.445 39.729H69.446v-76.279zm0 0h99.72c11.66-5.796 17.027-16.743 16.516-33.259-.341-24.008-16.346-36.045-37.629-36.097H69.446v69.356z"/>
- <path fill="#FFF" d="M86.218 179.516V75.369l74.033.209-5.229 29.278-29.278-.209v16.94h24.259l-1.673 26.978h-23.841l-.418 31.16-37.853-.209z"/>
+ <path fill="#ffffff" d="M86.218 179.516V75.369l74.033.209-5.229 29.278-29.278-.209v16.94h24.259l-1.673 26.978h-23.841l-.418 31.16-37.853-.209z"/>
  <path fill="#b1e1f8" d="M96.675 84.78l-.42 94.791-10.037-.055V75.369l74.033.209-1.579 8.838-61.997.364z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

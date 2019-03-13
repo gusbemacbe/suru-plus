@@ -13,18 +13,18 @@
  <path fill="#922929" d="M110.876 231.54c.045.023.082.05.127.069.118.049.24.06.358.108a39.992 39.992 0 0 1-.485-.177z"/>
  <path fill="#fb7c38" d="M86.336 182.384a41.73 41.73 0 0 0-.647 2.532 41.316 41.316 0 0 0-.824 8.224c.002.922.034 1.844.097 2.764.025.269.054.536.084.804.092 1.162.232 2.32.421 3.47.107.526.224 1.05.351 1.572 3.031 12.916 11.903 24.264 25.058 29.79.161.06.323.119.485.177 2.049.832 4.133 1.384 6.221 1.883l.457.116a41.336 41.336 0 0 0 15.262.222A41.387 41.387 0 0 0 152 225.57a41.714 41.714 0 0 0 5.93-5.76 41.636 41.636 0 0 0 2.503-3.292 41.613 41.613 0 0 0 3.963-7.256 41.23 41.23 0 0 0 2.443-7.896 41.238 41.238 0 0 0 .722-11.154c-.046-.446-.1-.891-.161-1.335-9.075-8.7-29.489-11.5-39.477-2.094-6.277 4.259-15.527 9.428-27.429 6.978-8.823-1.816-14.116-5.102-14.158-11.377z"/>
  <circle fill="#fb7c38" cx="105.814" cy="177.03" r="7.176" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" opacity=".5" cx="150.545" cy="171.232" r="4.416" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" opacity=".5" cx="150.545" cy="171.232" r="4.416" vector-effect="non-scaling-stroke"/>
  <circle fill="#fb7c38" cx="133.099" cy="160.112" r="2.76" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" opacity=".5" cx="148.572" cy="200.566" r="8.832" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" opacity=".5" cx="111.733" cy="219.687" r="4.416" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" opacity=".5" cx="148.572" cy="200.566" r="8.832" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" opacity=".5" cx="111.733" cy="219.687" r="4.416" vector-effect="non-scaling-stroke"/>
  <path fill="#77534f" d="M105.724 87.873l38.183-.085-6.392 15.427-24.461.171-7.33-15.513z"/>
  <path fill="#2b898f" d="M105.13 101.43h40.229v13.296H105.13V101.43z"/>
  <circle fill="#fb7c38" cx="119.121" cy="127.042" r="2.76" vector-effect="non-scaling-stroke"/>
- <circle fill="#FFF" opacity=".5" cx="131.112" cy="140.89" r="4.416" vector-effect="non-scaling-stroke"/>
+ <circle fill="#ffffff" opacity=".5" cx="131.112" cy="140.89" r="4.416" vector-effect="non-scaling-stroke"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

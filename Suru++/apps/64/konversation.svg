@@ -24,11 +24,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" d="M176.333 77.25l-96.666 29v43.5l96.666 29V77.25zm-120.833 29v43.5h19.333v-43.5H55.5zm125.667 4.833v33.834H200.5v-33.834h-19.333zM70 154.583v24.167h14.5v-24.167H70z" filter="url(#c)"/>
+ <path fill="#ffffff" d="M176.333 77.25l-96.666 29v43.5l96.666 29V77.25zm-120.833 29v43.5h19.333v-43.5H55.5zm125.667 4.833v33.834H200.5v-33.834h-19.333zM70 154.583v24.167h14.5v-24.167H70z" filter="url(#c)"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

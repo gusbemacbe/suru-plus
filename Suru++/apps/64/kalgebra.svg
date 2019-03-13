@@ -20,8 +20,8 @@
  <path fill="#aea795" d="M88.778 85.723v9.795h.039l22.487 38.927-22.527 39.006v10.216h78.355v-19.589h-9.794v9.794H99.855l22.752-39.422v-.01l-22.478-38.928h47.414v4.897h9.795V85.718h-62.86l-5.7.005z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

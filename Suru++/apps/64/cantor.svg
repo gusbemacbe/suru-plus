@@ -9,7 +9,7 @@
   </filter>
  </defs>
  <path fill="#e6b66f" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
- <path fill="#FFF" opacity=".2" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
+ <path fill="#ffffff" opacity=".2" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
  <linearGradient id="b" x1=".993" x2=".002" y1=".988" y2=".136" gradientTransform="matrix(220 0 0 205.333 18.003 23.333)" gradientUnits="userSpaceOnUse">
   <stop offset="0%" stop-color="#343b40"/>
   <stop offset="100%" stop-color="#555e63"/>
@@ -47,8 +47,8 @@
  <path fill="#f0f0f0" d="M113.007 163.503v9.995h30v-9.995h-30zm59.181-60.573h-9.183v5.571c-3.463-4.592-7.603-6.549-13.625-6.549-12.345 0-21.227 9.258-21.227 21.979 0 12.571 8.807 21.679 21.001 21.679 5.872 0 9.861-1.882 13.851-6.398v5.42h9.183V102.93zm-21.754 8.205c7.151 0 12.27 5.344 12.27 12.947 0 3.011-1.205 6.474-3.011 8.581-2.033 2.409-5.27 3.764-9.108 3.764-7.302 0-12.345-4.968-12.345-12.27 0-7.602 5.043-13.022 12.194-13.022z"/>
  <g opacity=".4">
   <linearGradient id="g" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

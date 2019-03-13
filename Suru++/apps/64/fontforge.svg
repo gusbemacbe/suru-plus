@@ -13,8 +13,8 @@
  <path fill="#fb7c38" fill-rule="evenodd" d="M120.25 195.022l-.219 5.478c-.998-.039-1.996-.078-2.993-.121l.219-5.474-5.478-.219.121-2.993 5.478.216.215-5.475 2.998.118-.147 3.644 21.582-19.924a5.589 5.589 0 0 1-.355-4.212 5.616 5.616 0 0 1 7.032-3.694c.457.141.881.335 1.266.571l21.922-20.236-3.468-.138.121-2.993 5.477.22.22-5.478 2.993.121-.219 5.474 5.477.22-.12 2.992-5.479-.216-.215 5.475-2.997-.118.13-3.256-21.796 20.125a5.617 5.617 0 0 1-6.65 7.963 5.578 5.578 0 0 1-1.322-.605l-21.274 19.638 3.08.124-.121 2.993-5.478-.22z"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

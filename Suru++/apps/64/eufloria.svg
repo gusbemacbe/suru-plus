@@ -25,7 +25,7 @@
  <g opacity=".192" filter="url(#c)">
   <linearGradient id="d" x2="0" y1=".5" y2="1.5" gradientTransform="translate(45.805 53.34) scale(164.39)" gradientUnits="userSpaceOnUse">
    <stop offset="7.9%" stop-color="#fefefe"/>
-   <stop offset="100%" stop-color="#fff" stop-opacity=".443"/>
+   <stop offset="100%" stop-color="#ffffff" stop-opacity=".443"/>
   </linearGradient>
   <path fill="url(#d)" d="M120.252 53.34h15.496c41.089 0 74.447 33.358 74.447 74.447v15.496c0 41.089-33.358 74.447-74.447 74.447h-15.496c-41.089 0-74.447-33.358-74.447-74.447v-15.496c0-41.089 33.358-74.447 74.447-74.447z"/>
  </g>
@@ -50,8 +50,8 @@
  </g>
  <g opacity=".4">
   <linearGradient id="e" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

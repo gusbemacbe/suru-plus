@@ -9,7 +9,7 @@
   </filter>
   <linearGradient id="_lgradient_0-2" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.64831,0,0,228.3384,1.3527226,283.64321)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#4d4d4d"/>
-   <stop offset="100%" style="stop-color:#333"/>
+   <stop offset="100%" style="stop-color:#333333"/>
   </linearGradient>
   <filter style="color-interpolation-filters:sRGB" id="a" width="4" height="4" x="-2" y="-2" filterUnits="objectBoundingBox">
    <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
@@ -26,8 +26,8 @@
    <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
   </filter>
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>
@@ -41,7 +41,7 @@
  <g style="filter:url(#Tzcz4vEdmITS7wQ3AsSx9hYNK6Mdtix6)">
   <linearGradient id="_lgradient_0" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#4d4d4d"/>
-   <stop offset="100%" style="stop-color:#333"/>
+   <stop offset="100%" style="stop-color:#333333"/>
   </linearGradient>
  </g>
  <path style="isolation:isolate;fill:#666666;filter:url(#a)" d="m 166.35101,13.27999 c 74.056,0 84.64,10.557 84.64,84.544 v 59.251 c 0,73.986 -10.584,84.544 -84.64,84.544 h -75.369 c -74.056,0 -84.639,-10.558 -84.639,-84.544 v -59.251 c 0,-73.987 10.583,-84.544 84.639,-84.544 z"/>

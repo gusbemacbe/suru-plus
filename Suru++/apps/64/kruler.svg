@@ -25,8 +25,8 @@
  <path fill="#d0391f" fill-rule="evenodd" opacity=".99" d="M225.86 153.712v48.926h12.232v-48.926H225.86zm-30.58 0v48.926h12.231v-48.926H195.28zm-61.163 0v48.926h12.233v-48.926h-12.233zm-30.581 0v48.926h12.232v-48.926h-12.232zm-61.163 0v48.926h12.232v-48.926H42.373zm-30.582 0v48.926h12.233v-48.926H11.791zm152.908-18.348v67.274h12.232v-67.274h-12.232zm-91.745 0v67.274h12.233v-67.274H72.954zm-60.971 79.505c.257.635.453 1.364.728 1.971a39.562 39.562 0 0 0 3.259 5.859c1.087 1.605 2.32 3.041 3.629 4.402h216.847c1.309-1.361 2.542-2.797 3.629-4.402a39.562 39.562 0 0 0 3.259-5.859c.275-.607.471-1.336.728-1.971H11.983z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 13.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

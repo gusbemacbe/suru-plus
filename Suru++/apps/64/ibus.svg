@@ -24,12 +24,12 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" d="M128 53c-9.746 0-17.647 7.901-17.647 17.647A17.644 17.644 0 0 0 128 88.294a17.644 17.644 0 0 0 17.647-17.647C145.647 60.901 137.746 53 128 53zm-35.294 52.941v17.647h17.647v61.765H92.706V203h70.588v-17.647h-17.647v-79.412H92.706z" filter="url(#c)"/>
- <path fill="#FFF" opacity=".1" d="M6.357 83.58l205.409 153.03c-11.562 2.311-26.426 3.019-45.523 3.019h-75.37c-74.055 0-84.639-10.558-84.639-84.544V95.834c0-4.303.041-8.37.123-12.254z"/>
+ <path fill="#ffffff" d="M128 53c-9.746 0-17.647 7.901-17.647 17.647A17.644 17.644 0 0 0 128 88.294a17.644 17.644 0 0 0 17.647-17.647C145.647 60.901 137.746 53 128 53zm-35.294 52.941v17.647h17.647v61.765H92.706V203h70.588v-17.647h-17.647v-79.412H92.706z" filter="url(#c)"/>
+ <path fill="#ffffff" opacity=".1" d="M6.357 83.58l205.409 153.03c-11.562 2.311-26.426 3.019-45.523 3.019h-75.37c-74.055 0-84.639-10.558-84.639-84.544V95.834c0-4.303.041-8.37.123-12.254z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

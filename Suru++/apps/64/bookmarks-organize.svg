@@ -88,8 +88,8 @@
   <path fill="#fee1c2" d="M143.253 175.744l-51.726 24.138 24.139-51.725 5.173-5.173 27.586 27.587-5.172 5.173z"/>
   <path fill="#5d5d5d" d="M99.205 183.422l-7.678 16.46 16.461-7.678s1.628-.958.773-1.813c-.854-.854-3.425.023-3.425.023s1.709-2.601-.006-4.316c-1.715-1.715-4.316-.006-4.316-.006s.859-2.59-.004-3.452c-.862-.862-1.805.782-1.805.782z"/>
   <linearGradient id="j" x1=".277" x2=".519" y1=".479" y2=".718" gradientTransform="matrix(114.495 0 0 114.496 115.666 61.248)" gradientUnits="userSpaceOnUse">
-   <stop offset="2.174%" stop-color="#f90"/>
-   <stop offset="27.391%" stop-color="#f90"/>
+   <stop offset="2.174%" stop-color="#ff9900"/>
+   <stop offset="27.391%" stop-color="#ff9900"/>
    <stop offset="28.696%" stop-color="#c37602"/>
    <stop offset="70.435%" stop-color="#c37602"/>
    <stop offset="72.609%" stop-color="#9f6002"/>
@@ -112,7 +112,7 @@
    <stop offset="100%" stop-color="#5bdbc1"/>
   </linearGradient>
   <path fill="url(#l)" d="M5.676 101.019v48.93h8.155v-48.93H5.676zm236.493 0v48.93h8.155v-48.93h-8.155z"/>
-  <path fill="#FFF" d="M5.676 101.019v1.02h8.155v-1.02H5.676zm236.493 0v1.02h8.155v-1.02h-8.155z"/>
+  <path fill="#ffffff" d="M5.676 101.019v1.02h8.155v-1.02H5.676zm236.493 0v1.02h8.155v-1.02h-8.155z"/>
  </g>
  <defs>
   <filter id="k" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -125,8 +125,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="m" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

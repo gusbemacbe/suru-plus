@@ -13,10 +13,10 @@
   <path fill="#31c6b7" d="M156.803 188.096c-6.047 10.696-23.163 11.255-28.744.186-4.558 10.138-23.534 11.441-27.72-.093-.131 10.269-27.943 11.019-27.999 0l.372-73.384c-.093-45.853 27.746-59.93 55.163-59.93 31.958.25 56.834 13.798 56.462 59.744v73.756c.059 10.521-27.629 10.646-27.534-.279z"/>
   <ellipse fill="#2b898f" cx="108.75" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#ebebeb" cx="110.238" cy="108.24" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
-  <ellipse fill="#333" cx="120.284" cy="108.612" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
+  <ellipse fill="#333333" cx="120.284" cy="108.612" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#2b898f" cx="159.353" cy="111.217" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#ebebeb" cx="161.399" cy="107.961" rx="14.883" ry="14.881" vector-effect="non-scaling-stroke"/>
-  <ellipse fill="#333" cx="171.445" cy="108.984" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
+  <ellipse fill="#333333" cx="171.445" cy="108.984" rx="4.465" ry="4.464" vector-effect="non-scaling-stroke"/>
  </g>
  <defs>
   <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -29,8 +29,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

@@ -15,7 +15,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" opacity=".1" d="M249.643 83.58L44.234 236.61c11.562 2.311 26.426 3.019 45.523 3.019h75.37c74.055 0 84.639-10.558 84.639-84.544V95.834c0-4.303-.041-8.37-.123-12.254z"/>
+ <path fill="#ffffff" opacity=".1" d="M249.643 83.58L44.234 236.61c11.562 2.311 26.426 3.019 45.523 3.019h75.37c74.055 0 84.639-10.558 84.639-84.544V95.834c0-4.303-.041-8.37-.123-12.254z"/>
  <defs>
   <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -28,8 +28,8 @@
  <path fill="#e97cc8" d="M121.958 125.999c0-1.74-.649-3.482-1.95-4.783L93.511 94.721c-2.603-2.602-6.958-2.599-9.56.003l-26.497 26.495c-2.603 2.602-2.606 6.961-.004 9.563l26.497 26.495c2.602 2.602 6.961 2.602 9.563 0l26.498-26.495c1.301-1.301 1.95-3.043 1.95-4.783z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

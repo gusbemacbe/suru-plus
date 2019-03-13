@@ -15,8 +15,8 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
- <path fill="#FFF" opacity=".2" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
+ <path fill="#ffffff" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
+ <path fill="#ffffff" opacity=".2" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
  <defs>
   <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
@@ -31,8 +31,8 @@
  <path fill="#da1636" d="M166.571 74h-5.142a7.718 7.718 0 0 0-7.715 7.714v87.429a7.718 7.718 0 0 0 7.715 7.714h5.142a7.718 7.718 0 0 0 7.715-7.714V81.714A7.718 7.718 0 0 0 166.571 74z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

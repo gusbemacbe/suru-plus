@@ -13,8 +13,8 @@
  <path fill="#bc1938" d="M127.5 45C82.025 45 45 82.025 45 127.5S82.025 210 127.5 210s82.5-37.025 82.5-82.5S172.975 45 127.5 45zm0 15c37.368 0 67.5 30.132 67.5 67.5 0 15.791-5.381 30.288-14.414 41.767-30.435-30.236-71.274-68.601-93.618-95.801C98.244 65.006 112.27 60 127.5 60zM75.048 84.946c23.898 28.876 64.087 66.427 93.824 95.944C157.456 189.738 143.111 195 127.5 195 90.132 195 60 164.868 60 127.5c0-16.155 5.635-30.954 15.048-42.554z"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

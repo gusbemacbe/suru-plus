@@ -46,7 +46,7 @@
    <stop offset="100%" stop-color="#ff7a55"/>
   </linearGradient>
   <circle fill="url(#h)" cx="128" cy="127.998" r="51.965" vector-effect="non-scaling-stroke"/>
-  <g fill="#FFF">
+  <g fill="#ffffff">
    <path d="M110.557 103.634l44.107-8.992v12.324l-44.107 8.992v-12.324z"/>
    <path d="M110.56 103.63h7.102v45.978h-7.102V103.63z"/>
    <path d="M94.566 153.912c-1.268-4.732 2.825-9.946 9.134-11.636 6.309-1.691 12.46.778 13.728 5.51 1.268 4.732-2.825 9.946-9.134 11.636-6.309 1.69-12.46-.779-13.728-5.51zM147.56 96.12h7.102v45.978h-7.102V96.12z"/>
@@ -72,11 +72,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" opacity=".1" d="M249.643 83.58L44.234 236.61c11.562 2.311 26.426 3.019 45.523 3.019h75.37c74.055 0 84.639-10.558 84.639-84.544V95.834c0-4.303-.041-8.37-.123-12.254z"/>
+ <path fill="#ffffff" opacity=".1" d="M249.643 83.58L44.234 236.61c11.562 2.311 26.426 3.019 45.523 3.019h75.37c74.055 0 84.639-10.558 84.639-84.544V95.834c0-4.303-.041-8.37-.123-12.254z"/>
  <g opacity=".4">
   <linearGradient id="k" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

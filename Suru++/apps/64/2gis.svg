@@ -17,8 +17,8 @@
  <path fill="#37a6e6" d="M128.668 50.833c-23.139 0-42.501 19.362-42.501 42.501 0 14.625 2.955 23.349 3.619 25.5h4.881c10.271 0 19.283 6.757 25.052 18.294 5.769 11.538 8.949 28.031 8.949 49.706 0-21.675 3.179-38.167 8.948-49.706 5.768-11.537 14.78-18.294 25.052-18.294h4.881c.664-2.151 3.619-10.875 3.619-25.5 0-23.139-19.362-42.501-42.5-42.501z"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>
