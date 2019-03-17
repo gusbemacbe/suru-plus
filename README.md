@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
-<h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a></h3>
+<h3 align="center">Successor of <a href="https://github.com/Bonandry">@Bonandry</a>’s <a href="https://github.com/Bonandry/SURU-PLUS">Suru++ Ubuntu</a></h3>
 <h3 align="center">A cyberpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <p align="center">
@@ -49,6 +49,7 @@
   - [Snap-built apps](#snap-built-apps)
   - [AppImage-built apps](#appimage-built-apps)
   - [Hardcoded application icons with ugly name](#hardcoded-application-icons-with-ugly-name)
+  - [Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.](#unattractive-icons-of-bluetooth-manager-gigolo-network-wifi-etc)
   - [Hardcoded tray icons](#hardcoded-tray-icons)
   - [Unrecognised and ugly icons](#unrecognised-and-ugly-icons)
     - [Okular icon and other icons](#okular-icon-and-other-icons)
@@ -64,7 +65,7 @@
 
 #### Redesign
 
-Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Bonandry">@Bonandry</a>’s <a href="https://github.com/Bonandry/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
 ![Screenshot](images/preview1-new.png)
 
@@ -278,20 +279,160 @@ Icon=insomnia
 With AppImageLauncher installed, you click an AppImage, it is automatically integrated to `~/Applications`, and desktop files are automatically created into `~/local/share/applications`. But if you modify one of the AppImage-built app desktop file to correct the icon path, AppImageLauncher reverts automatically the desktop file to the original and keeps again the icon path hardcoded. It also removes the option `StartupWMClass`. We recommend you to ban `AppImageLauncher`. 
 
 1. Remove `appimagelauncher` via terminal;
-2. Make all AppImages executable and trusted:
+2. Create `~/Applications/AppImages/`, move all AppImages to this folder. Make all AppImages executable and trusted:
 
 ```bash
 chmod a+x *.AppImage
 ```
 
 3. Reboot;
-4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWNClass` or the icon will be unrecognised or ugly. 
+4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWNClass` or the icon will be unrecognised or ugly. The desktop file, for example, `ColourPicker.desktop`, should be like:
+
+```
+[Desktop Entry]
+Categories = Graphics;
+Comment = A mininal but complete color picker
+Comment[en_GB] = A mininal but complete colour picker
+Exec = $HOME/Applications/AppImages/ColorPicker.AppImages
+GenericName = Color Picker
+GenericName[en_GB] = Colour Picker
+Icon = colorpicker
+Name = Color Picker
+Name[en_GB] = Colour Picker
+StartupNotify = true
+StartupWMClass = ColorPicker
+Terminal = false
+Type = Application
+Version = 1.0
+```
+
+1. To know which `StartupWNClass` name, it is the original same AppImage, for example, see in bold: <b><code>ColorPicker</b>.AppImage</code>. If it does not work, you need to extract the AppImage to figure the `bin` shell name. 
+2. If you are foreigner and want comment and name in your native language, you can add, for example, `Comment[en_GB]`, `GenericName[en_GB]` and `Name[en_GB]`. If to Spanish, it would  be`[es]`, and to Spanish from Mexico, `[es_MX]`. 
+3. The AppImage names should remain original, but if you want to rename, you are free, but for the `StartupWNClass` name, you need to put the original name of that AppImage.
 
 ### Hardcoded application icons with ugly name
 
 We have already icons, but it is wrong or ugly name, or because the icon is hardcoded. For example, the application GitHub Desktop used `Icon=desktop.png` and other apps, like Insomnia, use `Icon=icon.png`, or worse, `Icon=stupid/path/icon.png`. 
 
 To deal with hardcoded application icons we recommend to install [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer). Suru++ supports most of the applications in the list. If [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) doesn't support your favourite app yet, please open an [issue here](https://github.com/Foggalong/hardcode-fixer/issues) or edit your .desktop file manually.
+
+### Unattractive icons of Bluetooth Manager, Gigolo, Network Wifi, etc.
+
+Because the desktop files use the 16px icons of `actions`, `mimetypes`, `panel` and `places` and not the icons of `apps` and `categories`. Therefore, you need to change manually the icon names in the desktop files to catch the icons of `apps`. You can pick of categoric and generic icons:
+
+* `accessibility`
+* `addressbook`
+* `agenda`
+* `application`
+* `applications-engineering`
+* `applications-interfacedesign`
+* `archiver`
+* `audio`
+* `bluetooth`
+* `book`
+* `bookworm`
+* `broom`
+* `browser`
+* `bug`
+* `caffeine`
+* `calculator`
+* `calendar`
+* `camera`
+* `cdrom`
+* `charmap`
+* `chat`
+* `chess`
+* `cipher`
+* `clipboard`
+* `clock`
+* `coin`
+* `color-picker`
+* `colour`
+* `computer`
+* `database`
+* `debian`
+* `desktop`
+* `dictionary`
+* `document`
+* `download`
+* `ebook`
+* `effects`
+* `emacs`
+* `file-manager`
+* `film`
+* `flash`
+* `font`
+* `gameboy`
+* `git`
+* `hammer`
+* `harddisk`
+* `help`
+* `icons`
+* `image-viewer`
+* `image`
+* `java`
+* `keyboard`
+* `kronometer`
+* `language`
+* `leaf`
+* `library`
+* `login`
+* `mail`
+* `maps`
+* `mate`
+* `menu`
+* `microphone`
+* `monitor`
+* `mouse`
+* `music`
+* `network`
+* `night`
+* `notepad`
+* `notification`
+* `package`
+* `paint`
+* `panel`
+* `partitions`
+* `password`
+* `phone`
+* `plasma`
+* `plugin`
+* `power`
+* `ppa`
+* `printer`
+* `programming`
+* `qt`
+* `radio`
+* `ruby`
+* `scissors`
+* `screenshot`
+* `search`
+* `settings`
+* `share`
+* `shield`
+* `shop`
+* `star`
+* `steam`
+* `sublime-text`
+* `subtitleeditor`
+* `tablet`
+* `tag`
+* `television`
+* `terminal`
+* `tool`
+* `update`
+* `upload`
+* `usb`
+* `user`
+* `video-alt`
+* `video-card`
+* `voice`
+* `wallpaper`
+* `weather`
+* `webcam`
+* `wifi`
+* `workspace`
+
 
 ### Hardcoded tray icons
 
@@ -337,7 +478,7 @@ The changelog is available on the release page in theme's repository.
 ## Credits and Licences
 
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
-* GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Magog64/suru-plus) by [Andrea Bonanni](https://github.com/Magog64) and Gustavo Costa.
+* GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
 * GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
 * GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
