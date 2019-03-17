@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=Suru++}"
+: "${THEMES:=Suru++ Suru++-Light eSuru++}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/gusbemacbe"
@@ -14,12 +14,12 @@ gh_desc="Suru++ icon theme"
 
 cat <<- EOF
 
-     _____                                     ___    ___
-    / ____|                       _      _    |__ ⧹  / _ ⧹
-   | (___   _   _  _ __  _   _  _| |_  _| |_     ) || | | |
-    ⧹___ ⧹ | | | || '__|| | | ||_   _||_   _|   / / | | | |
-    ____) || |_| || |   | |_| |  |_|    |_|    / /_ | |_| |
-   |_____/  ⧹__,_||_|    ⧹__,_|               |____| ⧹___/
+     _____                                     
+    / ____|                       _      _    
+   | (___   _   _  _ __  _   _  _| |_  _| |_     
+    ⧹___ ⧹ | | | || '__|| | | ||_   _||_   _|  
+    ____) || |_| || |   | |_| |  |_|    |_|    
+   |_____/  ⧹__,_||_|    ⧹__,_|               
 
 
 
