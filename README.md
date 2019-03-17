@@ -274,6 +274,8 @@ Icon=snap/icons/icon.png
 Icon=insomnia
 ```
 
+4. Run `update-desktop-database` in the terminal.
+
 ### AppImage-built apps
 
 With AppImageLauncher installed, you click an AppImage, it is automatically integrated to `~/Applications`, and desktop files are automatically created into `~/local/share/applications`. But if you modify one of the AppImage-built app desktop file to correct the icon path, AppImageLauncher reverts automatically the desktop file to the original and keeps again the icon path hardcoded. It also removes the option `StartupWMClass`. We recommend you to ban `AppImageLauncher`. 
@@ -306,9 +308,13 @@ Type = Application
 Version = 1.0
 ```
 
-1. To know which `StartupWNClass` name, it is the original same AppImage, for example, see in bold: <b><code>ColorPicker</b>.AppImage</code>. If it does not work, you need to extract the AppImage to figure the `bin` shell name. 
-2. If you are foreigner and want comment and name in your native language, you can add, for example, `Comment[en_GB]`, `GenericName[en_GB]` and `Name[en_GB]`. If to Spanish, it would  be`[es]`, and to Spanish from Mexico, `[es_MX]`. 
-3. The AppImage names should remain original, but if you want to rename, you are free, but for the `StartupWNClass` name, you need to put the original name of that AppImage.
+And run `update-desktop-database`.
+
+**Tips**
+
+* To know which `StartupWNClass` name, it is the original same AppImage, for example, see in bold: <b><code>ColorPicker</b>.AppImage</code>. If it does not work, you need to extract the AppImage to figure the `bin` shell name. 
+* If you are foreigner and want comment and name in your native language, you can add, for example, `Comment[en_GB]`, `GenericName[en_GB]` and `Name[en_GB]`. If to Spanish, it would  be`[es]`, and to Spanish from Mexico, `[es_MX]`. 
+* The AppImage names should remain original, but if you want to rename, you are free, but for the `StartupWNClass` name, you need to put the original name of that AppImage.
 
 ### Hardcoded application icons with ugly name
 
