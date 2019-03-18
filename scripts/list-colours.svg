@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="" height="" version="1.1" viewBox="">
-    <defs>
-        <style id="suru-color-scheme" type="text/css">
-            .SuruColorScheme-default { fill: #5c616c; } 
+<svg width="" height="" version="1.1" viewBox="" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.SuruColorScheme-default { fill: #5c616c; } 
             .SuruColorScheme-arrongin { fill: url(#grad_arrongin); } 
             .SuruColorScheme-black { fill: #3B3B3B; } 
             .SuruColorScheme-blue { fill: #1A7FD4; } 
@@ -20,35 +19,34 @@
             .SuruColorScheme-red { fill: #F22C42; } 
             .SuruColorScheme-telinkrin { fill: url(#grad_telinkrin); } 
             .SuruColorScheme-turquoise { fill: #31C6B7; }
-            .SuruColorScheme-whitesmoke { fill: #ECECEC; }
-        </style>
-        <linearGradient id="grad_arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #FDA463; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #DC6F26; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #1AD6AB; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #329DB6; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_ibiza" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #ff6a00; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #ee0979; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_minoan" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #e2d19f; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #5e1a16; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_mycenean" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #ce3c22; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #b11819; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color: #00F260; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color: #0575E6; stop-opacity:1"/>
-        </linearGradient>
-        <linearGradient id="grad_telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-            <stop offset="0%" style="stop-color:#f99f5e; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color:#f95e6b; stop-opacity:1"/>
-        </linearGradient>
-    </defs>
+            .SuruColorScheme-whitesmoke { fill: #ECECEC; }</style>
+  <linearGradient id="grad_arrongin" x2="0%" y2="100%">
+   <stop style="stop-color:#FDA463" offset="0"/>
+   <stop style="stop-color:#DC6F26" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_fitdance" x2="0%" y2="100%">
+   <stop style="stop-color:#1AD6AB" offset="0"/>
+   <stop style="stop-color:#329DB6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_ibiza" x2="0%" y2="100%">
+   <stop style="stop-color:#ff6a00" offset="0"/>
+   <stop style="stop-color:#ee0979" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_minoan" x2="0%" y2="100%">
+   <stop style="stop-color:#e2d19f" offset="0"/>
+   <stop style="stop-color:#5e1a16" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_mycenean" x2="0%" y2="100%">
+   <stop style="stop-color:#ce3c22" offset="0"/>
+   <stop style="stop-color:#b11819" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_rainblue" x2="0%" y2="100%">
+   <stop style="stop-color:#00F260" offset="0"/>
+   <stop style="stop-color:#0575E6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="grad_telinkrin" x2="0%" y2="100%">
+   <stop style="stop-color:#f99f5e" offset="0"/>
+   <stop style="stop-color:#f95e6b" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

@@ -31,8 +31,8 @@
  <path d="m 210.14727,182 c 21.499,-2.218 38.726,-3.411 38.379,-4.268 -2.614,54.171 -18.206,62.553 -84.194,62.553 H 88.962266 c -54.572,0 -74.676,-5.733 -81.4779997,-38.355 -1.02,-1.153 135.4940037,-12.999 202.6630037,-19.93 z" style="fill:#91b024"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

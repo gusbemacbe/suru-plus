@@ -364,17 +364,17 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Cerebro
   * ChmSee
   * Colour Profile
-  * Compton (@Magog64)
+  * Compton (@Bonandry)
   * Eclipse JEE
-  * EOm (@Magog64)
+  * EOm (@Bonandry)
   * Files (Nemo)
   * Folder Remote
   * Foxit Reader
   * GNOME MPV
   * Google Translator
   * GTK DiskFRee
-  * GTK Hash (@Magog64)
-  * GTK Select Colour (@Magog64)
+  * GTK Hash (@Bonandry)
+  * GTK Select Colour (@Bonandry)
   * GTK3 Demo
   * GTK3 Widget Factory
   * GTK4 Demo
@@ -388,7 +388,7 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * LightDM SEttings
   * MiamPlayer
   * MidnightCommander
-  * Mozo (@Magog64)
+  * Mozo (@Bonandry)
   * Oracle Java 8
   * Osmo
   * Panel Drawer
@@ -396,14 +396,14 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * PyCharm
   * Python 3.5
   * RClock
-  * Remmina (@Magog64)
+  * Remmina (@Bonandry)
   * Revelation
   * Rygel
   * Seahorse Preferences
-  * Softare Properties GTK (@Magog64)
+  * Softare Properties GTK (@Bonandry)
   * Software Center
   * Synthesia
-  * TRON (by @Magog64)
+  * TRON (by @Bonandry)
   * Typora
   * Vidiot
   * Yarock
@@ -508,19 +508,19 @@ Thanks/Спасибо to [@bzhmurov](https://github.com/bzhmurov) for adding the
   * Acorn
   * Adventure Editor
   * Alien Arena
-  * Amnesia Dark Descent (by @Magog64)
+  * Amnesia Dark Descent (by @Bonandry)
   * And Yet It Moves
   * Aspette
   * Assault Cube
-  * Astromenace (by @Magog64)
+  * Astromenace (by @Bonandry)
   * ATomic
-  * Awesomonauts (by @Magog64)
+  * Awesomonauts (by @Bonandry)
   * Halo
   * Origin
 
 # v14 – Venice
 
-Designed @Magog64:
+Designed @Bonandry:
 
 * Improved icons in the `apps`, `mimetypes` and `places`
 * Added icons:
@@ -595,7 +595,7 @@ Icons designed by @gusbemacbe:
 * Added `places` icons:
   * Folder Applications (similar to macOS)
 
-Icons designed by @Magog64:
+Icons designed by @Bonandry:
 
 * Added icons
   * Google Music Player
@@ -622,7 +622,7 @@ Icons designed by @Magog64:
 
 # v13.1
 
-* Due to @paullinuxthemer's suggestions, I and @magog64 decided to separate the GTK, icons themes and wallpapers for the new repositories for facilitating the users who wish to download only the icons themes. Besides, the desktop and cursor theme will be maintained in the Suru++.
+* Due to @paullinuxthemer's suggestions, I and @Bonandry decided to separate the GTK, icons themes and wallpapers for the new repositories for facilitating the users who wish to download only the icons themes. Besides, the desktop and cursor theme will be maintained in the Suru++.
 * We have announced that @gusbemacbe officialised and released the PPA od Suru++ which comes with a full pack:
 
   ```shell

@@ -15,11 +15,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#FFF" d="M171.512 82.463h.001l1.361-2.598V53.5h-26.365l-2.631 2.654-12.44 23.708-3.912 2.639h-44.4v36.206h24.409l2.174 2.63-25.221 48.201h-.002l-1.36 2.597V198.5h26.364l2.631-2.653 12.441-23.708 3.912-2.64h44.4v-36.206h-24.409l-2.172-2.647 25.219-48.183z"/>
+ <path fill="#ffffff" d="M171.512 82.463h.001l1.361-2.598V53.5h-26.365l-2.631 2.654-12.44 23.708-3.912 2.639h-44.4v36.206h24.409l2.174 2.63-25.221 48.201h-.002l-1.36 2.597V198.5h26.364l2.631-2.653 12.441-23.708 3.912-2.64h44.4v-36.206h-24.409l-2.172-2.647 25.219-48.183z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#fff"/>
-   <stop offset="12.5%" stop-color="#fff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ffffff"/>
+   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>
