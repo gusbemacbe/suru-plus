@@ -1,3 +1,38 @@
+# v25.4.0 or XXV.4.0 Tokyo
+
+* Added GNOME PDF and DeVeDe symlinks (#113);
+* Added Pocket Casts, designed by [Jonas Gerier](https://github.com/jgierer12) (#119);
+
+# v25.3.0 or XXV.3.0 Aalst
+
+* Added new icons:
+  * Alva
+  * Cronopete
+  * Dockstation
+  * Edex
+  * elCalc
+  * elementary OS
+  * Figma
+  * Google Web Designer
+  * Optimizer
+  * Listen1 (#108)
+  * Lyrics
+  * VNote (#108)
+
+    <img width="288" alt="new icons of Suru++ 25.3" src="https://user-images.githubusercontent.com/2257024/54568524-3dba3600-49b6-11e9-9fe4-cdc490c1e6f9.png">
+
+* Added new icons with two alternatives, designed by @iLynux8888:
+
+  <img width="288" alt="blake" src="https://user-images.githubusercontent.com/2257024/54568995-1a908600-49b8-11e9-9f0a-71377b52e98e.png">
+
+* Added new GNOME 3.32 icons;
+* Added new missed symlinked icons of AppImage apps;
+* Created eSuru++ for supporting elementary OS, suggested by [@Chamrosh](https://github.com/Chamrosh) (#105);
+* Created Suru++ Light for supporting XFCE light panel, suggested by [@sptndc](https://github.com/sptndc) (#107);
+* Fixed `folder-saved-search.svg`'s wrong icon of elementary OS Code app in eSuru++ (#109);
+* Improved the `color-picker.svg`, suggested by [@Bonandry](https://github.com/Bonandry);
+* Improved the 16px `color-picker-black.svg` to be legible, suggested by [@roachsinai](https://gihtub.com/roachsinai). 
+
 # v25.2.0 or XXV.2.0 – Nantes
 
 * **Gradient support for small icons:** I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](/actionless) and [@SmartFinn](/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!
