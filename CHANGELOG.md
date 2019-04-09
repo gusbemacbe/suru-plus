@@ -1,7 +1,7 @@
 # v25.4.0 or XXV.4.0 Tokyo
 
 * Added GNOME PDF and DeVeDe symlinks (#113);
-* Added Pocket Casts, designed by [Jonas Gerier](https://github.com/jgierer12) (#119);
+* Added Pocket Casts, designed by [Jonas Gierer](https://github.com/jgierer12) (#119);
 
 # v25.3.0 or XXV.3.0 Aalst
 
