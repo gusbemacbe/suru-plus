@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
@@ -44,9 +44,5 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <g transform="translate(0,-48)">
-  <g style="enable-background:new" transform="translate(-377,-317)">
-   <path fill="currentColor" class="ColorScheme-Text" d="M 378,366.00022 V 380.0217 L 387,380 v -5 h 5 v -9.00017 z m 10.00634,9.99974 -0.006,4 4,-4 z"/>
-  </g>
- </g>
+ <path fill="currentColor" class="ColorScheme-Text" fill-rule="evenodd" d="M0 6.53056V0H6.53056V6.53056H0ZM5.22444 1.30611H1.30611V5.22444H5.22444V1.30611ZM15.9265 3.33877C15.9265 5.1422 14.4646 6.60408 12.6612 6.60408C10.8578 6.60408 9.39591 5.1422 9.39591 3.33877C9.39591 1.53539 10.8578 0.0734602 12.6612 0.0734602C14.4646 0.0734602 15.9265 1.53539 15.9265 3.33877ZM1.95918 9.46943H4.57142V11.4286H6.53056V14.0408H4.57142V16H1.95918V14.0408H0V11.4286H1.95918V9.46943ZM12.7347 9.46943L9.46943 16H12.7347H15.5335H16L12.7347 9.46943ZM10.6009 15.3003L12.7347 11.0337V15.3003H10.6009Z" clip-rule="evenodd"/>
 </svg>
