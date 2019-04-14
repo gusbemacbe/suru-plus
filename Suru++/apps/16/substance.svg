@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
@@ -44,9 +44,5 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <g transform="translate(0,-48)">
-  <g style="enable-background:new" transform="translate(-377,-317)">
-   <path fill="currentColor" class="ColorScheme-Text" d="M 378,366.00022 V 380.0217 L 387,380 v -5 h 5 v -9.00017 z m 10.00634,9.99974 -0.006,4 4,-4 z"/>
-  </g>
- </g>
+ <path fill="currentColor" class="ColorScheme-Text" d="M7.91887 0L1 3.89189V7.35139L10.9459 10.8108L7.91887 12.5405L4.02703 10.3784V9.51354L1 8.43241V12.1081L7.91887 16L14.8378 12.1081V8.64861L4.8919 5.18924L7.91887 3.45946L11.8108 5.62164V6.48646L14.8378 7.56759V3.89189L7.91887 0Z"/>
 </svg>
