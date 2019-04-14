@@ -33,15 +33,16 @@ plugins:
   - removeMetadata
 
   # removes editors namespaces, elements and attributes
-  - removeEditorsNSData
+  - removeEditorsNSData:
+        preserve: [ 'inkscape:label' ]
 
   # cleanups attributes from newlines, trailing and repeating spaces
   - cleanupAttrs
 
   # removes unused IDs
-  - cleanupIDs:
-      minify: false
-      preserve: [ 'current-color-scheme' ]
+  # - cleanupIDs:
+  #     minify: false
+  #     preserve: [ 'current-color-scheme' ]
 
   # removes elements in <defs> without id
   - removeUselessDefs
@@ -66,7 +67,7 @@ plugins:
 
   # converts colors: rgb() to #rrggbb
   - convertColors:
-      shorthex: false
+      shorthex: true
       shortname: false
 
   # removes unknown elements content and attributes
@@ -94,10 +95,10 @@ plugins:
       order:
         - 'id'
         - 'fill'
-        - 'stroke'
         - 'opacity'
-        - 'style'
         - 'class'
+        - 'stroke'
+        - 'style'
         - 'width'
         - 'height'
         - 'x'
@@ -112,7 +113,7 @@ plugins:
         - 'd'
 
   # removes <title> (disabled by default)
-  - removeTitle: true
+  - removeTitle: false
 
   # removes <desc> (only non-meaningful by default)
   - removeDesc
