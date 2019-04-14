@@ -1,5 +1,6 @@
 # exclude the following dirs/files from archives:
 .*          export-ignore
+folders     export-ignore
 images      export-ignore
 scripts     export-ignore
 templates   export-ignore

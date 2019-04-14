@@ -51,27 +51,31 @@ COLORS=(
 	# [1] - secondary color
 	# [2] - color of symbol
 	#
-	# | name   | [0]   | [1]   | [2]   |
-	# |--------|-------|-------|-------|
-	[blue]="    #37a6e6 #1463a5 #b8dff6"
-	[black]="   #1a1a1a #333333 #aeaeae"
-	[bluegrey]="#78909c #455a64 #cfd8dc"
-	[brown]="   #ae8e6c #957552 #e2d7cb"
-	[cyan]="    #31c6b7 #2b898f #b6ebe6"
-	[green]="   #76c22b #28851e #cfe9b4"
-	[grey]="    #999999 #666666 #dbdbdb"
-	[indigo]="  #5c6bc0 #3f51b5 #b6bde3"
-	[magenta]=" #f74761 #c61b34 #fcbec7"
-	[manjaro]=" #16a085 #12816b #a6dbd1"
-	[mint]="    #7aaf65 #579140 #d0e3c9"
-	[orange]="  #fb7c38 #f34f17 #fdd1b9"
-	[pink]="    #f06292 #ec407a #f9c3d6"
-	[red]="     #f22c42 #bc1938 #fab4bc"
-	[teal]="    #26a69a #00796b #b2dfdb"
-	[violet]="  #8f76e4 #7839b7 #d7cff5"
-	[white]="   #ececec #b3b3b3 #4c5561"
-	[yellow]="  #fdc92b #eab305 #33290c"
-	[custom]="  #value_light #value_dark #323232"
+	# | name      | [0]   | [1]   | [2]   |
+	# |-----------|-------|-------|-------|
+	[blue]="       #37a6e6 #1463a5 #b8dff6"
+	[aubergine]="  #a0649a #4f1748 #ddc8db"
+	[black]="      #1a1a1a #333333 #aeaeae"
+	[bluegrey]="   #78909c #455a64 #cfd8dc"
+	[bordeaux]="   #c2655b #7f372f #edd3d0"
+	[brown]="      #ae8e6c #957552 #e2d7cb"
+	[canonical]="  #853e64 #4c1a35 #ddcad4"
+	[cyan]="       #31c6b7 #2b898f #b6ebe6"
+	[green]="      #76c22b #28851e #cfe9b4"
+	[grey]="       #999999 #666666 #dbdbdb"
+	[indigo]="     #5c6bc0 #3f51b5 #b6bde3"
+	[magenta]="    #f74761 #c61b34 #fcbec7"
+	[manjaro]="    #16a085 #12816b #a6dbd1"
+	[mint]="       #7aaf65 #579140 #d0e3c9"
+	[orange]="     #fb7c38 #f34f17 #fdd1b9"
+	[pink]="       #f06292 #ec407a #f9c3d6"
+	[red]="        #f22c42 #bc1938 #fab4bc"
+	[teal]="       #26a69a #00796b #b2dfdb"
+	[vermillion]=" #f76363 #991f15 #fac3ba"
+	[violet]="     #8f76e4 #7839b7 #d7cff5"
+	[white]="      #ececec #b3b3b3 #4c5561"
+	[yellow]="     #fdc92b #eab305 #33290c"
+	[custom]="     #value_light #value_dark #323232"
 )
 
 

@@ -1,0 +1,10 @@
+#85377d
+#fb7c38
+#ad7aa9
+#fdd1b9
+
+find . -type f -exec sed -i \
+-e 's/#85377d/#AA00FF/g' \
+-e 's/#fb7c38/#09D4DF/g' \
+-e 's/#ad7aa9/#9269F4/g' \
+-e 's/#fdd1b9/#d7cff5/g' '{}' +
