@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="971.138" x2="975.537" y1="-1487.17" y2="19.037" gradientTransform="matrix(.11988932 0 0 .11988932 3.1009196 232.21778)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
  <path fill="#DA1636" d="M 10.465 0.533 C 15.308 0.533 16 1.224 16 6.063 L 16 9.938 C 16 14.776 15.308 15.467 10.465 15.467 L 5.535 15.467 C 0.692 15.467 0 14.776 0 9.938 L 0 6.063 C 0 1.224 0.692 0.533 5.535 0.533 L 10.465 0.533 Z"/>
  <path fill="#FFFFFF" fill-rule="evenodd" d="M 1.615 8.041 C 1.605 8.722 1.705 9.4 1.911 10.049 C 2.755 12.701 5.218 14.501 8.001 14.5 C 10.784 14.501 13.247 12.701 14.091 10.049 C 14.927 7.396 13.943 4.508 11.663 2.917 L 10.618 4.413 C 12.249 5.545 12.952 7.607 12.352 9.499 C 11.751 11.394 9.989 12.68 8.001 12.675 C 6.012 12.681 4.25 11.395 3.649 9.499 C 3.049 7.607 3.752 5.545 5.383 4.413 L 4.339 2.917 C 2.661 4.088 1.647 5.995 1.615 8.041 L 1.615 8.041 Z M 7.089 1.728 L 7.089 8.114 L 8.913 8.114 L 8.913 1.5 L 7.089 1.728 L 7.089 1.728 Z"/>

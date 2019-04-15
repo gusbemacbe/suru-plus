@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="971.138" x2="975.537" y1="-1487.17" y2="19.037" gradientTransform="matrix(.11988932 0 0 .11988932 3.1009196 232.21778)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
    <path style="fill:currentColor;" class="ColorScheme-Text" d="M 13.99976 8.000071 L 16 15.999999 L 16 12.000066 L 13.99976 8.000071 Z M 13.99976 8.000071 L 16 0.000001 L 16 3.999907 L 13.99976 8.000071 M 1.999933 8.000071 L 0 0.000001 L 0 3.999907 L 1.999933 8.000071 M 1.999933 8.000071 L 0 15.999999 L 0 12.000066 L 1.999933 8.000071 Z M 8 13.999982 L 0 15.999999 L 3.999866 15.999999 L 8 13.999982 Z M 8 13.999982 L 16 15.999999 L 11.999865 15.999999 L 8 13.999982 M 8 2.000019 L 16 0.000001 L 11.999865 0.000001 L 8 2.000019 Z M 8 2.000019 L 0 0.000001 L 3.999866 0.000001 L 8 2.000019 M 0 15.999999 L 1.999933 8.000071 L 8 13.999982 L 0 15.999999 Z M 16 15.999999 L 8 13.999982 L 13.99976 8.000071 L 16 15.999999 M 16 0.000001 L 13.99976 8.000071 L 8 2.000019 L 16 0.000001 M 0 0.000001 L 8 2.000019 L 1.999933 8.000071 L 0 0.000001 Z M 8 2.000019 L 1.999933 8.000071 L 8 13.999982 L 13.99976 8.000071 L 8 2.000019 Z"/>
 </svg>

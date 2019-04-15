@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="971.138" x2="975.537" y1="-1487.17" y2="19.037" gradientTransform="matrix(.11988932 0 0 .11988932 3.1009196 232.21778)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
    <path style="fill:currentColor;" class="ColorScheme-Text" fill-rule="evenodd" d="M 0 0.503297 L 8.672089 9.175396 L 8.672089 3.629895 L 0 0.503297 L 0 0.503297 L 0 0.503297 Z M 9.20484 3.867076 L 9.20484 8.906716 L 12.821668 5.511173 L 9.20484 3.867076 L 9.20484 3.867076 L 9.20484 3.867076 Z M 6.620221 7.933926 L 2.612794 15.496703 L 8.425945 9.683292 L 6.620221 7.933926 L 6.620221 7.933926 Z M 9.984759 3.668829 L 16 6.372802 L 14.675801 3.668829 L 9.984759 3.668829 Z"/>
 </svg>

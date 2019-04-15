@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="971.138" x2="975.537" y1="-1487.17" y2="19.037" gradientTransform="matrix(.11988932 0 0 .11988932 3.1009196 232.21778)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
  <g transform="translate(-805.00043,351.03455)">
   <path d="m 808.0002,-350 c -2,0 -2,2 -2,2 l 0,10 c 0,2 2,2 2,2 l 3.07227,0 -0.008,-0.0117 -0.002,-0.004 -0.125,-0.2168 1.63281,-0.94336 c -0.0416,-0.27298 -0.0701,-0.54798 -0.0703,-0.82422 0.002,-0.27569 0.0315,-0.55001 0.0742,-0.82227 l -1.63672,-0.94531 0.125,-0.2168 0.875,-1.51562 0.875,-1.51562 0.125,-0.2168 1.63672,0.94531 c 0.43134,-0.34512 0.91201,-0.62172 1.42578,-0.82422 l 2.4e-4,-1.88859 0.25,0 3.5,0 0.25,0 0,-3 c 0,0 0,-2 -2,-2 l -10,0 z m 10,10 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z" style="fill:currentColor;" class="ColorScheme-Text"/>
