@@ -20,4 +20,18 @@
   <tr>
     <td>user-alt4.svg</td>
   </tr>
+
+  <tr>
+    <td rowspan="4">system.svg</td>
+    <td>system-alt1.svg</td>
+  </tr>
+  <tr>
+    <td>system-alt2.svg</td>
+  </tr>
+  <tr>
+    <td>system-alt3.svg</td>
+  </tr>
+  <tr>
+    <td>system-alt4.svg</td>
+  </tr>
 </table>
