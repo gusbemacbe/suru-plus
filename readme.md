@@ -16,25 +16,27 @@
 </p>
 
 #### Eigenschaften – Features – Funciones – Fonctionnalités – Aspetti – Eigenschappen – Funções
-* <img align="top" alt="Deutsch" height="16px" title="Deutsch" src="images/flags/deutsch.png"> <a href="features-de.md"> – Weiß die neuen Eigenschaften!
-* <img align="top" alt="English" height="16px" title="English" src="images/flags/english-uk.png"> <a href="features-en.md"> – Come to know new features!
-* <img align="top" alt="Español" height="16px" title="Español" src="images/flags/español.png"> <a href="features-es.md"> – ¡Conozca las nuevas funciones!
-* <img align="top" alt="Français" height="16px" title="Français" src="images/flags/français.png"> <a href="features-fr.md"> – Connaissez les nouvelle fonctionnalités !
-* <img align="top" alt="Italiano" height="16px" title="Italiano" src="images/flags/italiano.png"> <a href="features-it.md"> – Conosci i nuovi aspetti!
-* <img align="top" alt="Nederlands" height="16px" title="Nederlands" src="images/flags/nederlands.png"> <a href="features-nl.md"> – Weet de nieuwe eigenschappen!
-* <img align="top" alt="Português brasileiro" height="16px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> <a href="features-pt-br.md"> – Venha conhecer novas funções!
-* <img align="top" alt="Português europeu" height="16px" title="Português europeu" src="images/flags/português-europeu.png"> <a href="features-pt-br.md"> – Conhece novas funções!
+<img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> <a href="features-de.md"> – Weiß die neuen Eigenschaften!<br/>
+<img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> <a href="features-en.md"> – Come to know new features!<br/>
+<img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> <a href="features-es.md"> – ¡Conozca las nuevas funciones!<br/>
+<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> <a href="features-fr.md"> – Connaissez les nouvelle fonctionnalités !<br/>
+<img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> <a href="features-it.md"> – Conosci i nuovi aspetti!<br/>
+<img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> <a href="features-nl.md"> – Weet de nieuwe eigenschappen!<br/>
+<img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> <a href="features-pt-br.md"> – Venha conhecer novas funções!<br/>
+<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> <a href="features-pt-br.md"> – Conhece novas funções!<br/>
 
 #### <a href="https://github.com/gusbemacbe/suru-plus/wiki">Wiki</a>
 
-* <img align="top" alt="Deutsch" height="16px" title="Deutsch" src="images/flags/deutsch.png"> Zum wie installieren, deinstallieren und ânderen zu wissen, besuche die „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>“.
-* <img align="top" alt="English" height="16px" title="English" src="images/flags/english-uk.png"> To know how to install, unistall and change, visit ‘<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>’.
-* <img align="top" alt="Español" height="16px" title="Español" src="images/flags/español.png"> Para sber como instalar, desinstalar y modificar, visite la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».
-* <img align="top" alt="Français" height="16px" title="Français" src="images/flags/français.png"> Pour savoir comme installer, désintaller et changer, visitez la « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».
-* <img align="top" alt="Italiano" height="16px" title="Italiano" src="images/flags/italiano.png"> Per sapere come installare, desintallare e modificare, visita la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».
-* <img align="top" alt="Nederlands" height="16px" title="Nederlands" src="images/flags/nederlands.png"> Om hoe installeren, deïnstalleren en veranderen, bezoek de „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.
-* <img align="top" alt="Português brasileiro" height="16px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> Para saber como instalar, desintalar e mudar, visite a “<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.
-* <img align="top" alt="Português europeu" height="16px" title="Português europeu" src="images/flags/português-europeu.png"> Para sber como instalar, desinstalar e modificar, visita a «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>». 
+<img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> Zum wie installieren, deinstallieren und ânderen zu wissen, besuche die „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>“.<br/>
+<img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> To know how to install, unistall and change, visit ‘<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>’.<br/>
+<img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> Para sber como instalar, desinstalar y modificar, visite la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
+<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> Pour savoir comme installer, désintaller et changer, visitez la « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».<br/>
+<img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> Per sapere come installare, desintallare e modificare, visita la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
+<img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> Om hoe installeren, deïnstalleren en veranderen, bezoek de „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
+<img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> Para saber como instalar, desintalar e mudar, visite a “<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
+<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> Para sber como instalar, desinstalar e modificar, visita a «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>». <br/>
+
+<hr>
 
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
