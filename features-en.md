@@ -12,7 +12,7 @@
 
 # Features
 
-Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th millenium and greet the cyberpunkism, futurism and modernism!
+Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th millennium and greet the cyberpunkism, futurism and modernism!
 
 ## Apps Icons Redesign
 
@@ -24,7 +24,7 @@ Following Sam Hewitt’s rules of grids, and making less conservative and tradit
 
 ## Mimetypes Icons Redesign
 
-Based on based on Numix and Papirus mimetype icons. As I have promised you that I was going to redesign the mimetype icons during the version 20 and 25. Finally in the latest version, i.e, 30, I redeisgned the mimetype icons! With colourful icons, it is easy to identify the archive, file and image by extension!
+Based on based on Numix and Papirus mimetype icons. As I have promised you that I was going to redesign the mimetype icons during the version 20 and 25. Finally in the latest version, i.e, 30, I redesigned the mimetype icons! With colourful icons, it is easy to identify the archive, file and image by extension!
 
 <p align="center">
   <img alt="Mimetypes" width="465px" src="images/previews/preview2.svg?sanitize=true">
@@ -32,7 +32,7 @@ Based on based on Numix and Papirus mimetype icons. As I have promised you that 
 
 ## Folders redesign and new colours
 
-The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus. In the version 25.0, it won new folders with colour of Linux Mint. In the version 25.2.0, more three folders colours – indigo, pink and Manjaro-coloured. Finally in the version 30, it officially supports gradients and won more new colours, 90s Summer, Aurora and FitDance. Based on Suru++ Ubuntu, new colours: bordeaux, Canonical, Disco Dingo, Ubuntu and vermillion. With totally compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won new folders with colours of Cyberpunk Neon!
+The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus. In the version 25.0, it won new folders with colour of Linux Mint. In the version 25.2.0, more three folders colours – indigo, pink and Manjaro-coloured. Finally in the version 30, it officially supports gradients and won more new colours, 90s Summer, Aurora and FitDance. Based on Suru++ Ubuntu, new colours: bordeaux, Canonical, Disco Dingo, Ubuntu and vermilion. With totally compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won new folders with colours of Cyberpunk Neon!
 
 As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox), you can change any colour of all folders once and for all!
 
@@ -50,7 +50,7 @@ The file managers are no longer same, now you can distinguish the file managers 
 
 ## Exclusive and Special Folders
 
-Not just cyberpunkism and futurism, are you also fan of scifi series and films and of astronomy and aerospace engineering, and of Tesla? In the version 30, April is the month of international holidays of astronauts, astronomy, aerospace engineering, cosmology, first image of black hole and of tribute to the film Avengers: Ultimate! Here is:
+Not just cyberpunkism and futurism, are you also fan of scifi series and films and of astronomy and aerospace engineering, and of Tesla? In the version 30, April is the month of international holidays of astronauts, astronomy, aerospace engineering, cosmology, first image of black hole and of tribute to the film Avengers: Endgame! Here is:
 
 <p align="center">
   <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">

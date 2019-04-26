@@ -1,84 +1,84 @@
-- [Eigenschaften](#eigenschaften)
-  - [Redesign der App-Ikonen](#redesign-der-app-ikonen)
-  - [Redesign der MIME-Typs-Ikonen](#redesign-der-mime-typs-ikonen)
-  - [Neue Farben und neues Redesign der Ordner](#neue-farben-und-neues-redesign-der-ordner)
-  - [Unterscheidung der Dateiverwaltungen](#unterscheidung-der-dateiverwaltungen)
-  - [Exklusive und spezielle Ordner](#exklusive-und-spezielle-ordner)
-  - [Steam-Spiele](#steam-spiele)
-  - [Einfarbige und Verlaufsfarben von 16px-Ikonen](#einfarbige-und-verlaufsfarben-von-16px-ikonen)
-  - [Alternative Ikonen](#alternative-ikonen)
-    - [Apps](#apps)
-    - [MIMe-Typs](#mime-typs)
+- [Fonctionnalités](#fonctionnalit%C3%A9s)
+  - [Redessin des Icônes d’Applications](#redessin-des-ic%C3%B4nes-dapplications)
+  - [Redessin des Icônes de Types de Médias Courants](#redessin-des-ic%C3%B4nes-de-types-de-m%C3%A9dias-courants)
+  - [Redessin des Dossiers et Nouvelles Couleurs](#redessin-des-dossiers-et-nouvelles-couleurs)
+  - [Distinction des Gestionnaires de Fichiers](#distinction-des-gestionnaires-de-fichiers)
+  - [Dossiers Exclusifs et Spéciaux](#dossiers-exclusifs-et-sp%C3%A9ciaux)
+  - [Jeux du Steam](#jeux-du-steam)
+  - [Couleurs unies et dégradées d'icônes de 16px](#couleurs-unies-et-d%C3%A9grad%C3%A9es-dic%C3%B4nes-de-16px)
+  - [Icônes alternatives](#ic%C3%B4nes-alternatives)
+    - [Applications](#applications)
+    - [Types de médias](#types-de-m%C3%A9dias)
 
-# Eigenschaften
+# Fonctionnalités
 
-Lass den Konservatismus und den Traditionalismus der originalen Suru-Ikonen, entworfen von Andrea Bonanni und Sam Hewitt, fahre einen Millennium Falcon, USS Discovery/Enterprise oder The Milano, reise ins 30. Jahrhundert oder 3000ern oder 3-4. Jahrtausend und begrüße den Cyberpunkismus, den Futurismus und den Modernismus!
+Abandonnez le conservatisme et le traditionalisme des icônes originales de Suru, dessinés par Andrea Bonanni et Sam Hewitt, conduisez un Millennium Falcon, USS Discovery/Enterprise ou Le Milano, voyagez au 30e siècle, ou aux années 3000 ou au 3-4e millénaire, et saluez le cyberpunkisme, le futurisme et modernisme !
 
-## Redesign der App-Ikonen
+## Redessin des Icônes d’Applications
 
-Zum Folgen der Gestaltungsraster-Regeln von Sam Hewitt und zum Machen weniger konservative und traditionelle des <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> von <a href="https://github.com/Bonandry">@Bonandry</a>, mehr als 15 tausende Ikonen wurden new entworfen, wurden mit Papirus-Style und mit neuen Cyberpunk-Farben verbessert und mit KDE, XFCE und anderen Umgebungen kompatibel gemacht! Überprüfe die neuen Ikonen:
+En suivant les règles de grille du Sam Hewitt et en rendant les icônes du <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> de <a href="https://github.com/Bonandry">@Bonandry</a> moins conservatrices et traditionnelles, plus de 15 000 icônes ont été redessinées, avec du style du Papirus et améliorées avec de nouvelles couleurs *cyberpunk* et compatibles avec KDE, XFCE et d’autres environnements ! Vérifiez les nouvelles icônes :
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
 </p>
 
-## Redesign der MIME-Typs-Ikonen
+## Redessin des Icônes de Types de Médias Courants
 
-Basierend auf den Numix- und Papirus-MiME-typ-Ikonen. Da ich euch versprochen hatte, dass ich die MIME-Typ-Ikonen während der Version 20 und 25 neu entwerfen ging. In der neuesten Version, d. H. 30, habe ich die MIME-Typ-Ikonen neu entworfen! Mit farbigen Ikonen, können Archiv, Datei und Bild anhand dem Dateienerweiterungnamen leicht identifiziert werden!
+Basé sur les icônes de type de médias des thèmes d’icônes Numix et Papirus. Comme je vous ai promis d’aller redessiner les icônes de type de médias pendant les versions 20 et 25. Enfin, dans la dernière version, c’est-à-dire, 30, j’ai redessiné les icônes de type de médias ! Avec des icônes colorées, il est facile d’identifier l’archive, le fichier et l’image par extension !
 
 <p align="center">
   <img alt="Mimetypes" width="465px" src="images/previews/preview2.svg?sanitize=true">
 </p>
 
-## Neue Farben und neues Redesign der Ordner
+## Redessin des Dossiers et Nouvelles Couleurs
 
-Die neuen Versionen haben neue Farben für Ordner, basierend auf dem Papirus von Alexey Varfolomeev Papirus. In der Version 25.0 wurden neue Ordner mit den Farben von Linux Mint hinzugefügt. In der Version 25.2.0 sind drei weitere Ordnerfarben vorhanden: Indigo, Pink und Manjaro-Fabren. In der Version 30 offiziell ist er kompatibel mit Farbverläufen und weitere neue Farben vorhanden: 90er Summer, Aurora und FitDance. Basierend auf dem Suru++ Ubuntu, weitere neue Farben: Bordeaux, Canonical, Disco Dingo, Ubuntu und Vermillion. Mit der vollständigen Kompatibilität mit [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) von [@Roboron3042](https://github.com/Roboron3042), wurd es neue Ordner mit Farben von Cyberpunk Neon hinzugefügt!
+Les nouvelles versions ont ajouté de nouvelles couleurs de dossiers, basées sur le thème Papirus d’Alexey Varfolomeev. Dans la version 25.0, il a ajouté de nouveaux dossiers à la couleur de Linux Mint. Dans la version 25.2.0, ajouté plus de trois couleurs de dossiers - indigo, rose et couleur de la distribution Manjaro. Enfin, dans la version 30, il est compatible avec les dégradés et a ajouté de nouvelles couleurs : Été des Années 90, Aurora et FitDance. Comme basé sur Suru++ Ubuntu, nouvelles couleurs : bordeaux, Canonical, Disco Dingo, Ubuntu et vermillon. Comme totalement compatible avec le thème [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) du [@Roboron3042](https://github.com/Roboron3042), il a ajouté de nouvelles dossiers avec des couleurs du Cyberpunk Neon !
 
-Da Suru++ offiziell mit dem [Oomox](https://github.com/themix-project/oomox) von [@actionless](https://github.com/actionless) kompatibel ist, kannst du jede Farbe von allen Ordner ändern für immer!
+Comme Suru++ est officiellement compatible avec l’[Oomox](https://github.com/themix-project/oomox) du [@actionless](https://github.com/actionless), vous pouvez changer toutes les couleurs des dossiers une fois pour toutes !
 
 <p align="center">
   <img alt="Folders" src="images/previews/preview3.svg?sanitize=true">
 </p>
 
-## Unterscheidung der Dateiverwaltungen
+## Distinction des Gestionnaires de Fichiers
 
-Die Dateiverwaltungen sind nicht mehr gleich, jetzt kannst du die Dateiverwaltungen leicht unterscheiden, mit verschiedenen, modernen und neuen Farben!
+Les gestionnaires de fichiers ne sont plus les mêmes, maintenant vous pouvez facilement les distinguer, avec des couleurs différentes, modernes et nouvelles !
 
 <p align="center">
   <img alt="File Managers" src="images/previews/preview4.svg?sanitize=true">
 </p>
 
-## Exklusive und spezielle Ordner
+## Dossiers Exclusifs et Spéciaux
 
-Nicht nur Cyberpunkismus und Futurismus, bist du auch ein Fan von Scifi-Bereichen und -Filmen, von Astronomie und Luft- und Raumfahrttechnik sowie von Tesla? In der Version 30 ist April der Monat der internationalen Feiertage der Astronauten, der Astronomie, der Luft- und Raumfahrttechnik, der Kosmologie, des ersten Bildes des schwarzen Lochs und der Huldigung an den Film Avengers: Endgame! Hier ist:
+Pas seulement le *cyberpunk* et le futurisme, êtes-vous également fan de séries et de films scifi, d’astronomie et de la génie aérospatiale, et de Tesla ? Dans la version 30, avril est le mois des journées internationales des astronautes, de l’astronomie, de la génie aérospatiale, de la cosmologie, de la première image du trou noir et de l’hommage rendu au film : Phase Finale ! Voici :
 
 <p align="center">
   <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">
 </p>
 
-## Steam-Spiele
+## Jeux du Steam
 
-Hunderte Steam-Spiele-Icons werden offiziell kompatibel:
+Des centaines d’icônes de jeux du Steam sont officiellement supportées :
 
 <p align="center">
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Einfarbige und Verlaufsfarben von 16px-Ikonen
+## Couleurs unies et dégradées d'icônes de 16px
 
-Da Suru++ offiziell kompatibel ist mit dem [Oomox](https://github.com/themix-project/oomox) von [@actionless](https://github.com/actionless) und meinem Plugin [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) mit der Hilfe und dem Beitrag von [@actionless](https://github.com/actionless) und [@SmartFinn](https://github.com/SmartFinn), kannst du eine von 9 Cyberpunk-Farbverläufen wählen oder jede Farbe aller 16px-Ikonen ändern oder auch den Farbverlauf von 16px-Ikonen für immer aktivieren!
+Comme Suru++ est officiellement compatible avec l’[Oomox](https://github.com/themix-project/oomox) du [@actionless](https://github.com/actionless) et mon plugiciel [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) avec l’aide et la contribution de [@actionless](https://github.com/actionless) et de [@SmartFinn](https://github.com/SmartFinn), vous pouvez choisir l’une des 9 couleurs de dégradé *cyberpunk* et change des couleurs de toutes les icônes de 16px ou activer le dégradé des icônes de 16px une fois pour toutes !
 
-In der Version 30, da Suru++ mit [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) von [@Roboron3042](https://github.com/Roboron3042) kompatibel ist, wurden neuer Farbverlauf mit Farben von Cyberpunk Neon hinzugefügt!
+Dans la version 30, comme Suru++ est compatible avec le [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) du [@Roboron3042](https://github.com/Roboron3042), il a ajouté le nouveau dégradé aux couleurs de Cyberpunk Neon !
 
 <p align="center">
     <img src="images/previews/preview7.svg?sanitize=true" alt="16 icons colours">
 </p>
 
-## Alternative Ikonen
+## Icônes alternatives
 
-Die meisten Session- und Benutzers-Ikonen wurden von [@darcn181](https://github.com/darcn181) neu entworfen. In den Versionen 25 und 30 weitere und weitere neue Alternativen! Du kannst eine deinen Alternativen wählen.
+La plupart des icônes de session et d’utilisateur ont été redessinées par [@darcn181](https://github.com/darcn181). Dans les versions 25 et 30, de plus en plus de nouvelles alternatives ! Vous pouvez choisir l'une des alternatives.
 
-### Apps 
+### Applications 
 
 <table style="undefined; table-layout: fixed; width: 600px">
   <colgroup>
@@ -86,8 +86,8 @@ Die meisten Session- und Benutzers-Ikonen wurden von [@darcn181](https://github.
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>offizielles Ikon<br></th>
-    <th>alternative Ikonen</th>
+    <th>Icône officielle<br></th>
+    <th>Icônes alternatives</th>
   </tr>
 
   <tr><td rowspan="2">cs-overview.svg</td>
@@ -200,7 +200,7 @@ Die meisten Session- und Benutzers-Ikonen wurden von [@darcn181](https://github.
   <tr><td><img align="middle" height="64px" src="images/alternatives/user/user-alt5.svg"> user-alt5.svg</td></tr>
 </table>
 
-### MIMe-Typs
+### Types de médias
 
 <table style="undefined; table-layout: fixed; width: 600px">
   <colgroup>
@@ -208,8 +208,8 @@ Die meisten Session- und Benutzers-Ikonen wurden von [@darcn181](https://github.
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>offizielles Ikon<br></th>
-    <th>alternative Ikonen</th>
+    <th>Icône officielle<br></th>
+    <th>Icônes alternatives</th>
   </tr>
 
   <tr><td rowspan="4">comics-book.svg</td>

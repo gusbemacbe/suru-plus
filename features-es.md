@@ -1,25 +1,24 @@
 - [Funciones](#funciones)
-  - [Rdiseño de iconos de aplicaciones](#rdise%C3%B1o-de-iconos-de-aplicaciones)
-  - [Mimetypes Icons Redesign](#mimetypes-icons-redesign)
-  - [Folders redesign and new colours](#folders-redesign-and-new-colours)
-  - [Distinction of File Managers](#distinction-of-file-managers)
-  - [Exclusive and Special Folders](#exclusive-and-special-folders)
-  - [Steam Games](#steam-games)
-  - [Solid and Gradient Colours of 16px icons](#solid-and-gradient-colours-of-16px-icons)
-  - [Alternative icons](#alternative-icons)
-    - [Apps](#apps)
+  - [Rediseño de iconos de aplicaciones](#redise%C3%B1o-de-iconos-de-aplicaciones)
+  - [Rediseño de iconos de tipos de medio](#redise%C3%B1o-de-iconos-de-tipos-de-medio)
+  - [Rediseño de carpetas y nuevos colores](#redise%C3%B1o-de-carpetas-y-nuevos-colores)
+  - [Distinción de los gestores de archivos](#distinci%C3%B3n-de-los-gestores-de-archivos)
+  - [Carpetas exclusivas y especiales](#carpetas-exclusivas-y-especiales)
+  - [Juegos de Steam](#juegos-de-steam)
+  - [Colores sólidos y degradados de iconos de 16px](#colores-s%C3%B3lidos-y-degradados-de-iconos-de-16px)
+  - [Iconos alternativos](#iconos-alternativos)
+    - [Aplicaciones](#aplicaciones)
     - [Mimetypes](#mimetypes)
 
 <sup>*</sup> Observe que estoy utilizando «usted» para hacer universal.
 
-
 # Funciones
 
-Descarte el conservadurismo y el tradicionalismo de los íconos Suru originales, diseñados por Andrea Bonanni y Sam Hewitt, conduzca un MIllenium Falcon, USS Discovery/Enterprise o The Milano, viaje al siglo 30, ó años 3000 o 3-4 milenio y salude al ciberpunkismo, el futurismo y el modernismo!
+Descarte el conservadurismo y el tradicionalismo de los íconos Suru originales, diseñados por Andrea Bonanni y Sam Hewitt, conduzca un Millennium Falcon, USS Discovery/Enterprise o The Milano, viaje al siglo 30, ó años 3000 o 3-4 milenio y salude al ciberpunkismo, el futurismo y el modernismo!
 
 ## Rediseño de iconos de aplicaciones
 
-Siguiendo las reglas de cuadrícula de Sam Hewitt, y haciendo <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> de <a href="https://github.com/Bonandry">@Bonandry</a> menos cosnervadoras y tradicionales, más de 15 mil iconos han sido rediseñados, con ele stilo de Papirus y mejorados con nuevos colores *cyberpunk* y se han hecho compatibles con KDE, XFCE y otros muchos entornos. Compruebe los nuevos iconos:
+Siguiendo las reglas de retícula de Sam Hewitt, y haciendo <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> de <a href="https://github.com/Bonandry">@Bonandry</a> menos conservadores y tradicionales, más de 15 mil iconos han sido rediseñados, con el estilo de Papirus y mejorados con nuevos colores *cyberpunk* y se han hecho compatibles con KDE, XFCE y otros muchos entornos. Compruebe los nuevos iconos:
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
@@ -37,7 +36,7 @@ Basado en íconos de tipo de medio de los temas Numix y Papirus. Como les promet
 
 Las nuevas versiones han agregado nuevos colores de carpetas, basadas en el tema de íconos Papirus de Alexey Varfolomeev. En la versión 25.0, ha agregado nuevas carpetas con color de Linux Mint. En la versión 25.2.0, más de tres carpetas de colores: añil, rosa y colores de Manjaro. Finalmente, en la versión 30, es oficialmente compatible con gradientes y ha agregado más nuevos colores: 90s Verano, Aurora y FitDance. Como basado en Suru++ Ubuntu, nuevos colores: bordeaux, Canonical, Disco Dingo, Ubuntu y bermellón. ¡Con la compatibilidad del [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) de [@Roboron3042](https://github.com/Roboron3042/Cyberpunk-Neon), ha agregado nuevas carpetas con los colores de Cyberpunk Neon!
 
-¡Como Suru++ es oficialmente compatible con [Oomox](https://github.com/themix-project/oomox) de [@actionless](https://github.com/actionless), usted puede cambiar cualquier color de todos carpetas de una vez por todas!
+¡Cómo Suru++ es oficialmente compatible con [Oomox](https://github.com/themix-project/oomox) de [@actionless](https://github.com/actionless), usted puede cambiar cualquier color de todos carpetas de una vez por todas!
 
 <p align="center">
   <img alt="Folders" src="images/previews/preview3.svg?sanitize=true">
