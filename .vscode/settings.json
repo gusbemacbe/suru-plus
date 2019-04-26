@@ -1,4 +1,8 @@
 {
+  "markdown.styles": 
+  [
+      ".vscode/markdown-preview.css"
+  ],
   "spellright.language": [
     "en_GB"
   ],
