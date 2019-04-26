@@ -27,14 +27,14 @@
 
 #### <a href="https://github.com/gusbemacbe/suru-plus/wiki">Wiki</a>
 
-<img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> Zum wie installieren, deinstallieren und ânderen zu wissen, besuche die „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>“.<br/>
-<img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> To know how to install, unistall and change, visit ‘<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>’.<br/>
-<img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> Para sber como instalar, desinstalar y modificar, visite la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
-<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> Pour savoir comme installer, désintaller et changer, visitez la « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».<br/>
-<img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> Per sapere come installare, desintallare e modificare, visita la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
-<img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> Om hoe installeren, deïnstalleren en veranderen, bezoek de „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
-<img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> Para saber como instalar, desintalar e mudar, visite a “<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
-<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> Para sber como instalar, desinstalar e modificar, visita a «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>». <br/>
+<img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> Zum wie installieren, deinstallieren, Bugs überprüfen und das Ikon ânderen zu wissen, besuche die „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>“.<br/>
+<img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> To know how to install, unistall, check the bugs and change the icon, visit ‘<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>’.<br/>
+<img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> Para sber como instalar, desinstalar, verificar los *bugs* y modificar el icono, visite la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
+<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> Pour savoir comme installer, désintaller, voir les bouges et changer l'icônes, visitez la « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».<br/>
+<img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> Per sapere come installare, desintallare, controllare i *bug* e modificare l'icona, visita la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
+<img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> Om hoe installeren, deïnstalleren, de *bugs* controlleren en het pictogram veranderen, bezoek de „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
+<img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> Para saber como instalar, desintalar, verificar os *bugs* e mudar o ícone, visite a “<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
+<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> Para sber como instalar, desinstalar, checar os *bugs* e modificar o ícone, visita a «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>». <br/>
 
 <hr>
 

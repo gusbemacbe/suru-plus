@@ -1,8 +1,20 @@
+- [Eigenschaften](#eigenschaften)
+  - [Redesign der App-Ikonen](#redesign-der-app-ikonen)
+  - [Redesign der MIME-Typs-Ikonen](#redesign-der-mime-typs-ikonen)
+  - [Neue Farben und neues Redesign der Ordner](#neue-farben-und-neues-redesign-der-ordner)
+  - [Unterscheidung der Dateiverwaltungen](#unterscheidung-der-dateiverwaltungen)
+  - [Exklusive und spezielle Ordner](#exklusive-und-spezielle-ordner)
+  - [Steam-Spiele](#steam-spiele)
+  - [Einfarbige und Verlaufsfarben von 16px-Ikonen](#einfarbige-und-verlaufsfarben-von-16px-ikonen)
+  - [Alternative Ikonen](#alternative-ikonen)
+    - [Apps](#apps)
+    - [MIMe-Typs](#mime-typs)
+
 # Eigenschaften
 
 Lass den Konservatismus und den Traditionalismus der originalen Suru-Ikonen, entworfen von Andrea Bonanni und Sam Hewitt, fahre einen Millennium Falcon, USS Discovery/Enterprise oder The Milano, reise ins 30. Jahrhundert oder 3000ern oder 3-4. Jahrtausend und begrüße den Cyberpunkismus, den Futurismus und den Modernismus!
 
-## Redsign der App-Ikonen
+## Redesign der App-Ikonen
 
 Zum Folgen der Raster-Regeln von Sam Hewitt und zum Machen weniger konservative und traditionelle des <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> von <a href="https://github.com/Bonandry">@Bonandry</a>, mehr als 15 tausende Ikonen wurden new entworfen, wurden mit Papirus-Style und mit neuen Cyberpunk-Farben verbessert und mit KDE, XFCE und anderen Umgebungen kompatibel gemacht! Überprüfe die neuen Ikonen:
 

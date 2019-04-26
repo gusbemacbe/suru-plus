@@ -1,3 +1,15 @@
+- [Features](#features)
+  - [Apps Icons Redesign](#apps-icons-redesign)
+  - [Mimetypes Icons Redesign](#mimetypes-icons-redesign)
+  - [Folders redesign and new colours](#folders-redesign-and-new-colours)
+  - [Distinction of File Managers](#distinction-of-file-managers)
+  - [Exclusive and Special Folders](#exclusive-and-special-folders)
+  - [Steam Games](#steam-games)
+  - [Solid and Gradient Colours of 16px icons](#solid-and-gradient-colours-of-16px-icons)
+  - [Alternative icons](#alternative-icons)
+    - [Apps](#apps)
+    - [Mimetypes](#mimetypes)
+
 # Features
 
 Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th century and greet the cyberpunkism, futurism and modernism!
