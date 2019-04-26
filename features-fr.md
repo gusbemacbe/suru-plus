@@ -5,7 +5,7 @@
   - [Distinction des Gestionnaires de Fichiers](#distinction-des-gestionnaires-de-fichiers)
   - [Dossiers Exclusifs et Spéciaux](#dossiers-exclusifs-et-sp%C3%A9ciaux)
   - [Jeux du Steam](#jeux-du-steam)
-  - [Couleurs unies et dégradées d'icônes de 16px](#couleurs-unies-et-d%C3%A9grad%C3%A9es-dic%C3%B4nes-de-16px)
+  - [Couleurs solides et dégradées d'icônes de 16px](#couleurs-solides-et-d%C3%A9grad%C3%A9es-dic%C3%B4nes-de-16px)
   - [Icônes alternatives](#ic%C3%B4nes-alternatives)
     - [Applications](#applications)
     - [Types de médias](#types-de-m%C3%A9dias)
@@ -64,7 +64,7 @@ Des centaines d’icônes de jeux du Steam sont officiellement supportées :
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Couleurs unies et dégradées d'icônes de 16px
+## Couleurs solides et dégradées d'icônes de 16px
 
 Comme Suru++ est officiellement compatible avec l’[Oomox](https://github.com/themix-project/oomox) du [@actionless](https://github.com/actionless) et mon plugiciel [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) avec l’aide et la contribution de [@actionless](https://github.com/actionless) et de [@SmartFinn](https://github.com/SmartFinn), vous pouvez choisir l’une des 9 couleurs de dégradé *cyberpunk* et change des couleurs de toutes les icônes de 16px ou activer le dégradé des icônes de 16px une fois pour toutes !
 
