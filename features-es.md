@@ -1,5 +1,5 @@
-- [Features](#features)
-  - [Apps Icons Redesign](#apps-icons-redesign)
+- [Funciones](#funciones)
+  - [Rdiseño de iconos de aplicaciones](#rdise%C3%B1o-de-iconos-de-aplicaciones)
   - [Mimetypes Icons Redesign](#mimetypes-icons-redesign)
   - [Folders redesign and new colours](#folders-redesign-and-new-colours)
   - [Distinction of File Managers](#distinction-of-file-managers)
@@ -10,75 +10,78 @@
     - [Apps](#apps)
     - [Mimetypes](#mimetypes)
 
-# Features
+<sup>*</sup> Observe que estoy utilizando «usted» para hacer universal.
 
-Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th millenium and greet the cyberpunkism, futurism and modernism!
 
-## Apps Icons Redesign
+# Funciones
 
-Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Bonandry">@Bonandry</a>’s <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+Descarte el conservadurismo y el tradicionalismo de los íconos Suru originales, diseñados por Andrea Bonanni y Sam Hewitt, conduzca un MIllenium Falcon, USS Discovery/Enterprise o The Milano, viaje al siglo 30, ó años 3000 o 3-4 milenio y salude al ciberpunkismo, el futurismo y el modernismo!
+
+## Rediseño de iconos de aplicaciones
+
+Siguiendo las reglas de cuadrícula de Sam Hewitt, y haciendo <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> de <a href="https://github.com/Bonandry">@Bonandry</a> menos cosnervadoras y tradicionales, más de 15 mil iconos han sido rediseñados, con ele stilo de Papirus y mejorados con nuevos colores *cyberpunk* y se han hecho compatibles con KDE, XFCE y otros muchos entornos. Compruebe los nuevos iconos:
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
 </p>
 
-## Mimetypes Icons Redesign
+## Rediseño de iconos de tipos de medio
 
-Based on based on Numix and Papirus mimetype icons. As I have promised you that I was going to redesign the mimetype icons during the version 20 and 25. Finally in the latest version, i.e, 30, I redeisgned the mimetype icons! With colourful icons, it is easy to identify the archive, file and image by extension!
+Basado en íconos de tipo de medio de los temas Numix y Papirus. Como les prometí que yo iba a rediseñar los iconos de tipos de medio durante las versiones 20 y 25. Finalmente, en la última versión, es decir, 30, ¡he rediseñado los iconos de los tipos de medio! ¡Con iconos coloridos, es fácil identificar el archivo y la imagen por extensión!
 
 <p align="center">
   <img alt="Mimetypes" width="465px" src="images/previews/preview2.svg?sanitize=true">
 </p>
 
-## Folders redesign and new colours
+## Rediseño de carpetas y nuevos colores
 
-The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus. In the version 25.0, it won new folders with colour of Linux Mint. In the version 25.2.0, more three folders colours – indigo, pink and Manjaro-coloured. Finally in the version 30, it officially supports gradients and won more new colours, 90s Summer, Aurora and FitDance. Based on Suru++ Ubuntu, new colours: bordeaux, Canonical, Disco Dingo, Ubuntu and vermillion. With totally compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won new folders with colours of Cyberpunk Neon!
+Las nuevas versiones han agregado nuevos colores de carpetas, basadas en el tema de íconos Papirus de Alexey Varfolomeev. En la versión 25.0, ha agregado nuevas carpetas con color de Linux Mint. En la versión 25.2.0, más de tres carpetas de colores: añil, rosa y colores de Manjaro. Finalmente, en la versión 30, es oficialmente compatible con gradientes y ha agregado más nuevos colores: 90s Verano, Aurora y FitDance. Como basado en Suru++ Ubuntu, nuevos colores: bordeaux, Canonical, Disco Dingo, Ubuntu y bermellón. ¡Con la compatibilidad del [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) de [@Roboron3042](https://github.com/Roboron3042/Cyberpunk-Neon), ha agregado nuevas carpetas con los colores de Cyberpunk Neon!
 
-As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox), you can change any colour of all folders once and for all!
+¡Como Suru++ es oficialmente compatible con [Oomox](https://github.com/themix-project/oomox) de [@actionless](https://github.com/actionless), usted puede cambiar cualquier color de todos carpetas de una vez por todas!
 
 <p align="center">
   <img alt="Folders" src="images/previews/preview3.svg?sanitize=true">
 </p>
 
-## Distinction of File Managers
+## Distinción de los gestores de archivos
 
-The file managers are no longer same, now you can distinguish the file managers easily, with different, modern and new colours!
+Los gestores de archivos ya no son los mismos, ahora puede distinguirlos fácilmente, con colores diferentes, modernos y nuevos.
 
 <p align="center">
   <img alt="File Managers" src="images/previews/preview4.svg?sanitize=true">
 </p>
 
-## Exclusive and Special Folders
+## Carpetas exclusivas y especiales
 
-Not just cyberpunkism and futurism, are you also fan of scifi series and films and of astronomy and aerospace engineering, and of Tesla? In the version 30, April is the month of international holidays of astronauts, astronomy, aerospace engineering, cosmology, first image of black hole and of tribute to the film Avengers: Ultimate! Here is:
+¿No solo el ciberpunkismo y el futurismo, usted también es fan de las series y películas de ciencia ficción, de la astronomía, de la ingeniería aeroespacial y de Tesla? ¡En la versión 30, abril es el mes de las fiestas internacionales de astronautas, astronomía, ingeniería aeroespacial, cosmología, primera imagen del agujero negro y de homenaje a la película Avengers: Ultimate! Aquí está:
 
 <p align="center">
   <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">
 </p>
 
-## Steam Games
+## Juegos de Steam
 
-Hundreds Steam games icons are supported officially:
+Cientos de iconos de juegos de Steam son compatibles oficialmente:
 
 <p align="center">
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Solid and Gradient Colours of 16px icons
+## Colores sólidos y degradados de iconos de 16px
 
-As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), you can choose one of 9 cyberpunk gradient colours or change any colour of all 16px icons or enable the gradient of 16px icons once for all!
+Como Suru++ es oficialmente compatible con [Oomox](https://github.com/themix-project/oomox) de [@actionless](https://github.com/actionless) y mi complemento [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) con la ayuda y la contribución de [@actionless](https://github.com/actionless) y [@SmartFinn](https://github.com/SmartFinn), ¡usted puede escoger uno de los 9 colores de degradado *cyberpunk* o cambiar el color de todos los iconos de 16 píxeles o activar el degradado de los iconos de 16 píxeles de una vez por todas!
 
-In the version 30, as Suru++ is compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won the new gradient with colours of Cyberpunk Neon!
+En la versión 30, como Suru++ es compatible con el [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) de [@Roboron3042](https://github.com/Roboron3042), ¡se ha agregado el nuevo gradiente con colores de Cyberpunk Neon!
 
 <p align="center">
     <img src="images/previews/preview7.svg?sanitize=true" alt="16 icons colours">
 </p>
 
-## Alternative icons
+## Iconos alternativos
 
-The most of session and user icons were redesigned by [@darcn181](https://github.com/darcn181). In the versions 25 and 30, more and more alternates! You can choose one of your alternates. 
+La mayoría de los íconos de sesión y usuario fueron rediseñados por [@darcn181](https://github.com/darcn181). En las versiones 25 y 30, ¡más y más nuevos iconos alternativos! Usted puede escoger uno de tus iconos alternativos.
 
-### Apps 
+### Aplicaciones 
 
 <table style="undefined; table-layout: fixed; width: 600px">
   <colgroup>
@@ -86,8 +89,8 @@ The most of session and user icons were redesigned by [@darcn181](https://github
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>official icon<br></th>
-    <th>alternative icons</th>
+    <th>icono oficial<br></th>
+    <th>iconos alternativos</th>
   </tr>
 
   <tr><td rowspan="2">cs-overview.svg</td>
@@ -208,8 +211,8 @@ The most of session and user icons were redesigned by [@darcn181](https://github
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>official icon<br></th>
-    <th>alternative icons</th>
+    <th>icono oficial<br></th>
+    <th>iconos alternativos</th>
   </tr>
 
   <tr><td rowspan="4">comics-book.svg</td>
