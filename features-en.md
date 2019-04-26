@@ -54,7 +54,7 @@ Hundreds Steam games icons are supported officially:
 
 ## Solid and Gradient Colours of 16px icons
 
-As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colouriser](https://github.com/suru-plus-colouriser), you can choose one of 9 colours or change any colour of all 16px icons or enable the gradient of 16px icons once in a while!
+As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), you can choose one of 9 cyberpunk gradient colours or change any colour of all 16px icons or enable the gradient of 16px icons once in a while!
 
 In the version 30, as Suru++ is compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won the new gradient with colours of Cyberpunk Neon!
 
@@ -84,9 +84,9 @@ The most of session and user icons were redesigned by [@darcn181](https://github
   <tr><td><img align="middle" height="64px" src="images/alternatives/overview/cs-overview-alt2.svg"> cs-overview-alt2.svg</td></tr>
 
   <tr><td rowspan="2">dde-file-manager.svg</td>
-    <td><img align="middle"   src="images/alternatives/deepin-file-manager/dde-file-manager-alt1.svg?sanitze=true" height="64px"> dde-file-manager-alt1.svg</td>
+    <td><img    align="middle" height="64px"src="images/alternatives/deepin-file-manager/dde-file-manager-alt1.svg"> dde-file-manager-alt1.svg</td>
   </tr>
-  <tr><td><img align="middle" src="images/alternatives/deepin-file-manager/dde-file-manager-alt2.svg?sanitze=true" height="64px"> dde-file-manager-alt2.svg</td></tr>
+  <tr><td><img align="middle" height="64px" src="images/alternatives/deepin-file-manager/dde-file-manager-alt2.svg"> dde-file-manager-alt2.svg</td></tr>
 
   <tr><td rowspan="4">drgeo.svg</td>
     <td><img   align="middle" height="64px" src="images/alternatives/drgeo/drgeo-alt1.svg"> drgeo-alt1.svg</td>
