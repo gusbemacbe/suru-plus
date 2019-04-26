@@ -1,3 +1,5 @@
+# v30 –  Barcelona
+# v25.3.0 – Aalst
 # v25.2.0 – Nantes
 # v25 – Rio de Janeiro
 # v20.3.0 – Paris
