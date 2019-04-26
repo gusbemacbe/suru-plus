@@ -33,3 +33,11 @@ The file managers are no longer same, now you can distinguish the file managers 
 <p align="center">
   <img alt="File Managers" src="images/previews/preview4.svg?sanitize=true">
 </p>
+
+## Exclusive and Special Folders
+
+Not just cyberpunkism and futurism, are you also fan of scifi areas and film and of astronomy and aerospace engineering, and of Tesla? In the version 30, April is the month of international holidays of astronauts, astronomy, aerospace engineering, cosmology, first image of black hole and of tribute to the film Avengers: Ultimate! Here is:
+
+<p align="center">
+  <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">
+</p>
