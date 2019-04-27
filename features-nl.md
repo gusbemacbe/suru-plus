@@ -1,7 +1,7 @@
-- [Features](#features)
-  - [Apps Icons Redesign](#apps-icons-redesign)
-  - [Mimetypes Icons Redesign](#mimetypes-icons-redesign)
-  - [Folders redesign and new colours](#folders-redesign-and-new-colours)
+- [Eigenschappen](#eigenschappen)
+  - [Nieuw design van app-pictogrammen](#nieuw-design-van-app-pictogrammen)
+  - [Nieuw design van mediatype-pictogrammen](#nieuw-design-van-mediatype-pictogrammen)
+  - [Nieuw design van mappen en nieuwe kleuren](#nieuw-design-van-mappen-en-nieuwe-kleuren)
   - [Distinction of File Managers](#distinction-of-file-managers)
   - [Exclusive and Special Folders](#exclusive-and-special-folders)
   - [Steam Games](#steam-games)
@@ -10,31 +10,32 @@
     - [Apps](#apps)
     - [Mimetypes](#mimetypes)
 
-# Features
+# Eigenschappen
 
-Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th millennium and greet the cyberpunkism, futurism and modernism!
+Verlaat het conservatisme en het traditionalisme van de originele Suru-pictogrammen, ontworpen door Andrea Bonanni en Sam Hewitt, bestuur een Millennium Falcon, USS Discovery/Enterprise of The Milano, reis naar het 30e eeuw of de jaren 3000s of 3-4e millennium en begroet het cyberpunkisme, futurisme en modernisme!
 
-## Apps Icons Redesign
+## Nieuw design van app-pictogrammen
 
-Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Bonandry">@Bonandry</a>’s <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+Met het volgen van regels van Sam Hewitt voor rasters en met het maken minder <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> van <a href="https://github.com/Bonandry">@Bonandry</a> conservatieve en traditionele, meer dan 15k pictogrammen zijn opnieuw ontworpen, met het Papirus-stijl en verbeterd met nieuwe cyberpunk-kleuren en compatibel gemaakt met KDE, XFCE en andere desktopomgevingen! Controleer de nieuwe pictogrammen:
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
 </p>
 
-## Mimetypes Icons Redesign
+## Nieuw design van mediatype-pictogrammen
 
-Based on based on Numix and Papirus mimetype icons. As I have promised you that I was going to redesign the mimetype icons during the version 20 and 25. Finally in the latest version, i.e, 30, I redesigned the mimetype icons! With colourful icons, it is easy to identify the archive, file and image by extension!
+Gebaseerd op mediatype-pictogrammen van de thema’s Numix en Papirus. Zoals ik jullie heb beloofd dat ik de mediatype-pictogrammen ging opnieuw ontwerpen tijdens de versies 20 en 25. Eindelijk, in de laatste versie, d.w.z., 30, ik heb de mediatype-pictogrammen opnieuw ontworpen! Met kleurrijke pictogrammen, het is gemakkelijk om het archief, bestand en afbeelding per extensie te identificeren!
 
 <p align="center">
   <img alt="Mimetypes" width="465px" src="images/previews/preview2.svg?sanitize=true">
 </p>
 
-## Folders redesign and new colours
+## Nieuw design van mappen en nieuwe kleuren
 
-The new versions have won new colours of folders, based by Alexey Varfolomeev’s Papirus. In the version 25.0, it won new folders with colour of Linux Mint. In the version 25.2.0, more three folders colours – indigo, pink and Manjaro-coloured. Finally in the version 30, it officially supports gradients and won more new colours, 90s Summer, Aurora and FitDance. Based on Suru++ Ubuntu, new colours: bordeaux, Canonical, Disco Dingo, Ubuntu and vermilion. With totally compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won new folders with colours of Cyberpunk Neon!
+De nieuwe versies hebben nieuwe mappenkleuren gekregen, gebaseerde op Papirus door Alexey Varfolomeev. In de versie 25.0, het heeft nieuwe mappen met kleuren van Linux Mint. In de versie 25.2.0, meer drie mappenkleuren – indigo, roze en kleuren van Manjaro. Eindelijk in de versie 30, het officieel is compatibel met kleurgradiënten en heeft meer nieuwe kleuren gekregen – Summer 90s, Aurora en FitDance. Gebaseerd op Suru++ Ubuntu, nieuwe kleuren: bordeaux, Canonical, Disco Dingo, Ubuntu en vermiljoen. Met de compatibiliteit van [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) door [@Roboron3042](https://github.com/Roboron3042), het heeft nieuwe mappen met kleuren van Cyberpunk Neon gekregen!
 
-As Suru++ is officially compatible with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox), you can change any colour of all folders once and for all!
+Zoals Suru++ officieel compatibel is met [Oomox](https://github.com/themix-project/oomox) door [@actionless](https://github.com/actionless), kunt u elke kleur van alle mappen eens voor altijd veranderen!
+
 
 <p align="center">
   <img alt="Folders" src="images/previews/preview3.svg?sanitize=true">
