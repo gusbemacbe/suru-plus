@@ -5,7 +5,7 @@
   - [Unterscheidung der Dateiverwaltungen](#unterscheidung-der-dateiverwaltungen)
   - [Exklusive und spezielle Ordner](#exklusive-und-spezielle-ordner)
   - [Steam-Spiele](#steam-spiele)
-  - [Einfarbige und Verlaufsfarben von 16px-Ikonen](#einfarbige-und-verlaufsfarben-von-16px-ikonen)
+  - [Eintönige und Verlaufsfarben von 16px-Ikonen](#eint%C3%B6nige-und-verlaufsfarben-von-16px-ikonen)
   - [Alternative Ikonen](#alternative-ikonen)
     - [Apps](#apps)
     - [MIMe-Typs](#mime-typs)
@@ -64,7 +64,7 @@ Hunderte Steam-Spiele-Icons werden offiziell kompatibel:
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Einfarbige und Verlaufsfarben von 16px-Ikonen
+## Eintönige und Verlaufsfarben von 16px-Ikonen
 
 Da Suru++ offiziell kompatibel ist mit dem [Oomox](https://github.com/themix-project/oomox) von [@actionless](https://github.com/actionless) und meinem Plugin [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) mit der Hilfe und dem Beitrag von [@actionless](https://github.com/actionless) und [@SmartFinn](https://github.com/SmartFinn), kannst du eine von 9 Cyberpunk-Farbverläufen wählen oder jede Farbe aller 16px-Ikonen ändern oder auch den Farbverlauf von 16px-Ikonen für immer aktivieren!
 

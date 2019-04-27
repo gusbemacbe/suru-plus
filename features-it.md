@@ -5,7 +5,7 @@
   - [Distinzione dei gestori di file](#distinzione-dei-gestori-di-file)
   - [Cartelle esclusive e speciali](#cartelle-esclusive-e-speciali)
   - [Giochi di Steam](#giochi-di-steam)
-  - [Colori solidi e sfumati di icone di 16px](#colori-solidi-e-sfumati-di-icone-di-16px)
+  - [Colori e sfumature delle icone da 16px](#colori-e-sfumature-delle-icone-da-16px)
   - [Icone alternative](#icone-alternative)
     - [Applicazioni](#applicazioni)
     - [Tipi di file multimediali](#tipi-di-file-multimediali)
@@ -64,11 +64,11 @@ Le icone di centinaia di giochi di Steam sono supportate ufficialmente:
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Colori solidi e sfumati di icone di 16px
+## Colori e sfumature delle icone da 16px
 
-Come Suru++ è ufficialmente compatibile con l’[Oomox](https://github.com/themix-project/oomox) del [@actionless](https://github.com/actionless) e il mio *plugin* [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) con l'aiuto e il contributo di [@actionless](https://github.com/actionless) e [@SmartFinn](https://github.com)/SmartFinn), puoi scegliere uno dei 9 colori sfumati *cyberpunk* o cambiare il colore di tutte le icone di 16px o abilitare il gradiente delle icone di 16px una volta per tutte!
+Essendo Suru++ ufficialmente compatibile con [Oomox](https://github.com/themix-project/oomox) di [@actionless](https://github.com/actionless) ed il mio *plugin* [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) grazie all'aiuto e alla collaborazione di [@actionless](https://github.com/actionless) e [@SmartFinn](https://github.com/SmartFinn), è possibile scegliere una fra 9 sfumature *cyberpunk* o cambiare uno qualsiasi dei colori di tutte le icone da 16px o abilitare la sfumatura per tutte le icone da 16px assieme!
 
-Nella versione 30, come Suru++ è compatibile con il [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) del [@Roboron3042](https://github.com/Roboron3042), ha aggiunto la nuova sfumatura con i colori di Cyberpunk Neon!
+Nella versione 30, essendo Suru++ compatibile con [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) di [@Roboron3042](https://github.com/Roboron3042), ha ottenuto la nuova sfumatura con i colori di Cyberpunk Neon!
 
 <p align="center">
     <img src="images/previews/preview7.svg?sanitize=true" alt="16 icons colours">
