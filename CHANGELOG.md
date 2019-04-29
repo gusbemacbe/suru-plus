@@ -1,8 +1,21 @@
 # v30.0 Barcelona
 
+* Renamed `scalable` to `64` to make Suru++ Folders compatible with both Suru++ 30 and Suru++ Ubuntu;
 * Added GNOME PDF and DeVeDe symlinks (#113);
+* Added missed Notion icon (#114)
+* Added missed RMLint icon (#118)
 * Added Pocket Casts, designed by [Jonas Gierer](https://github.com/jgierer12) (#119);
+* Added missed the icon `audio-card-usb` (#120);
+* Added Comics Book (#123) and added new 350 mimetypes icons;
+* Fixed wrong Transmission 16px icon (#124)
 * Added Onionshare and Ophcrack icons;
+* Added more than 38 Papirus apps icons;
+* Added missed Insync icons of `actions` and `status`;
+* Added missed VSCode Live Share icons;
+* Added new wb apps icons: Grindr, Hornet, Tinder and XDA Developers;
+* Added support for Wine apps icons: Affinity Designer and BCompare;
+* Added Affinity Designer mimetypes;
+* Added new alternative icons following: Comics Book (mimetype icon), Icons/GTK/Plasma Theme (mimetype icon), Sublime Text and Terminal;
 * Added new colours, based on Suru++ Ubuntu colours, for folders – bordeaux, Canonical, Ubuntu and vermillion:
     
     <img alt="Suru++ Ubuntu colours" src="images/changelog/Changelog 30.0 – Suru++ Ubuntu.png" />
@@ -18,6 +31,10 @@
 * Added new gradient colours of [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) for 16px icons and folders:
 
     <img alt="Folders with Cyberpunk Neon colours" src="images/changelog/Changelog 30.0 – Cyberpunk Neon.png" />
+
+* Added new exclusive and special folders in homage to April, the month of astronomy, astronauts, aerospace engineering, cosmology, first image of black hole and the film Avengers: Endgame:
+
+    <img alt="Exclusive and special folders" src="images/previews/preview5.png" />
 
 # v25.3.0 or XXV.3.0 Aalst
 
