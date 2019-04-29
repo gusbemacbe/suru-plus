@@ -23,7 +23,7 @@
 <img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> <a href="features-it.md"> – Conosci i nuovi aspetti!<br/>
 <img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> <a href="features-nl.md"> – Weet de nieuwe eigenschappen!<br/>
 <img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> <a href="features-pt-br.md"> – Venha conhecer novas funções!<br/>
-<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> <a href="features-pt-br.md"> – Conhece novas funções!<br/>
+<img align="top" alt="Português europeu" height="20px" title="Português europeu" src="images/flags/português-europeu.png"> <a href="features-pt-eu.md"> – Conhece novas funções!<br/>
 
 #### <a href="https://github.com/gusbemacbe/suru-plus/wiki">Wiki</a>
 

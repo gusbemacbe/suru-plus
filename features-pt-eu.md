@@ -1,84 +1,84 @@
-- [Features](#features)
-  - [Apps Icons Redesign](#apps-icons-redesign)
-  - [Mimetypes Icons Redesign](#mimetypes-icons-redesign)
-  - [Folders redesign and new colours](#folders-redesign-and-new-colours)
-  - [Distinction of File Managers](#distinction-of-file-managers)
-  - [Exclusive and Special Folders](#exclusive-and-special-folders)
-  - [Steam Games](#steam-games)
-  - [Solid and Gradient Colours of 16px icons](#solid-and-gradient-colours-of-16px-icons)
-  - [Alternative icons](#alternative-icons)
-    - [Apps](#apps)
-    - [Mimetypes](#mimetypes)
+- [Funções](#funções)
+  - [Redesenho de ícones de aplicações](#redesenho-de-ícones-de-aplicações)
+  - [Redesenho de ícones de tipos de ficheiros de média](#redesenho-de-ícones-de-tipos-de-ficheiros-de-média)
+  - [Redesenho de directórios com novas cores](#redesenho-de-directórios-com-novas-cores)
+  - [Distinção dos gestores de ficheiros](#distinção-dos-gestores-de-ficheiros)
+  - [Directórios exclusivos e especiais](#directórios-exclusivos-e-especiais)
+  - [Jogos do Steam](#jogos-do-steam)
+  - [Cores sólidas e dos gradientes dos ícones de 16px](#cores-sólidas-e-dos-gradientes-dos-ícones-de-16px)
+  - [Ícones alternativos](#Ícones-alternativos)
+    - [Aplicações](#aplicações)
+    - [Tipos de ficheiro de média](#tipos-de-ficheiro-de-média)
 
-# Features
+# Funções
 
-Dismiss the conservatism and the traditionalism of original Suru icons, designed by Andrea Bonanni and Sam Hewitt, drive a Millennium Falcon, USS Discovery/Enterprise or The Milano, travel to 30th century, or 3000s or 3-4th millennium and greet the cyberpunkism, futurism and modernism!
+Abdica-te do conservadorismo e o tradicionalismo dos ícones do Suru originais, desenhados por Andrea Bonanni e Sam Hewitt, conduze uma Millennium Falcon, USS Discovery/Enterprise ou The Milano, viaja para o século 30, ou anos 3000 ou 3-4º milênio e saúda o cyberpunkismo, futurismo e modernismo!
 
-## Apps Icons Redesign
+## Redesenho de ícones de aplicações
 
-Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Bonandry">@Bonandry</a>’s <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, with Papirus style and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
+A seguir as regras das grades de Sam Hewitt, e tornando os ícones do <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> do <a href="https://github.com/Bonandry">@Bonandry</a> menos conservadores e tradicionais, mais de 15 mil ícones foram redesenhados, com o estilo do Papirus e melhorados com novas cores *cyberpunk* e tornaram-se compatíveis com o KDE, XFCE e outros ambientes gráficos! Vê os novos ícones abaixo:
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
 </p>
 
-## Mimetypes Icons Redesign
+## Redesenho de ícones de tipos de ficheiros de média
 
-Based on Numix and Papirus mimetype icons. As I have promised you that I was going to redesign the mimetype icons during the version 20 and 25. Finally, in the latest version, i.e, 30, I redesigned the mimetype icons! With colourful icons, it is easy to identify the archive, file and image by extension!
+Baseado nos ícones do tipo de ficheiro de média dos temas Numix e Papirus. Como eu vos prometi que eu redesenhava os ícones do tipo de ficheiro de média durante as versões 20 e 25. Finalmente, na versão mais recente, ou seja, 30, eu redesenhei os ícones do tipo de ficheiro de média! Com ícones coloridos, é fácil identificares o ficheiro, documento e imagem por meio da extensão!
 
 <p align="center">
   <img alt="Mimetypes" width="465px" src="images/previews/preview2.svg?sanitize=true">
 </p>
 
-## Folders redesign and new colours
+## Redesenho de directórios com novas cores
 
-The new versions have won new colours of folders, based by Alexey Varfolomeev’s Papirus. In the version 25.0, it won new folders with colour of Linux Mint. In the version 25.2.0, more three folders colours — indigo, pink and Manjaro-coloured. Finally, in the version 30, it officially supports gradients and won more new colours, 90s Summer, Aurora and FitDance. Based on Suru++ Ubuntu, new colours: bordeaux, Canonical, Disco Dingo, Ubuntu and vermilion. With totally compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won new folders with colours of Cyberpunk Neon!
+As novas versões receberam novas cores de directórios, baseadas no Papirus do Alexey Varfolomeev. Na versão 25.0, recebeu novas directórios com cor do Linux Mint. Na versão 25.2.0, três cores de directórios foram aderidas — índigo, rosa e cor do Manjaro Linux. Finalmente, na versão 30, ele é compatível oficialmente com gradientes e recebeu mais novas cores — Verão 90s, Aurora e FitDance. Baseado no Suru++ Ubuntu, mais novas cores aderidas: cor de vinho de Bordéus e de vermelhão, e cores de Canonical, Disco Dingo e Ubuntu. Com a compatibilidade total com o tema [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) do [@Roboron3042](https://github.com/Roboron3042), recebeu novos directórios com cores do Cyberpunk Neon!
 
-As Suru++ is officially compatible with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox), you can change any colour of all folders once and for all!
+Como o Suru++ é oficialmente compatível com o [Oomox](https://github.com/themix-project/oomox) do [@actionless](https://github.com/actionless), podes modificar qualquer cor de todos os directórios de uma vez por todas!
 
 <p align="center">
   <img alt="Folders" src="images/previews/preview3.svg?sanitize=true">
 </p>
 
-## Distinction of File Managers
+## Distinção dos gestores de ficheiros
 
-The file managers are no longer same, now you can distinguish the file managers easily, with different, modern and new colours!
+Os gestores de ficheiros não são mais mesmos, agora podes reconhecer facilmente os gerenciadores de ficheiros, com cores diferentes, modernas e novas!
 
 <p align="center">
   <img alt="File Managers" src="images/previews/preview4.svg?sanitize=true">
 </p>
 
-## Exclusive and Special Folders
+## Directórios exclusivos e especiais
 
-Not just cyberpunkism and futurism, are you also fan of sci-fi series and films and of astronomy and aerospace engineering, and of Tesla? In the version 30, April is the month of international holidays of astronauts, astronomy, aerospace engineering, cosmology, first image of black hole and of tribute to the film Avengers: Endgame! Here is:
+Não apenas cyberpunkismo e futurismo, também és amante de séries e filmes de ficção científica, de astronomia e engenharia aeroespacial, e de Tesla? Na versão 30, abril é o mês de dias internacionais de astronautas, astronomia, engenharia aeroespacial, cosmologia, primeira imagem de buraco negro e de homenagem ao filme Avengers: Ultimato! Ei-los:
 
 <p align="center">
   <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">
 </p>
 
-## Steam Games
+## Jogos do Steam
 
-Hundreds Steam games icons are supported officially:
+Centenas de ícones de jogos do Steam são suportados oficialmente:
 
 <p align="center">
     <img src="images/previews/preview6.png" alt="Games" height="450px">
 </p>
 
-## Solid and Gradient Colours of 16px icons
+## Cores sólidas e dos gradientes dos ícones de 16px
 
-As Suru++ is officially compatible with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), you can choose one of 9 cyberpunk gradient colours or change any colour of all 16px icons or enable the gradient of 16px icons once for all!
+Como o Suru++ é oficialmente compatível com o [Oomox][https://github.com/themix-project/oomox] do [@actionless](https://github.com/actionless) e o meu *plugin* [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) com a ajuda e a contribuição do [@actionless](https://github.com/actionless) e do [@SmartFinn](https://github.com/SmartFinn), podes escolher uma das 9 cores do gradiente *cyberpunk* ou modificar qualquer cor de todos os ícones de 16px ou habilitar o gradiente de ícones de 16px duma vez por todas!
 
-In the version 30, as Suru++ is compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won the new gradient with colours of Cyberpunk Neon!
+Na versão 30, como Suru++ é compatível com o tema [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) do [@Roboron3042](https://github.com/Roboron3042), o tema recebeu o novo gradiente com cores do Cyberpunk Neon!
 
 <p align="center">
     <img src="images/previews/preview7.svg?sanitize=true" alt="16 icons colours">
 </p>
 
-## Alternative icons
+## Ícones alternativos
 
-The most of the icons of session and user were redesigned by [@darcn181](https://github.com/darcn181). In the versions 25 and 30, more and more new alternative icons! You can choose one of alternatives: 
+A maioria dos ícones de sessão e utilizador foram redesenhados por [@darcn181](https://github.com/darcn181). Nas versões 25 e 30, diversos novos ícones alternativos foram aderidos! Podes escolher um dos alternativos:
 
-### Apps 
+### Aplicações 
 
 <table style="undefined; table-layout: fixed; width: 600px">
   <colgroup>
@@ -86,8 +86,8 @@ The most of the icons of session and user were redesigned by [@darcn181](https:/
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>official icon<br></th>
-    <th>alternative icons</th>
+    <th>ícone oficial<br></th>
+    <th>ícones alternativos</th>
   </tr>
 
   <tr><td rowspan="2">cs-overview.svg</td>
@@ -200,7 +200,7 @@ The most of the icons of session and user were redesigned by [@darcn181](https:/
   <tr><td><img align="middle" height="64px" src="images/alternatives/user/user-alt5.svg"> user-alt5.svg</td></tr>
 </table>
 
-### Mimetypes
+### Tipos de ficheiro de média
 
 <table style="undefined; table-layout: fixed; width: 600px">
   <colgroup>
@@ -208,8 +208,8 @@ The most of the icons of session and user were redesigned by [@darcn181](https:/
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>official icon<br></th>
-    <th>alternative icons</th>
+    <th>ícone oficial<br></th>
+    <th>ícones alternativos</th>
   </tr>
 
   <tr><td rowspan="4">comics-book.svg</td>
