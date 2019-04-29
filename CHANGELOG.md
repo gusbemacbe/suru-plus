@@ -12,7 +12,7 @@
 * Added more than 38 Papirus apps icons;
 * Added missed Insync icons of `actions` and `status`;
 * Added missed VSCode Live Share icons;
-* Added new wb apps icons: Grindr, Hornet, Tinder and XDA Developers;
+* Added new web apps icons: Grindr, Hornet, Tinder and XDA Developers;
 * Added support for Wine apps icons: Affinity Designer and BCompare;
 * Added Affinity Designer mimetypes;
 * Added new alternative icons following: Comics Book (mimetype icon), Icons/GTK/Plasma Theme (mimetype icon), Sublime Text and Terminal;
