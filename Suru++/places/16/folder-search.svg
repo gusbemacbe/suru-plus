@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
  <g transform="translate(-352 -80)">
   <path fill="currentColor" class="ColorScheme-Text" d="M355.994 81c-1.258.015-2.179-.029-2.932.387a1.878 1.878 0 0 0-.84.996c-.164.438-.222.96-.222 1.617v8c0 .658.058 1.179.223 1.617.164.439.463.79.84.998.526.29 1.188.342 1.937.36l1 .025v-1l-1-.04c-.666-.031-1.204-.084-1.453-.222-.184-.1-.29-.212-.387-.472-.097-.26-.16-.674-.16-1.266v-8c0-.592.063-1.006.16-1.266.098-.26.203-.371.387-.472.367-.203 1.195-.247 2.459-.262h2.53l2.02 2h3.436c1.264.015 2.092.06 2.46.262.183.1.288.212.386.472.098.26.162.674.162 1.266v6h1v-6c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.837-.998c-.753-.416-1.674-.37-2.932-.385H360.967l-2.022-2h-2.949z" overflow="visible"/>

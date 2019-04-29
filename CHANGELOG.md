@@ -1,3 +1,71 @@
+# v30.0 Barcelona
+
+* Renamed `scalable` to `64` to make Suru++ Folders compatible with both Suru++ 30 and Suru++ Ubuntu;
+* Added GNOME PDF and DeVeDe symlinks (#113);
+* Added missed Notion icon (#114)
+* Added missed RMLint icon (#118)
+* Added Pocket Casts, designed by [Jonas Gierer](https://github.com/jgierer12) (#119);
+* Added missed the icon `audio-card-usb` (#120);
+* Added Comics Book (#123) and added new 350 mimetypes icons;
+* Fixed wrong Transmission 16px icon (#124)
+* Added Onionshare and Ophcrack icons;
+* Added more than 38 Papirus apps icons;
+* Added missed Insync icons of `actions` and `status`;
+* Added missed VSCode Live Share icons;
+* Added new web apps icons: Grindr, Hornet, Tinder and XDA Developers;
+* Added support for Wine apps icons: Affinity Designer and BCompare;
+* Added Affinity Designer mimetypes;
+* Added new alternative icons following: Comics Book (mimetype icon), Icons/GTK/Plasma Theme (mimetype icon), Sublime Text and Terminal;
+* Added new colours, based on Suru++ Ubuntu colours, for folders – bordeaux, Canonical, Ubuntu and vermillion:
+    
+    <img alt="Suru++ Ubuntu colours" src="images/changelog/Changelog 30.0 – Suru++ Ubuntu.png" />
+
+* Added new gradients based on gradients colours of 16px icons for folders – 90s Summer, Aurora and FitDance:
+
+    <img alt="Suru++ 25 16px icons gradients colours" src="images/changelog/Changelog 30.0 – Suru++ 25.png" />
+
+* Added new folders colours inspired by Ubuntu 19.04 Disco Dingo:
+
+    <img alt="Folders with Disco Dingo colours" src="images/changelog/Changelog 30.0 – Disco Dingo.png" />
+
+* Added new gradient colours of [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) for 16px icons and folders:
+
+    <img alt="Folders with Cyberpunk Neon colours" src="images/changelog/Changelog 30.0 – Cyberpunk Neon.png" />
+
+* Added new exclusive and special folders in homage to April, the month of astronomy, astronauts, aerospace engineering, cosmology, first image of black hole and the film Avengers: Endgame:
+
+    <img alt="Exclusive and special folders" src="images/previews/preview5.png" />
+
+# v25.3.0 or XXV.3.0 Aalst
+
+* Added new icons:
+  * Alva
+  * Cronopete
+  * Dockstation
+  * Edex
+  * elCalc
+  * elementary OS
+  * Figma
+  * Google Web Designer
+  * Optimizer
+  * Listen1 (#108)
+  * Lyrics
+  * VNote (#108)
+
+    <img width="288" alt="new icons of Suru++ 25.3" src="https://user-images.githubusercontent.com/2257024/54568524-3dba3600-49b6-11e9-9fe4-cdc490c1e6f9.png">
+
+* Added new icons with two alternatives, designed by @iLynux8888:
+
+  <img width="288" alt="blake" src="https://user-images.githubusercontent.com/2257024/54568995-1a908600-49b8-11e9-9f0a-71377b52e98e.png">
+
+* Added new GNOME 3.32 icons;
+* Added new missed symlinked icons of AppImage apps;
+* Created eSuru++ for supporting elementary OS, suggested by [@Chamrosh](https://github.com/Chamrosh) (#105);
+* Created Suru++ Light for supporting XFCE light panel, suggested by [@sptndc](https://github.com/sptndc) (#107);
+* Fixed `folder-saved-search.svg`'s wrong icon of elementary OS Code app in eSuru++ (#109);
+* Improved the `color-picker.svg`, suggested by [@Bonandry](https://github.com/Bonandry);
+* Improved the 16px `color-picker-black.svg` to be legible, suggested by [@roachsinai](https://gihtub.com/roachsinai). 
+
 # v25.2.0 or XXV.2.0 – Nantes
 
 * **Gradient support for small icons:** I added gradient support for all 16px icons of folders apps, categories, devices, mimetypes and places and made it compatible with Oomox and you can change two  gradient colours with any colours you want! I have inaugurated [Suru++ Colourise](/gusbemacbe/suru-plus-colourise) with the help and contribution of [@actionless](/actionless) and [@SmartFinn](/SmartFinn), allowing you to choose and change one of 9 interesting and cyberpunk gradient colours!

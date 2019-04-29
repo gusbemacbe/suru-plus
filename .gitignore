@@ -10,4 +10,5 @@
 **/.directory
 \.icon-theme\.cache
 
-\.vscode/
+# HTML pages exported by the stupid extension Markdown
+*.html

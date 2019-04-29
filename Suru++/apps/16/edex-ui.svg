@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4.44366 9.16206H14.3334V2.68157L11.5519 0H3.78145L1 2.68157V13.1397L3.78145 16H11.9934L14.3334 13.6313V10.324H10.8896V12.2011L10.3157 12.8715H5.41497L4.44366 11.8882V9.16206ZM4.44366 6.16754H10.8896V3.79888L9.96251 2.90503H5.32674L4.44366 4.02234V6.16754Z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

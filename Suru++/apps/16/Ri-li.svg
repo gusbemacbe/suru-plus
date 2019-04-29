@@ -43,6 +43,10 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
  </defs>
  <path style="fill:currentColor" class="ColorScheme-Text" d="M 1.36 0 C 0.631 0 0 0.619 0 1.357 L 0 6.643 C 0 7.381 0.631 8.009 1.36 8 L 8 8 L 8 15.985 C 9.259 15.992 10.06 15.989 10.4 15.973 L 10.4 6.72 C 10.4 6.101 9.899 5.6 9.28 5.6 L 2.4 5.6 L 2.4 2.4 L 13.6 2.4 L 13.6 3.6 L 13.6 6.483 L 13.6 16 L 16 15.903 L 16 6.483 L 16 3.6 L 16 1.357 C 16 0.619 15.369 0 14.64 0 L 1.36 0 Z"/>
 </svg>
