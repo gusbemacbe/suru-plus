@@ -3,11 +3,21 @@
 * Added GNOME PDF and DeVeDe symlinks (#113);
 * Added Pocket Casts, designed by [Jonas Gierer](https://github.com/jgierer12) (#119);
 * Added Onionshare and Ophcrack icons;
-* Added new colours, based on Suru++ Ubuntu colours, for fodlers:
+* Added new colours, based on Suru++ Ubuntu colours, for folders – bordeaux, Canonical, Ubuntu and vermillion:
     
     <img alt="Suru++ Ubuntu colours" src="images/changelog/Changelog 30.0 – Suru++ Ubuntu.png" />
 
-* Added new gradients based on gradients colours of 16px icons for folders:
+* Added new gradients based on gradients colours of 16px icons for folders – 90s Summer, Aurora and FitDance:
+
+    <img alt="Suru++ 25 16px icons gradients colours" src="images/changelog/Changelog 30.0 – Suru++ 25.png" />
+
+* Added new folders colours inspired by Ubuntu 19.04 Disco Dingo:
+
+    <img alt="Folders with Disco Dingo colours" src="images/changelog/Changelog 30.0 – Disco Dingo.png" />
+
+* Added new gradient colours of [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) for 16px icons and folders:
+
+    <img alt="Folders with Cyberpunk Neon colours" src="images/changelog/Changelog 30.0 – Cyberpunk Neon.png" />
 
 # v25.3.0 or XXV.3.0 Aalst
 
