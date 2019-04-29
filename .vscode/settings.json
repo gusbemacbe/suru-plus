@@ -1,13 +1,72 @@
 {
+  "cSpell.enabled": true,
+  "cSpell.enabledLanguageIds": 
+  [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "git-rebase",
+    "go",
+    "handlebars",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "pug",
+    "python",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "shellscript",
+    "svg",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "yaml",
+    "yml"
+  ],
+  "cSpell.language": "nl,en-GB,en",
+  "cSpell.words": 
+  [
+    "actionless",
+    "Alexey",
+    "Bonandry",
+    "Bonanni",
+    "darcn",
+    "drgeo",
+    "Numix",
+    "Oomox",
+    "Papirus",
+    "Roboron",
+    "rowspan",
+    "superproductivity",
+    "Suru",
+    "Varfolomeev"
+  ],
+  "markdown.extension.print.onFileSave": false,
   "markdown.styles": 
   [
-      ".vscode/markdown-preview.css"
+    ".vscode/markdown-preview.css"
   ],
-  "spellright.language": [
+  "spellright.language": 
+  [
     "en_GB",
     "nl_NL"
   ],
-  "spellright.documentTypes": [
+  "spellright.documentTypes": 
+  [
     "css",
     "html",
     "markdown",

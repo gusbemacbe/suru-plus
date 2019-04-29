@@ -9,3 +9,6 @@
 *.directory
 **/.directory
 \.icon-theme\.cache
+
+# HTML pages exported by the stupid extension Markdown
+*.html
