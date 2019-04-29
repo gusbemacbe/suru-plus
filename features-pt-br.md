@@ -66,7 +66,7 @@ Centenas de ícones de jogos do Steam são suportados oficialmente:
 
 ## Cores sólidas e dos gradientes dos ícones de 16px
 
-Como o Suru++ é oficialmente compatível com o [Oomox][https://github.com/themix-project/oomox] do [@actionless](https://github.com/actionless) e o meu *plugin* [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) com a ajuda e a contribuição do [@actionless](https://github.com/actionless) e do [@SmartFinn](https://github.com/SmartFinn), você pode escolher uma das 9 cores do gradiente *cyberpunk* ou alterar qualquer cor de todos os ícones de 16px ou ativar o gradiente de ícones de 16px de uma vez por todas!
+Como o Suru++ é oficialmente compatível com o [Oomox](https://github.com/themix-project/oomox) do [@actionless](https://github.com/actionless) e o meu *plugin* [Suru++ Colourise](https://github.com/gusbemacbe/suru-plus-colourise) com a ajuda e a contribuição do [@actionless](https://github.com/actionless) e do [@SmartFinn](https://github.com/SmartFinn), você pode escolher uma das 9 cores do gradiente *cyberpunk* ou alterar qualquer cor de todos os ícones de 16px ou ativar o gradiente de ícones de 16px de uma vez por todas!
 
 Na versão 30, como Suru++ é compatível com o tema [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon) do [@Roboron3042](https://github.com/Roboron3042), o tema ganhou o novo gradiente com cores do Cyberpunk Neon!
 
