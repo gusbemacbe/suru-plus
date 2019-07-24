@@ -19,7 +19,7 @@
 <img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> <a href="features-de.md"> – Weiß die neuen Eigenschaften!<br/>
 <img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> <a href="features-en.md"> – Come to know new features!<br/>
 <img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> <a href="features-es.md"> – ¡Conozca las nuevas funciones!<br/>
-<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> <a href="features-fr.md"> – Connaissez les nouvelle fonctionnalités !<br/>
+<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> <a href="features-fr.md"> – Découvrez les nouvelle fonctionnalités !<br/>
 <img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> <a href="features-it.md"> – Conosci i nuovi aspetti!<br/>
 <img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> <a href="features-nl.md"> – Weet de nieuwe eigenschappen!<br/>
 <img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> <a href="features-pt-br.md"> – Venha conhecer novas funções!<br/>
@@ -30,7 +30,7 @@
 <img align="top" alt="Deutsch" height="20px" title="Deutsch" src="images/flags/deutsch.png"> Zum wie installieren, deinstallieren, Bugs überprüfen und das Ikon ânderen zu wissen, besuche die „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>“.<br/>
 <img align="top" alt="English" height="20px" title="English" src="images/flags/english-uk.png"> To know how to install, unistall, check the bugs and change the icon, visit ‘<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>’.<br/>
 <img align="top" alt="Español" height="20px" title="Español" src="images/flags/español.png"> Para sber como instalar, desinstalar, verificar los *bugs* y modificar el icono, visite la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
-<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> Pour savoir comme installer, désintaller, voir les bouges et changer l'icônes, visitez la « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».<br/>
+<img align="top" alt="Français" height="20px" title="Français" src="images/flags/français.png"> Pour savoir comment installer, désintaller, voir les bugs et changer l'icône, visitez le « <a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a> ».<br/>
 <img align="top" alt="Italiano" height="20px" title="Italiano" src="images/flags/italiano.png"> Per sapere come installare, desintallare, controllare i *bug* e modificare l'icona, visita la «<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>».<br/>
 <img align="top" alt="Nederlands" height="20px" title="Nederlands" src="images/flags/nederlands.png"> Om hoe installeren, deïnstalleren, de *bugs* controlleren en het pictogram veranderen, bezoek de „<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
 <img align="top" alt="Português brasileiro" height="20px" title="Português brasileiro" src="images/flags/português-brasileiro.png"> Para saber como instalar, desintalar, verificar os *bugs* e mudar o ícone, visite a “<a href="https://github.com/gusbemacbe/suru-plus/wiki">wiki</a>”.<br/>
